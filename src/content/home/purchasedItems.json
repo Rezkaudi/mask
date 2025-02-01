@@ -111,12 +111,6 @@
       "image": "/images_db/item10.jpg"
     },
     {
-      "id": 11,
-      "title": "油圧プレス",
-      "category": "金属加工機械。板金機械 (建築板金機械)",
-      "image": "/images_db/item11.jpg"
-    },
-    {
       "id": 12,
       "title": "整備用ジャッキ",
       "category": "自動車整備機械。自動車板金機械",
@@ -1189,6 +1183,113 @@
       "title": "Anritsu★コンベア式 金属検出機 金属探知機★ ★スーパーメポリⅡ★KD8013AW★ベルト交換済み 取説付",
       "category": "その他の買取対応",
       "image": "/images_db/item190.jpg"
+    },  {
+      "id": 191,
+      "title": "電動油圧ユニット",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item191.png"
+    },
+    {
+      "id": 192,
+      "title": "鉄筋切断機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item192.jpg"
+    },
+    {
+      "id": 193,
+      "title": "紐出しロール",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item193.jpg"
+    },
+    {
+      "id": 194,
+      "title": "油圧プレス",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item194.jpg"
+    },
+    {
+      "id": 195,
+      "title": "油圧パンチャー",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item195.jpg"
+    },
+    {
+      "id": 196,
+      "title": "板金切断機（ロータリーシャ）",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item196.jpg"
+    },
+    {
+      "id": 197,
+      "title": "折り曲げ機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item197.jpg"
+    },
+    {
+      "id": 198,
+      "title": "半自動圧着機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item198.jpg"
+    },
+    {
+      "id": 199,
+      "title": "切断機 (シャーリング)",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item199.jpg"
+    },
+    {
+      "id": 200,
+      "title": "三本ロール(ベンディングロール)",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item200.jpg"
+    },
+    {
+      "id": 201,
+      "title": "ロール成形機.ハゼ折り機 .共板成形機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item201.jpg"
+    },
+    {
+      "id": 202,
+      "title": "メタルソー",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item202.png"
+    },
+    {
+      "id": 203,
+      "title": "マルチワーカー. アングル加工機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item203.png"
+    },
+    {
+      "id": 204,
+      "title": "ベルトグラインダー",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item204.jpg"
+    },
+    {
+      "id": 205,
+      "title": "プラズマ切断機",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item205.jpeg"
+    },
+    {
+      "id": 206,
+      "title": "バーベンダー . パイプベンダー. 鉄筋ベンダー",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item206.png"
+    },
+    {
+      "id": 207,
+      "title": "スリッター",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item207.jpg"
+    },
+    {
+      "id": 208,
+      "title": "コンターマシン",
+      "category": "金属加工機械。板金機械 (建築板金機械)",
+      "image": "/images_db/item208.jpg"
     }
   ]
 }
