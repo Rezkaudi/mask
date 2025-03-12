@@ -1,11 +1,37 @@
 "use client";
+
+import Image from "next/image";
+import PrivacyPolicy from "@/components/pages/home/components/PrivacyPolicy";
+import { useFormHandler } from "@/hooks/useFormHandler";
+
+// import fields
 import RadioGroup from "../../pages/home/components/RadioGroup";
 import InputField from "../../pages/home/components/InputField";
 import SelectField from "../../pages/home/components/SelectField";
 import ImageUpload from "../../pages/home/components/ImageUpload";
-import Image from "next/image";
-import { useFormHandler } from "@/hooks/useFormHandler";
-import PrivacyPolicy from "@/components/pages/home/components/PrivacyPolicy";
+
+// import options
+import usageOptions from "@/content/home/usageOptions";
+import japanRegions from "@/content/home/japanRegions";
+import conditionOptions from "@/content/home/conditionOptions";
+import confirmationOptions from "@/content/home/confirmationOptions";
+
+import { Product } from "@/types/formData.type";
+
+const MAX_PRODUCTS = 3;
+
+const AddProductButton = ({
+  addProduct,
+  productsList,
+}: {
+  addProduct: () => void;
+  productsList: Product[];
+}) =>
+  productsList.length < MAX_PRODUCTS && (
+    <button type="button" onClick={addProduct}>
+      ＋商品追加
+    </button>
+  );
 
 const Inquiry = () => {
   const {
@@ -23,7 +49,7 @@ const Inquiry = () => {
     setClick,
   } = useFormHandler();
 
-  const numberOfProduct = 3;
+  const isDisabled = isSubmitting || !agreePrivacy;
 
   return (
     <section
@@ -39,6 +65,7 @@ const Inquiry = () => {
           営業目的での利用はお断りします
         </p>
       </div>
+
       <form
         className="space-y-6 max-w-[900px] md:mx-auto"
         onSubmit={handleSubmit}
@@ -82,10 +109,7 @@ const Inquiry = () => {
           onChange={handleInputChange}
           click={click}
           setClick={setClick}
-          options={[
-            { value: "allow_phone_call", label: "はい" },
-            { value: "disallow_phone_call", label: "いいえ" },
-          ]}
+          options={confirmationOptions}
         />
         <RadioGroup
           name="usageType"
@@ -95,10 +119,7 @@ const Inquiry = () => {
           value={formData.usageType}
           click={click}
           setClick={setClick}
-          options={[
-            { value: "business", label: "事業（個人事業者または法人)" },
-            { value: "personal", label: "個人で使用" },
-          ]}
+          options={usageOptions}
           onChange={handleInputChange}
         />
         <RadioGroup
@@ -110,10 +131,7 @@ const Inquiry = () => {
           onChange={handleInputChange}
           click={click}
           setClick={setClick}
-          options={[
-            { value: "registered", label: "はい" },
-            { value: "not_registered", label: "いいえ" },
-          ]}
+          options={confirmationOptions}
         />
         <RadioGroup
           name="provideRegistrationNumber"
@@ -124,11 +142,9 @@ const Inquiry = () => {
           onChange={handleInputChange}
           click={click}
           setClick={setClick}
-          options={[
-            { value: "will_provide", label: "はい" },
-            { value: "will_not_provide", label: "いいえ" },
-          ]}
+          options={confirmationOptions}
         />
+
         {/* Select Fields */}
         <SelectField
           id="city"
@@ -136,56 +152,7 @@ const Inquiry = () => {
           label="都道府県"
           required
           value={formData.city}
-          options={[
-            { value: "not_selected", label: "選択してください" },
-            { value: "hokkaido", label: "北海道" },
-            { value: "aomori", label: "青森県" },
-            { value: "iwate", label: "岩手県" },
-            { value: "miyagi", label: "宮城県" },
-            { value: "akita", label: "秋田県" },
-            { value: "yamagata", label: "山形県" },
-            { value: "fukushima", label: "福島県" },
-            { value: "ibaraki", label: "茨城県" },
-            { value: "tochigi", label: "栃木県" },
-            { value: "gunma", label: "群馬県" },
-            { value: "saitama", label: "埼玉県" },
-            { value: "chiba", label: "千葉県" },
-            { value: "tokyo", label: "東京都" },
-            { value: "kanagawa", label: "神奈川県" },
-            { value: "niigata", label: "新潟県" },
-            { value: "toyama", label: "富山県" },
-            { value: "ishikawa", label: "石川県" },
-            { value: "fukui", label: "福井県" },
-            { value: "yamanashi", label: "山梨県" },
-            { value: "nagano", label: "長野県" },
-            { value: "gifu", label: "岐阜県" },
-            { value: "shizuoka", label: "静岡県" },
-            { value: "aichi", label: "愛知県" },
-            { value: "mie", label: "三重県" },
-            { value: "shiga", label: "滋賀県" },
-            { value: "kyoto", label: "京都府" },
-            { value: "osaka", label: "大阪府" },
-            { value: "hyogo", label: "兵庫県" },
-            { value: "nara", label: "奈良県" },
-            { value: "wakayama", label: "和歌山県" },
-            { value: "tottori", label: "鳥取県" },
-            { value: "shimane", label: "島根県" },
-            { value: "okayama", label: "岡山県" },
-            { value: "hiroshima", label: "広島県" },
-            { value: "yamaguchi", label: "山口県" },
-            { value: "tokushima", label: "徳島県" },
-            { value: "kagawa", label: "香川県" },
-            { value: "ehime", label: "愛媛県" },
-            { value: "kochi", label: "高知県" },
-            { value: "fukuoka", label: "福岡県" },
-            { value: "saga", label: "佐賀県" },
-            { value: "nagasaki", label: "長崎県" },
-            { value: "kumamoto", label: "熊本県" },
-            { value: "ooita", label: "大分県" },
-            { value: "miyazaki", label: "宮崎県" },
-            { value: "kagoshima", label: "鹿児島県" },
-            { value: "okinawa", label: "沖縄県" },
-          ]}
+          options={japanRegions}
           onChange={handleInputChange}
         />
         <InputField
@@ -197,8 +164,9 @@ const Inquiry = () => {
           value={formData.product_info}
           onChange={handleInputChange}
         />
-        {/* products list */}
-        {formData.productsList.map((item, index) => (
+
+        {/* Products List */}
+        {formData.productsList.map((product, index) => (
           <div key={index} className="bg-[#fcf7f7] px-1 py-2 border">
             {index !== 0 && (
               <button
@@ -223,43 +191,34 @@ const Inquiry = () => {
               label="査定希望商品のメーカー名、型番"
               placeholder="(例:リョービ電ノコ(ASK-1000)動作)"
               required
-              value={item.product_details}
+              value={product.product_details}
               onChange={(e) => handleProductInputChange(e, index)}
             />
+
             <SelectField
               id={`productCondition-${index}`}
               name="product_condition"
               label="状態を選択してください"
-              required={true}
-              value={item.product_condition}
+              required
+              value={product.product_condition}
               onChange={(e) => handleProductInputChange(e, index)}
-              options={[
-                { value: "not_selected", label: "選択してください" },
-                { value: "unused", label: "未使用品" },
-                { value: "excellent", label: "極上美品" },
-                { value: "good", label: "美品" },
-                { value: "used", label: "中古なり" },
-                { value: "damaged", label: "キズ汚れ破損あり" },
-                { value: "junk", label: "ジャンク" },
-                { value: "scrap", label: "スクラップ" },
-              ]}
+              options={conditionOptions}
             />
-            {/* Image Upload */}
+
             <ImageUpload
               label="買取商品の写真があればこちらに添付してください。"
               setImages={handleImageChange}
-              images={item.images ?? new Array(3).fill(null)}
+              images={product.images ?? new Array(3).fill(null)}
               productIndex={index}
             />
           </div>
         ))}
 
-        {/* add product btn */}
-        {formData.productsList.length < numberOfProduct && (
-          <button type="button" onClick={addProduct}>
-            ＋商品追加
-          </button>
-        )}
+        {/* Add Product Button */}
+        <AddProductButton
+          addProduct={addProduct}
+          productsList={formData.productsList}
+        />
 
         {/* Textarea */}
         <textarea
@@ -271,24 +230,22 @@ const Inquiry = () => {
           onChange={handleInputChange}
         />
 
+        {/* Privacy Policy */}
         <PrivacyPolicy
           setAgreePrivacy={setAgreePrivacy}
           agreePrivacy={agreePrivacy}
         />
 
+        {/* Submit Button */}
         <button
-          disabled={isSubmitting || !agreePrivacy}
+          disabled={isDisabled}
           type="submit"
-          className={`w-[90%] lg:w-[60%] py-[12px] mx-auto text-[24px] leading-[36px] 
-            text-center text-white font-black rounded flex items-start justify-center 
-            gap-x-4 gradient-red ${
-              isSubmitting || !agreePrivacy
-                ? "opacity-50 cursor-not-allowed"
-                : ""
-            }`}
+          className={`w-[90%] lg:w-[60%] py-[12px] mx-auto text-[24px] leading-[36px] text-center text-white font-black rounded flex items-start justify-center gap-x-4 gradient-red ${
+            isDisabled ? "opacity-50 cursor-not-allowed" : ""
+          }`}
           onClick={() => setClick(true)}
         >
-          {isSubmitting === true ? (
+          {isSubmitting ? (
             "送信..."
           ) : (
             <>
