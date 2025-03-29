@@ -8,7 +8,6 @@ export type TFormData = {
   provideRegistrationNumber: string;
   city: string;
   product_info: string;
-  inquiry_source: string;
   productsList: Product[]
   additional_notes: string;
 };

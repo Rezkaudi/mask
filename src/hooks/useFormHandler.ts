@@ -24,7 +24,6 @@ const initialFormData: TFormData = {
   provideRegistrationNumber: "",
   city: "",
   product_info: "",
-  inquiry_source: "",
   productsList: [
     {
       product_details: "",
@@ -139,6 +138,7 @@ export const useFormHandler = () => {
         );
       }
       setFormData(initialFormData);
+
       setAgreePrivacy(false);
       Swal.close();
       await Swal.fire({
