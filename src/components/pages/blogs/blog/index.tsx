@@ -34,6 +34,8 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
             <span>{data.title}</span>
           </div>
           <div className=" bg-white px-4 lg:px-24 py-[60px] space-y-9 lg:space-y-12">
+            <span className="text-[#B81122] font-black text-sm text-right block">{data.date}</span>
+
             <h1 className="font-black text-xl lg:text-[32px] leading-[48px]">
               {data.title}
             </h1>

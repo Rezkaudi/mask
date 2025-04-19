@@ -24,6 +24,7 @@ const BlogsPost = () => {
               title={blog.title}
               imageSrc={blog.imageSrc}
               description={blog.description}
+              date={blog.date}
             />
           ))}
       </div>

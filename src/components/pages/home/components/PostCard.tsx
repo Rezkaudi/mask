@@ -6,6 +6,7 @@ interface IPostCardProps {
   imageSrc: string;
   description: string;
   className?: string;
+  date: string
 }
 
 const PostCard = ({
@@ -13,6 +14,7 @@ const PostCard = ({
   imageSrc,
   description,
   className,
+  date,
 }: IPostCardProps) => {
   return (
     <Link href={`/blogs/${title}`} className={`w-[325px] ${className}`}>
@@ -29,6 +31,7 @@ const PostCard = ({
         {title}
       </h3>
       <p className="text-[16px] leading-[32px] line-clamp-2" dangerouslySetInnerHTML={{ __html: description }} />
+      <span className="text-[#B81122] font-black text-sm">{date}</span>
     </Link>
   );
 };

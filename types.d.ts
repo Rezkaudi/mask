@@ -57,6 +57,7 @@ type BlogSubContent = SimpleContent | FAQContent | ImageContent | ListContent | 
 interface BlogPost {
     id: string;
     title: string;
+    date: string
     imageSrc: string;
     description: string;
     metaDescription: string;

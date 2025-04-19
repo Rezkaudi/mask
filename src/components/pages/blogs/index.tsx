@@ -33,6 +33,7 @@ const Index = () => {
                 title={item.title}
                 imageSrc={item.imageSrc}
                 description={item.description}
+                date={item.date}
               />
             ))}
           </div>
