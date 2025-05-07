@@ -17,26 +17,26 @@
     },
     {
       "id": 3,
+      "title": "スポット溶接機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/スポット溶接機.jpg",
+      "category": "自動車整備機械"
+    },
+    {
+      "id": 4,
       "title": "Snap-on スナップオン . 工具",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/Snap-on スナップオン。自動車整備工具.jpg",
       "category": "自動車整備機械"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "オイルチェンジャー",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/オイルチェンジャー.jpg",
       "category": "自動車整備機械"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "サンドブラスト機",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/サンドブラスト機.jpg",
-      "category": "自動車整備機械"
-    },
-    {
-      "id": 6,
-      "title": "スポット溶接機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/スポット溶接機.jpg",
       "category": "自動車整備機械"
     },
     {

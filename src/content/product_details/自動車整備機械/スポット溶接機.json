@@ -1,0 +1,167 @@
+{
+  "id": 3,
+  "title": "スポット溶接機",
+  "subTitle": "タイヤチェンジャーとは？",
+  "description": "タイヤチェンジャーは、自動車やバイクのタイヤをホイールから取り外したり、取り付けたりするための専用機械です。スムーズなタイヤ交換を可能にし、作業効率や安全性の向上に貢献します。",
+  "category": "自動車整備機械",
+  "servicesTitle": "中古タイヤチェンジャーの買取サービス",
+  "purchaseeProductTitle": "の買取実績",
+  "servicesDescription": "お使いにならなくなったタイヤチェンジャーをお持ちですか？\nハディズでは、あらゆる種類の中古タイヤチェンジャーを買取しています。大型機械の搬出も、経験豊富なスタッフにお任せください。正当な価格査定、迅速なお支払いをお約束します。",
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "タイヤチェンジャーがボルトで地面に固定されていますが、問題ありませんか？",
+      "answer": "はい、問題ありません。必要な工具を持参し、当社のスタッフが取り外し作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "事前に準備しておくことはありますか？",
+      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
+    },
+    {
+      "id": 4,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 5,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    }
+  ],
+  "kinds": [
+    "セミオートタイプ – 操作が簡単で、コストパフォーマンスも良好",
+    "フルオートタイプ – 作業効率が高く、大量処理に最適",
+    "レバーレスタイプ – ホイールに傷を付けにくく、高級車向け",
+    "トラック用タイプ – 大型タイヤに対応し、業務用にも使える"
+  ],
+  "merit": [
+    "作業の効率化 – 手作業と比べてスピーディーなタイヤ交換が可能",
+    "安全性の向上 – ホイールやタイヤへのダメージを防止",
+    "多様な車種に対応 – 軽自動車から大型トラックまで対応機種が豊富"
+  ],
+  "tips": [
+    "作業量と対応車種に合わせる – 一般整備用か、業務用かで最適なモデルを選定",
+    "設置スペースの確認 – 特にフルオートタイプは広いスペースが必要",
+    "付属機能の確認 – インフレーターやビードブレーカーの性能も要チェック"
+  ],
+  "cameraImagesGallery": [
+    {
+      "title": "BANZAI スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/BANZAI スポット溶接機.jpg"
+    },
+    {
+      "title": "DENGEN デンゲン★スポルドマックス エアジェット式 スポット溶接機★ALZUS★SW-A50",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/DENGEN デンゲン★スポルドマックス エアジェット式 スポット溶接機★ALZUS★SW-A50.jpg"
+    },
+    {
+      "title": "EIWA 栄和★SPOT EIGHT スポット溶接機★SKE-α",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/EIWA 栄和★SPOT EIGHT スポット溶接機★SKE-α.jpg"
+    },
+    {
+      "title": "HD 平根電測工業★スポット溶接機 AUTO SPOTTER★PT-8D",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/HD 平根電測工業★スポット溶接機 AUTO SPOTTER★PT-8D.jpg"
+    },
+    {
+      "title": "SPEEDY★スポット溶接機★MM-3000P",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/SPEEDY★スポット溶接機★MM-3000P.jpg"
+    },
+    {
+      "title": "Warld Wide★小型スポット溶接機★W-007",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/Warld Wide★小型スポット溶接機★W-007.jpg"
+    },
+    {
+      "title": "ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金.jpg"
+    },
+    {
+      "title": "ヤシマ★スポット溶接機★YSI-24EZ-S★ ★バーコード対応★自動車板金",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/ヤシマ★スポット溶接機★YSI-24EZ-S★ ★バーコード対応★自動車板金.jpg"
+    },
+    {
+      "title": "大同工業★スポット溶接機★ユニマルチ3★UM-33",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/大同工業★スポット溶接機★ユニマルチ3★UM-33.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "GYS スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/GYS スポット溶接機.jpg"
+    },
+    {
+      "title": "SPANESI スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/SPANESI スポット溶接機.png"
+    },
+    {
+      "title": "HIRANE スポット溶接機 ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/HIRANE スポット溶接機 .jpg"
+    },
+    {
+      "title": "TELWIN スポット溶接機 ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/TELWIN スポット溶接機 .jpg"
+    },
+    {
+      "title": "デンゲン スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/デンゲン スポット溶接機.jpg"
+    },
+    {
+      "title": "YASHIMA スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/YASHIMA スポット溶接機.jpg"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "banzai",
+      "link": "https://www.banzai.co.jp/products/search/body/spot_welding_machine",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/banzai.png"
+    },
+    {
+      "jp": "",
+      "en": "eiwanet",
+      "link": "http://www.eiwanet.co.jp/publics/index/17/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/eiwanet.png"
+    },
+    {
+      "jp": "",
+      "en": "spanesi",
+      "link": "https://www.spanesi.com/products/welding",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/spanesi.png"
+    },
+    {
+      "jp": "",
+      "en": "speedy-tool",
+      "link": "https://speedy-tool.co.jp/products_category/welding-machine/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/speedy-tool.png"
+    },
+    {
+      "jp": "",
+      "en": "suzukid",
+      "link": "https://suzukid.co.jp/welder/spot-welder/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/suzukid.png"
+    },
+    {
+      "jp": "",
+      "en": "tecna",
+      "link": "https://www.tecna.net/en/products/division/industrial/type/portable-spot-welders/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/tecna.webp"
+    },
+    {
+      "jp": "",
+      "en": "welderman",
+      "link": "https://welderman.co.jp/product",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/welderman.jpg"
+    },
+    {
+      "jp": "",
+      "en": "yashima",
+      "link": "https://www.yashima-corp.jp/yousetsuki/spot-welder/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/yashima.jpg"
+    }
+  ]
+}
