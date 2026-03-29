@@ -48,13 +48,13 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
           </div>
           {/* Image Section - Responsive with Figma aspect ratios */}
           {/* Desktop: 1040x584 (aspect ~1.78:1), Mobile: 361x203 (aspect ~1.78:1) */}
-          <div className="w-full relative rounded-3xl overflow-hidden shadow-sm aspect-[361/203] md:aspect-[1040/584]">
+          <div className="w-full relative rounded-3xl overflow-hidden shadow-sm aspect-[361/203] md:aspect-[1040/584] bg-gray-100">
             <Image
               src={data.imageSrc}
               alt={data.title}
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1040px"
-              className="object-cover"
+              className="object-contain"
               priority
             />
           </div>
@@ -187,20 +187,20 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
 
           {/* Sub Content Sections */}
           <div className="space-y-12">
-              {(() => {
-                let sectionCounter = 0;
-                return data.subContent.map((item, index) => {
-                  const number = item.title ? ++sectionCounter : undefined;
-                  return (
-                    <SubContent
-                      key={index}
-                      content={item}
-                      mainTitle={data.title}
-                      sectionNumber={number}
-                    />
-                  );
-                });
-              })()}
+            {(() => {
+              let sectionCounter = 0;
+              return data.subContent.map((item, index) => {
+                const number = item.title ? ++sectionCounter : undefined;
+                return (
+                  <SubContent
+                    key={index}
+                    content={item}
+                    mainTitle={data.title}
+                    sectionNumber={number}
+                  />
+                );
+              });
+            })()}
           </div>
         </main>
       </div>
