@@ -158,9 +158,6 @@ const ImagesGallery = ({
     if (e.key === "0") resetZoom();
   };
 
-  // (Optional) Dev diagnostic
-  console.log("MAIN SRC:", main?.imageSrc);
-
   return (
     <div className="w-full max-w-6xl mx-auto p-4 md:p-8">
       {/* Product Title */}
@@ -212,9 +209,8 @@ const ImagesGallery = ({
             {!imageError[selectedImageIndex] && (
               <button
                 onClick={handleZoomOpen}
-                className={`absolute top-3 right-3 bg-white/95 hover:bg-white text-gray-600 hover:text-gray-800 p-2 rounded-lg shadow-sm border border-gray-100 transition-all duration-200 ${
-                  isHovered ? "opacity-100 scale-100" : "opacity-0 scale-95"
-                }`}
+                className={`absolute top-3 right-3 bg-white/95 hover:bg-white text-gray-600 hover:text-gray-800 p-2 rounded-lg shadow-sm border border-gray-100 transition-all duration-200 ${isHovered ? "opacity-100 scale-100" : "opacity-0 scale-95"
+                  }`}
                 aria-label="Zoom image"
               >
                 <ZoomIn size={18} />
@@ -264,11 +260,10 @@ const ImagesGallery = ({
                 key={`${image.title}-${index}`}
                 onClick={() => setSelectedImageIndex(index)}
                 onKeyDown={(e) => handleKeyPress(e, index)}
-                className={`relative flex-shrink-0 w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-rose-400 focus:ring-offset-1 ${
-                  selectedImageIndex === index
+                className={`relative flex-shrink-0 w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-rose-400 focus:ring-offset-1 ${selectedImageIndex === index
                     ? "ring-2 ring-rose-500 shadow-sm scale-[1.02]"
                     : "ring-1 ring-gray-200 hover:ring-gray-300 hover:shadow-sm"
-                }`}
+                  }`}
                 aria-label={`View ${image.title}`}
               >
                 {imageLoading[index] && (

@@ -19,11 +19,13 @@ import product18 from './管工事機械・工具/コンクリートカッター
 import product19 from './梱包機・包装機/シーラー機.json'
 import product20 from './梱包機・包装機/シュリンク包装機.json'
 import product21 from './金属加工機械・板金機械/手動折り曲げ機.json'
-import product22 from './金属加工機械・板金機械/切断機 (シャーリング).json'  
+import product22 from './金属加工機械・板金機械/切断機 (シャーリング).json'
 import product23 from './管工事機械・工具/高圧洗浄機.json'
 import product24 from './管工事機械・工具/エンジンコンプレッサ.json';
 import product25 from './住宅工事機械工具・木工機械/木工旋盤.json';
 import product26 from './住宅工事機械工具・木工機械/自動壁紙糊付機.json';
+import product27 from './自動車整備機械/ホイールバランサー.json';
+
 
 const products = [
   product1,
@@ -52,6 +54,7 @@ const products = [
   product24,
   product25,
   product26,
+  product27
 ]
 
 export default products
