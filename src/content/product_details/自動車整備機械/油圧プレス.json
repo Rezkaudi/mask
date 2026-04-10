@@ -3,9 +3,9 @@
   "title": "油圧プレス",
   "category": "自動車整備機械",
   "types": [
-    "※門型（Hフレーム）プレス",
-    "※卓上（ベンチ）型プレス",
-    "※動力源（加圧方式）",
+    "門型（Hフレーム）プレス",
+    "卓上（ベンチ）型プレス",
+    "動力源（加圧方式）",
     "手動式.エア（空圧）式. 電動式.兼用タイプ"
   ],
   "purchaseProductTitle": "の買取実績",
@@ -53,16 +53,16 @@
   ],
   "webImagesGallery": [
     {
+      "title": "油圧プレス(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/油圧プレス/webImagesGallery/油圧プレス(3).png"
+    },
+    {
       "title": "油圧プレス(1)",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/油圧プレス/webImagesGallery/油圧プレス(1).png"
     },
     {
       "title": "油圧プレス(2)",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/油圧プレス/webImagesGallery/油圧プレス(2).png"
-    },
-    {
-      "title": "油圧プレス(3)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/油圧プレス/webImagesGallery/油圧プレス(3).png"
     },
     {
       "title": "油圧プレス(4)",
@@ -108,31 +108,26 @@
   "questions": [
     {
       "id": 1,
-      "question": "配線はそのままでも大丈夫ですか？",
-      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
-    },
-    {
-      "id": 2,
       "question": "大きくてそのまま出すことができませんが、搬出可能ですか？",
       "answer": "はい、問題ありません。必要な工具を持参し、当社のスタッフが分解・取り外し作業を行います。"
     },
     {
-      "id": 3,
+      "id": 2,
       "question": "オイルはそのままでも大丈夫ですか？",
       "answer": "はい、当社のスタッフが抜き取り作業を行い、適切に処分いたします。"
     },
     {
-      "id": 4,
+      "id": 3,
       "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
       "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
     },
     {
-      "id": 5,
+      "id": 4,
       "question": "積み込みの手伝いが必要ですか？",
       "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
     },
     {
-      "id": 6,
+      "id": 5,
       "question": "遠方でも買取に来てくれますか？",
       "answer": "はい、日本各地で油圧プレスの買取実績があります。"
     }
