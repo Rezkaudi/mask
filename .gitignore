@@ -41,3 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 .vscode
+
+/create-product
+/create-blog
+
