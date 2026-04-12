@@ -239,14 +239,18 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
         </div>
       )}
 
-      {/* Bottom Description */}
       {content.bottomDescription && (
-        <div className="border border-[#B81122] rounded-2xl bg-[#FFF5F6] p-4">
-          <p
-            className="text-[14px] lg:text-[16px] leading-[160%] align-middle font-noto text-[#B81122]"
-            dangerouslySetInnerHTML={{ __html: content.bottomDescription }}
-          />
-        </div>
+        <>
+          <div className="border border-[#B81122] rounded-2xl bg-[#FFF5F6] p-4">
+            {content.bottomDescription.split("\n").map((paragraph, index) => (
+              <p
+                className="text-[14px] lg:text-[16px] leading-[160%] align-middle font-noto text-[#B81122]"
+                key={index}
+                dangerouslySetInnerHTML={{ __html: paragraph }}
+              />
+            ))}
+          </div>
+        </>
       )}
 
       {/* Show More Button */}
