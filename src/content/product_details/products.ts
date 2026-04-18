@@ -26,7 +26,7 @@ import product25 from './住宅工事機械工具・木工機械/木工旋盤.js
 import product26 from './住宅工事機械工具・木工機械/自動壁紙糊付機.json';
 import product27 from './自動車整備機械/ホイールバランサー.json';
 import product28 from './自動車整備機械/油圧プレス.json';
-
+import product29 from './業務用厨房機器・ ベーカリー機器/プレハブ冷凍庫、冷蔵庫.json';
 
 
 const products = [
@@ -57,7 +57,8 @@ const products = [
   product25,
   product26,
   product27,
-  product28
+  product28,
+  product29
 ]
 
 export default products
