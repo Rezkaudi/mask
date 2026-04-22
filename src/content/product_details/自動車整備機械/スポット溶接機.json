@@ -1,124 +1,77 @@
 {
   "id": 3,
   "title": "スポット溶接機",
-  "subTitle": "スポット溶接機とは？",
-  "description": "スポット溶接機は、金属板を局所的に加熱し、圧力をかけて接合するための専用機械です。効率的な溶接作業を実現し、生産性や接合強度の向上に貢献します。",
   "category": "自動車整備機械",
-  "servicesTitle": "中古スポット溶接機の買取サービス",
-  "purchaseeProductTitle": "の買取実績",
-  "servicesDescription": "ご不要になったスポット溶接機をお持ちですか？\nハディズでは、各種中古スポット溶接機の買取を行っています。重機の搬出も、経験豊富なスタッフが丁寧に対応いたします。公正な価格査定と迅速な支払いをお約束します。",
-  "questions": [
-    {
-      "id": 1,
-      "question": "配線はそのままでも大丈夫ですか？",
-      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
-    },
-    {
-      "id": 2,
-      "question": "事前に準備しておくことはありますか？",
-      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
-    },
-    {
-      "id": 3,
-      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
-      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
-    },
-    {
-      "id": 4,
-      "question": "積み込みの手伝いが必要ですか？",
-      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
-    },
-    {
-      "id": 5,
-      "question": "遠方でも買取に来てくれますか？",
-      "answer": "はい、日本各地でスポット溶接機の買取実績があります。"
-    },
-    {
-      "id": 6,
-      "question": "不要になった金属材料がありますが、処分してくれますか？",
-      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
-    }
+  "types": [
+    "抵抗スポット溶接",
+    "アークスポット溶接",
+    "レーザースポット溶接",
+    "プロジェクション溶接",
+    "シーム溶接"
   ],
-  "kinds": [
-    "手動タイプ – 操作が直感的で、コストを抑えたい小規模工場に最適",
-    "エア式タイプ – 安定した圧力で溶接品質が向上、中規模の現場に対応",
-    "油圧タイプ – 高出力で連続作業に強く、厚板の溶接にも対応",
-    "インバータータイプ – 高精度な電流制御が可能で、高品質な仕上がりに"
-  ],
-  "merit": [
-    "溶接品質の向上 – 均一な圧力と電流でムラのない溶接が可能",
-    "作業時間の短縮 – 手作業に比べてスピーディーに処理できる",
-    "安全性の確保 – 熱や火花の飛散が少なく、安全な作業環境を実現",
-    "省スペース設計 – 一部のモデルは設置面積が小さく、限られた作業場でも導入可能"
-  ],
-  "tips": [
-    "溶接対象の素材と厚さに合わせてタイプを選ぶ – 軽板用か厚板用かで必要な出力が異なる",
-    "作業頻度や生産量に応じてモデルを検討 – 少量生産か大量処理かで求められる機能も違う",
-    "電源環境や設置スペースの確認 – インバータータイプなどは専用の電源が必要な場合も",
-    "保守性・耐久性もチェック – 長期使用におけるトラブルを防ぐため、アフターサービスの充実度も考慮"
-  ],
+  "purchaseProductTitle": "の買取実績",
   "cameraImagesGallery": [
     {
-      "title": "BANZAI スポット溶接機",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/BANZAI スポット溶接機.jpg"
+      "title": " EIWA 栄和製作所★スポット溶接機★SPOT EIGHT 栄★GAMMA-Ⅱ★SKE-G★自動車板金☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/ EIWA 栄和製作所★スポット溶接機★SPOT EIGHT 栄★GAMMA-Ⅱ★SKE-G★自動車板金☆.JPG"
     },
     {
       "title": "DENGEN デンゲン★スポルドマックス エアジェット式 スポット溶接機★ALZUS★SW-A50",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/DENGEN デンゲン★スポルドマックス エアジェット式 スポット溶接機★ALZUS★SW-A50.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/DENGEN デンゲン★スポルドマックス エアジェット式 スポット溶接機★ALZUS★SW-A50.jpg"
     },
     {
       "title": "EIWA 栄和★SPOT EIGHT スポット溶接機★SKE-α",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/EIWA 栄和★SPOT EIGHT スポット溶接機★SKE-α.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/EIWA 栄和★SPOT EIGHT スポット溶接機★SKE-α.jpg"
     },
     {
-      "title": "HD 平根電測工業★スポット溶接機 AUTO SPOTTER★PT-8D",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/HD 平根電測工業★スポット溶接機 AUTO SPOTTER★PT-8D.jpg"
+      "title": "EIWA 栄和製作所★スタッド溶接機★スポットエイト★TNK-5000D★200V★スポット溶接 ワッシャー溶接★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/EIWA 栄和製作所★スタッド溶接機★スポットエイト★TNK-5000D★200V★スポット溶接 ワッシャー溶接★.jpeg"
     },
     {
       "title": "SPEEDY★スポット溶接機★MM-3000P",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/SPEEDY★スポット溶接機★MM-3000P.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/SPEEDY★スポット溶接機★MM-3000P.jpg"
     },
     {
       "title": "Warld Wide★小型スポット溶接機★W-007",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/Warld Wide★小型スポット溶接機★W-007.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/Warld Wide★小型スポット溶接機★W-007.jpg"
     },
     {
-      "title": "ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金.jpg"
+      "title": "★YASHIMA ヤシマ★半自動溶接機★QC-MIG 180 Digital★YMI-180Ds★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/★YASHIMA ヤシマ★半自動溶接機★QC-MIG 180 Digital★YMI-180Ds★.jpg"
     },
     {
       "title": "ヤシマ★スポット溶接機★YSI-24EZ-S★ ★バーコード対応★自動車板金",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/ヤシマ★スポット溶接機★YSI-24EZ-S★ ★バーコード対応★自動車板金.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/ヤシマ★スポット溶接機★YSI-24EZ-S★ ★バーコード対応★自動車板金.jpg"
+    },
+    {
+      "title": "ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/ヤシマ★スポット溶接機★YSI-24EZ-S★バーコード対応★自動車板金.jpg"
     },
     {
       "title": "大同工業★スポット溶接機★ユニマルチ3★UM-33",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/大同工業★スポット溶接機★ユニマルチ3★UM-33.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/cameraImagesGallery/大同工業★スポット溶接機★ユニマルチ3★UM-33.jpg"
     }
   ],
   "webImagesGallery": [
     {
-      "title": "GYS スポット溶接機",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/GYS スポット溶接機.jpg"
+      "title": "BANZAI スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/webImagesGallery/BANZAI スポット溶接機.png"
+    },
+    {
+      "title": "HIRANE スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/webImagesGallery/HIRANE スポット溶接機.png"
     },
     {
       "title": "SPANESI スポット溶接機",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/SPANESI スポット溶接機.png"
-    },
-    {
-      "title": "HIRANE スポット溶接機 ",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/HIRANE スポット溶接機 .jpg"
-    },
-    {
-      "title": "TELWIN スポット溶接機 ",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/TELWIN スポット溶接機 .jpg"
-    },
-    {
-      "title": "デンゲン スポット溶接機",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/デンゲン スポット溶接機.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/webImagesGallery/SPANESI スポット溶接機.png"
     },
     {
       "title": "YASHIMA スポット溶接機",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/images_gallery/YASHIMA スポット溶接機.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/webImagesGallery/YASHIMA スポット溶接機.png"
+    },
+    {
+      "title": "デンゲン スポット溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/webImagesGallery/デンゲン スポット溶接機.png"
     }
   ],
   "makers": [
@@ -168,7 +121,46 @@
       "jp": "",
       "en": "yashima",
       "link": "https://www.yashima-corp.jp/yousetsuki/spot-welder/",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/yashima.jpg"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/スポット溶接機/makers/yashima.png"
     }
-  ]
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "事前に準備しておくことはありますか？",
+      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
+    },
+    {
+      "id": 3,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 4,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 5,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でスポット溶接機の買取実績があります。"
+    },
+    {
+      "id": 6,
+      "question": "不要になった金属材料がありますが、処分してくれますか？",
+      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
+    }
+  ],
+  "servicesDescription": "ご不要になったスポット溶接機をお持ちですか？\nハディズでは、各種中古スポット溶接機の買取を行っています。重機の搬出も、経験豊富なスタッフが丁寧に対応いたします。公正な価格査定と迅速な支払いをお約束します。"
 }

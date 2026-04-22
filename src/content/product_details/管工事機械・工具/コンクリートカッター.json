@@ -1,0 +1,179 @@
+{
+  "id": 18,
+  "title": "コンクリートカッター",
+  "category": "管工事機械・工具",
+  "types": [
+    "台車式（手押し式、ロードカッター）",
+    "ハンドカッター（手持ち式）"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "EXEN★コンクリートカッター★ERC12CB",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/EXEN%E2%98%85%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85ERC12CB.jpg"
+    },
+    {
+      "title": "Husqvarna ハスクバーナ★パワーカッター★K770★12インチ★エンジンカッター コンクリートカッター",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/Husqvarna+%E3%83%8F%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%83%8A%E2%98%85%E3%83%91%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85K770%E2%98%8512%E3%82%A4%E3%83%B3%E3%83%81%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC+%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC.jpg"
+    },
+    {
+      "title": "ITABASHI 板橋★エンジンコンクリートカッター★IM40",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/ITABASHI+%E6%9D%BF%E6%A9%8B%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85IM40.jpg"
+    },
+    {
+      "title": "MIKASA 三笠★エンジンコンクリートカッター★MCD-012A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/MIKASA+%E4%B8%89%E7%AC%A0%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85MCD-012A.jpg"
+    },
+    {
+      "title": "MIKASA 三笠★エンジンコンクリートカッター★MCD-218VDXS",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/MIKASA+%E4%B8%89%E7%AC%A0%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85MCD-218VDXS.jpg"
+    },
+    {
+      "title": "MIKASA 三笠★エンジンコンクリートカッター★MCD-218VDXS(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/MIKASA+%E4%B8%89%E7%AC%A0%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85MCD-218VDXS(1).jpg"
+    },
+    {
+      "title": "Mikasa 三笠★コンクリートカッター★MCD-L14",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/Mikasa+%E4%B8%89%E7%AC%A0%E2%98%85%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85MCD-L14.jpg"
+    },
+    {
+      "title": "MIKASA 三笠★コンクリートカッター★ロビンエンジン EH17",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/MIKASA+%E4%B8%89%E7%AC%A0%E2%98%85%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85%E3%83%AD%E3%83%93%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3+EH17.jpg"
+    },
+    {
+      "title": "MIKASA 三笠産業★エンジンコンクリートカッター★MCD-L14",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/MIKASA+%E4%B8%89%E7%AC%A0%E7%94%A3%E6%A5%AD%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85MCD-L14.jpg"
+    },
+    {
+      "title": "PARTNER★エンジンコンクリートカッター★K650 ACTIVEⅢ",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/PARTNER%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85K650+ACTIVE%E2%85%A2.jpg"
+    },
+    {
+      "title": "STIHL スチール★355mm エンジンカッター★TS420★コンクリートカッター",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/STIHL+%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E2%98%85355mm+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85TS420%E2%98%85%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC.jpg"
+    },
+    {
+      "title":"YAMAMOTO 山本鉄工所★エンジンコンクリートカッター★YRC-100_YRC100",
+      "imageSrc" : "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/YAMAMOTO+%E5%B1%B1%E6%9C%AC%E9%89%84%E5%B7%A5%E6%89%80%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85YRC-100_YRC100.jpg"
+    },
+    {
+      "title": "コンセック Hakken★油圧ウォールカッター★CHW-30R",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%83%E3%82%AF+Hakken%E2%98%85%E6%B2%B9%E5%9C%A7%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85CHW-30R.jpg"
+    },
+    {
+      "title":"ハスクバーナ★PARTNER★コンクリートカッター★K1200-Ⅱ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E3%83%8F%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%83%8A%E2%98%85PARTNER%E2%98%85%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85K1200-%E2%85%A1.jpg"
+    },
+    {
+      "title":"ハスクバーナ★パワーカッター コンクリートカッター★K970Ⅱ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E3%83%8F%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%83%8A%E2%98%85%E3%83%91%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC+%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85K970%E2%85%A1.jpg"
+    },
+    {
+      "title":"山本鉄工所★エンジンコンクリートカッター★YRC-70S",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E5%B1%B1%E6%9C%AC%E9%89%84%E5%B7%A5%E6%89%80%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85YRC-70S.jpg"
+    },
+    {
+      "title":"新ダイワ★エンジンコンクリートカッター★ECD577 Turbo",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E6%96%B0%E3%83%80%E3%82%A4%E3%83%AF%E2%98%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85ECD577+Turbo.jpg"
+    },
+    {
+      "title":"日本フレキ★円形切断工事用カッター ★乾式サーキュラーカッター★DCC-150",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/cameraImagesGallery/%E6%97%A5%E6%9C%AC%E3%83%95%E3%83%AC%E3%82%AD%E2%98%85%E5%86%86%E5%BD%A2%E5%88%87%E6%96%AD%E5%B7%A5%E4%BA%8B%E7%94%A8%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC++%E2%98%85%E4%B9%BE%E5%BC%8F%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E2%98%85DCC-150.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "コンクリートカッター.png ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター.png"
+    },
+    {
+      "title": "コンクリートカッター(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(1).png"
+    },
+    {
+      "title": "コンクリートカッター(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(2).png"
+    },
+    {
+      "title": "コンクリートカッター(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(3).png"
+    },
+    {
+      "title": "コンクリートカッター(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(4).png"
+    },
+    {
+      "title": "コンクリートカッター(6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(5).png"
+    },
+    {
+      "title": "コンクリートカッター(7)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(6).png"
+    },
+    {
+      "title": "コンクリートカッター(8)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/webImagesGallery/コンクリートカッター(7).png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "yamabiko",
+      "link": "https://www.yamabiko-corp.co.jp/shindaiwa/products/category/contents_type=445",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/makers/yamabiko.PNG"
+    },
+    {
+      "jp": "",
+      "en": "husqvarnaconstruction",
+      "link": "https://www.husqvarnaconstruction.com/jp/pawakatsuta/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/makers/husqvarnaconstruction.BMP"
+    },
+    {
+      "jp": "",
+      "en": "mikasas",
+      "link": "https://www.mikasas.jp/products/cutter_and_blade/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/makers/mikasas.png"
+    },
+    {
+      "jp": "",
+      "en": "noritake",
+      "link": "https://www.noritake-mt.jp/products/series/1/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/makers/noritake.PNG"
+    },
+    {
+      "jp": "",
+      "en": "stihl",
+      "link": "https://www.stihl.co.jp/ja",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/コンクリートカッター/makers/stihl.PNG"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 2,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 3,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でコンクリートカッターの買取実績があります。"
+    },
+    {
+      "id": 4,
+      "question": "不要になった金属材料がありますが、処分してくれますか？",
+      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなったコンクリートカッターはございませんか？\nハディズでは、あらゆるメーカー・型式の中古コンクリートカッターを買取しております。エンジン式・電動式を問わず、重量のある機械の搬出・運搬も、専門知識を持つスタッフが安全・丁寧に対応いたします。\n機械の状態や年式を適正に評価し、公正な価格での買取と迅速なお支払いをお約束します。"
+}

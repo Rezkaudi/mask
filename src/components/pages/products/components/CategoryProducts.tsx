@@ -13,7 +13,6 @@ const CategoryProducts = ({
   categoryName,
   categoryId,
 }: ICategoryProductsProps) => {
-
   return (
     <section className="relative py-[50px] md:py-[80px] lg:py-[120px] px-5 md:px-[50px] lg:px-[80px]">
       <Image
@@ -23,7 +22,6 @@ const CategoryProducts = ({
           "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"
         }
         alt="hero-background-hadis"
-        loading="eager"
       />
       <h2 className="text-[30px] md:text-[50px] lg:text-[60px] leading-[45px] md:leading-[60px] lg:leading-[90px] font-black text-center font-noto bg-gradient-to-r from-light-red to-dark-red bg-clip-text text-transparent">
         {categoryName}
@@ -41,6 +39,7 @@ const CategoryProducts = ({
               image={item.image}
               title={item.title}
               categoryId={categoryId}
+              categoryName={categoryName}
             />
           </div>
         ))}

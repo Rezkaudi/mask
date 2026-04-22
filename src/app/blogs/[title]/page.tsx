@@ -10,6 +10,9 @@ import { getBlogByTitle } from "@/services/blogs";
 // baseUrl
 import { baseUrl } from "@/utils/baseUrl";
 
+import { ArticleSchema, BreadcrumbSchema, generateBreadcrumbs } from '@/components/seo/schemas';
+
+
 interface IBlogPage {
   params: Promise<{
     title: string;
@@ -66,5 +69,19 @@ export default async function BlogDetailsPage({ params }: IBlogPage) {
     notFound();
   }
 
-  return <BlogDetails data={data} />;
+  return (
+    <>
+      {/* ✅ 追加: Structured Data */}
+      <ArticleSchema
+        title={data.title}
+        description={data.metaDescription}
+        image={data.imageSrc}
+        datePublished={data.date}
+        url={`${baseUrl}/blogs/${data.title}`}
+      />
+      <BreadcrumbSchema items={generateBreadcrumbs.blog(data.title)} />
+
+      <BlogDetails data={data} />
+    </>
+  );
 }

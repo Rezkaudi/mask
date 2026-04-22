@@ -1,18 +1,8 @@
+import { sendContactEmail } from '@/services/api/mail';
+import { validateContactForm } from '@/utils/validators';
 import { useState } from "react";
-import Swal from "sweetalert2";
 import { TFormData } from "@/types/formData.type";
 
-const Toast = Swal.mixin({
-  toast: true,
-  position: "top-end",
-  showConfirmButton: false,
-  timer: 3000,
-  timerProgressBar: true,
-  didOpen: (toast) => {
-    toast.addEventListener("mouseenter", Swal.stopTimer);
-    toast.addEventListener("mouseleave", Swal.resumeTimer);
-  },
-});
 
 const initialFormData: TFormData = {
   name: "",
@@ -36,18 +26,43 @@ const initialFormData: TFormData = {
 
 export const useFormHandler = () => {
   const [formData, setFormData] = useState<TFormData>(initialFormData);
-  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [agreePrivacy, setAgreePrivacy] = useState(false);
   const [click, setClick] = useState(false);
 
+  // --- Input Handlers ---
+
   const handleInputChange = (
-    e: React.ChangeEvent<
-      HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
-    >
+    e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>
   ) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({ ...prevData, [name]: value }));
   };
+
+  const handleProductInputChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>,
+    index?: number
+  ) => {
+    const { name, value } = e.target;
+    setFormData((prevData) => ({
+      ...prevData,
+      productsList: prevData.productsList.map((product, i) =>
+        i === index ? { ...product, [name]: value } : product
+      ),
+    }));
+  };
+
+  const handleImageChange = (images: (string | null)[], index: number) => {
+    setFormData((prevData) => ({
+      ...prevData,
+      productsList: prevData.productsList.map((product, i) =>
+        i === index ? { ...product, images } : product
+      ),
+    }));
+  };
+
+  // --- Dynamic Form Fields ---
 
   const addProduct = () => {
     setFormData((prevData) => ({
@@ -63,22 +78,6 @@ export const useFormHandler = () => {
     }));
   };
 
-  const handleProductInputChange = (
-    e: React.ChangeEvent<
-      HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
-    >,
-    index?: number
-  ) => {
-    const { name, value } = e.target;
-
-    setFormData((prevData) => ({
-      ...prevData,
-      productsList: prevData.productsList.map((product, i) =>
-        i === index ? { ...product, [name]: value } : product
-      ),
-    }));
-  };
-
   const deleteProduct = (index: number) => {
     setFormData((prevData) => ({
       ...prevData,
@@ -86,106 +85,62 @@ export const useFormHandler = () => {
     }));
   };
 
-  const handleImageChange = (images: (string | null)[], index: number) => {
-    setFormData((prevData) => ({
-      ...prevData,
-      productsList: prevData.productsList.map((product, i) =>
-        i === index ? { ...product, images } : product
-      ),
-    }));
+  // --- Submission Logic ---
+
+  const resetForm = () => {
+    setFormData(initialFormData);
+    setAgreePrivacy(false);
+    setStatus('idle');
+    setClick(false);
   };
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
+  const submitForm = async () => {
+    setErrorMessage(null);
 
-    if (formData.city === "選択してください") {
-      Toast.fire({ icon: "warning", title: "都道府県を選択してください。" });
-      return;
+    // 1. Validate
+    const validationError = validateContactForm(formData);
+    if (validationError) {
+      setErrorMessage(validationError);
+      return false; // Submission failed
     }
 
-    const hasInvalidProductCondition = formData.productsList.some(
-      (product) =>
-        !product.product_condition ||
-        product.product_condition === "選択してください"
-    );
-
-    if (hasInvalidProductCondition) {
-      Toast.fire({ icon: "warning", title: "商品の状態を選択してください。" });
-      return;
-    }
-
-    setIsSubmitting(true);
-
-    Swal.fire({
-      title: "送信しています...",
-      html: "そのままお待ちください。",
-      allowOutsideClick: false,
-      didOpen: () => {
-        Swal.showLoading();
-      },
-    });
-
+    // 2. Submit
+    setStatus('submitting');
     try {
-      const response = await fetch("/api/send-email", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
-      });
-
-      if (!response.ok) {
-        throw new Error(
-          "サーバーエラーが発生しました。もう一度お試しください。"
-        );
-      }
-      setFormData(initialFormData);
-
-      setAgreePrivacy(false);
-      Swal.close();
-      await Swal.fire({
-        icon: "success",
-        title: "送信が完了しました",
-        html: `メールを送信しました。<br />確認メールをお送りしましたので、<br />ご確認ください。<br /> <br />
-          <button id="close-modal" class="close-button">x</button>`,
-        showConfirmButton: false,
-        customClass: {
-          popup: "custom-popup",
-        },
-        didOpen: () => {
-          const closeButton = document.getElementById("close-modal");
-          if (closeButton) {
-            closeButton.addEventListener("click", () => {
-              Swal.close();
-            });
-          }
-        },
-      });
+      await sendContactEmail(formData);
+      setStatus('success');
+      resetForm();
+      return true; // Submission successful
     } catch (error: unknown) {
-      Swal.close();
-
-      const errMsg = error instanceof Error ? error.message : "Unknown error";
-      Swal.fire({
-        icon: "error",
-        title: "エラー発生！",
-        text: `送信中にエラーが発生しました: ${errMsg}`,
-      });
-    } finally {
-      setIsSubmitting(false);
-      setAgreePrivacy(false);
-      setClick(false);
+      const msg = error instanceof Error ? error.message : "サーバーエラーが発生しました。もう一度お試しください。";
+      setErrorMessage(msg);
+      setStatus('error');
+      return false; // Submission failed
     }
   };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setClick(true);
+    await submitForm();
+  };
+
+  const isSubmitting = status === 'submitting';
 
   return {
     formData,
-    isSubmitting,
-    handleInputChange,
-    handleImageChange,
-    handleSubmit,
-    addProduct,
-    deleteProduct,
-    handleProductInputChange,
+    status,
+    errorMessage,
     agreePrivacy,
     setAgreePrivacy,
+    handleInputChange,
+    handleProductInputChange,
+    handleImageChange,
+    addProduct,
+    deleteProduct,
+    submitForm,
+    handleSubmit,
+    isSubmitting,
     click,
     setClick,
   };

@@ -6,10 +6,11 @@ const Index: React.FC = () => {
     <section className="relative w-full py-20 text-center px-5 h-[calc(100vh-60px)] flex items-center justify-center">
       <Image
         className="absolute -z-10 top-0 left-0 object-cover"
-        src={"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"}
+        src={
+          "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"
+        }
         alt="404エラーページの背景"
         fill
-        priority
       />
       <div>
         <h1 className="text-9xl text-[#D51A16] font-bold">404</h1>

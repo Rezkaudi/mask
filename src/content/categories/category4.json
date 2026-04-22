@@ -5,111 +5,103 @@
   "items": [
     {
       "id": 1,
-      "title": "コンターマシン",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%82%B3%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "ロール成形機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/ロール成形機.png"
     },
     {
       "id": 2,
-      "title": "スリッター",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%82%B9%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "マルチワーカー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/マルチワーカー.png"
     },
     {
       "id": 3,
-      "title": "バーベンダー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%90%E3%83%BC%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%20.%20%E3%83%91%E3%82%A4%E3%83%97%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC.%20%E9%89%84%E7%AD%8B%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC.png",
-      "category": "金属加工機械・板金機械"
+      "title": "手動折り曲げ機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/手動折り曲げ機.png"
     },
     {
       "id": 4,
-      "title": "プラズマ切断機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E5%88%87%E6%96%AD%E6%A9%9F.jpeg",
-      "category": "金属加工機械・板金機械"
+      "title": "切断機 (シャーリング)",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/切断機 (シャーリング).png"
     },
     {
       "id": 5,
-      "title": "ベルトグラインダー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%99%E3%83%AB%E3%83%88%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "アングル加工機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/アングル加工機.png"
     },
     {
       "id": 6,
-      "title": "マルチワーカー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC.%20%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E5%8A%A0%E5%B7%A5%E6%A9%9F.png",
-      "category": "金属加工機械・板金機械"
+      "title": "コンターマシン",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/コンターマシン.png"
     },
     {
       "id": 7,
-      "title": "メタルソー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%BD%E3%83%BC.png",
-      "category": "金属加工機械・板金機械"
+      "title": "スリッター",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/スリッター.png"
     },
     {
       "id": 8,
-      "title": "ロール成形機 . ハゼ折り機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E3%83%AD%E3%83%BC%E3%83%AB%E6%88%90%E5%BD%A2%E6%A9%9F.%E3%83%8F%E3%82%BC%E6%8A%98%E3%82%8A%E6%A9%9F%20.%E5%85%B1%E6%9D%BF%E6%88%90%E5%BD%A2%E6%A9%9F.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "ハゼ折り機 .共板成形機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/ハゼ折り機 .共板成形機.png"
     },
     {
       "id": 9,
-      "title": "三本ロール",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E4%B8%89%E6%9C%AC%E3%83%AD%E3%83%BC%E3%83%AB(%E3%83%99%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%AB).jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "プラズマ切断機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/プラズマ切断機.png"
     },
     {
       "id": 10,
-      "title": "切断機 (シャーリング)",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E5%88%87%E6%96%AD%E6%A9%9F%20(%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0).jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "ベルトグラインダー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/ベルトグラインダー.png"
     },
     {
       "id": 11,
-      "title": "半自動圧着機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E5%8D%8A%E8%87%AA%E5%8B%95%E5%9C%A7%E7%9D%80%E6%A9%9F.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "メタルソー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/メタルソー.png"
     },
     {
       "id": 12,
-      "title": "折り曲げ機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E6%8A%98%E3%82%8A%E6%9B%B2%E3%81%92%E6%A9%9F.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "三本ロール",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/三本ロール.png"
     },
     {
       "id": 13,
-      "title": "板金切断機（ロータリーシャ)",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E6%9D%BF%E9%87%91%E5%88%87%E6%96%AD%E6%A9%9F%EF%BC%88%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A3).jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "動力折曲機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/動力折曲機.png"
     },
     {
       "id": 14,
-      "title": "油圧パンチャー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E6%B2%B9%E5%9C%A7%E3%83%91%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "ロータリーシャ",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/板金切断機（ロータリーシャ).png"
     },
     {
       "id": 15,
-      "title": "油圧プレス",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E6%B2%B9%E5%9C%A7%E3%83%97%E3%83%AC%E3%82%B9.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "油圧パンチャー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/油圧パンチャー.png"
     },
     {
       "id": 16,
-      "title": "紐出しロール",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E7%B4%90%E5%87%BA%E3%81%97%E3%83%AD%E3%83%BC%E3%83%AB.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "油圧プレス",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/油圧プレス.png"
     },
     {
       "id": 17,
-      "title": "鉄筋切断機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E9%89%84%E7%AD%8B%E5%88%87%E6%96%AD%E6%A9%9F.jpg",
-      "category": "金属加工機械・板金機械"
+      "title": "紐出しロール",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/紐出しロール.png"
     },
     {
       "id": 18,
+      "title": "鉄筋ベンダー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/鉄筋ベンダー.png"
+    },
+    {
+      "id": 19,
+      "title": "鉄筋切断機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/鉄筋切断機.jpg"
+    },
+    {
+      "id": 20,
       "title": "電動油圧ユニット",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E3%83%BB+%E6%9D%BF%E9%87%91%E6%A9%9F%E6%A2%B0/items/%E9%9B%BB%E5%8B%95%E6%B2%B9%E5%9C%A7%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88.png",
-      "category": "金属加工機械・板金機械"
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/金属加工機械・ 板金機械/items/電動油圧ユニット.png"
     }
   ],
   "makers": [

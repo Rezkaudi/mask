@@ -1,0 +1,156 @@
+{
+  "id": 25,
+  "title": "木工旋盤",
+  "category": "住宅工事機械工具・木工機械",
+  "types": [
+    "ミニ旋盤（小型・卓上）",
+    "ミディ旋盤（中型・卓上・床置き）",
+    "フルサイズ旋盤（大型・床置き）",
+    "プーリー式（ステッププーリー）",
+    "電子無段変速式",
+    "手動（汎用）木工旋盤",
+    "CNC木工旋盤"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "JET★木工旋盤★JWL-1221VS",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/JET%E2%98%85%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4%E2%98%85JWL-1221VS.jpeg"
+    },
+    {
+      "title": "REXON★木工旋盤★WL-12A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/REXON%E2%98%85%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4%E2%98%85WL-12A.jpeg"
+    },
+    {
+      "title": "☆藤原産業★卓上木工旋盤★YH-300★延長ベット等付属品あり★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/%E2%98%86%E8%97%A4%E5%8E%9F%E7%94%A3%E6%A5%AD%E2%98%85%E5%8D%93%E4%B8%8A%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4%E2%98%85YH-300%E2%98%85%E5%BB%B6%E9%95%B7%E3%83%99%E3%83%83%E3%83%88%E7%AD%89%E4%BB%98%E5%B1%9E%E5%93%81%E3%81%82%E3%82%8A%E2%98%85.JPG"
+    },
+    {
+      "title": "DELTA デルタ★木工旋盤★LA200",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/DELTA%20%E3%83%87%E3%83%AB%E3%82%BF%E2%98%85%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4%E2%98%85LA200.jpg"
+    },
+    {
+      "title": "AOKI アオキ★木工旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/AOKI%20%E3%82%A2%E3%82%AA%E3%82%AD%E2%98%85%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4.jpg"
+    },
+    {
+      "title": "WOODFAST★木工旋盤★C1000",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/cameraImagesGallery/WOODFAST%E2%98%85%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4%E2%98%85C1000.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "木工旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4.PNG"
+    },
+    {
+      "title": "木工旋盤(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4(4).png"
+    },
+    {
+      "title": "木工旋盤(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4(5).PNG"
+    },
+    {
+      "title": "木工旋盤(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4(2).png"
+    },
+    {
+      "title": "木工旋盤(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4(1).png"
+    },
+    {
+      "title": "木工旋盤(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4(3).PNG"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "lagunatools",
+      "link": "https://lagunatools.com/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/lagunatools.png"
+    },
+    {
+      "jp": "",
+      "en": "vicmarc",
+      "link": "https://www.vicmarc.com/lathes",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/vicmarc.png"
+    },
+    {
+      "jp": "",
+      "en": "powermatic",
+      "link": "https://www.powermatic.com/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/powermatic.png"
+    },
+    {
+      "jp": "",
+      "en": "fujiwarasangyo",
+      "link": "https://www.fujiwarasangyo.co.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/fujiwarasangyo.png"
+    },
+    {
+      "jp": "",
+      "en": "woodfastmachinery",
+      "link": "https://www.woodfastmachinery.com.au/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/woodfastmachinery.png"
+    },
+    {
+      "jp": "",
+      "en": "deltamachinery",
+      "link": "https://deltamachinery.com/product-category/lathes/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/deltamachinery.png"
+    },
+    {
+      "jp": "",
+      "en": "toyoas",
+      "link": "https://www.toyoas.jp/products/brand/rexon/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/toyoas.png"
+    },
+    {
+      "jp": "",
+      "en": "jettools",
+      "link": "https://jettools.com/woodworking/lathes",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E4%BD%8F%E5%AE%85%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9C%A8%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%9C%A8%E5%B7%A5%E6%97%8B%E7%9B%A4/makers/jettools.jpg"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "解体もしてくれますか？",
+      "answer": "はい、当社のスタッフが解体作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 4,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 5,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地で木工旋盤の買取実績があります。"
+    },
+    {
+      "id": 6,
+      "question": "不要になった金属材料がありますが、処分してくれますか？",
+      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなった木工旋盤はございませんか？\nハディズでは、あらゆるメーカー・型式の中古木工旋盤を買取しております。重量のある機械の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と迅速なお支払いをお約束いたします。"
+}

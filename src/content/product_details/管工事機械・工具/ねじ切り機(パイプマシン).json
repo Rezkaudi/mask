@@ -1,0 +1,228 @@
+{
+  "id": 17,
+  "title": "ねじ切り機(パイプマシン)",
+  "category": "管工事機械・工具",
+  "types": [
+    "電動式パイプマシン",
+    "ポータブルねじ切り機",
+    "手動ねじ切り機",
+    "手動ダイヘッド",
+    "自動ダイヘッド"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "Asada アサダ★パイプねじ切り機★BEAVER50★ ★ダイヘッド 取説 元箱付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/Asada+%E3%82%A2%E3%82%B5%E3%83%80%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85BEAVER50%E2%98%85+%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89+%E5%8F%96%E8%AA%AC+%E5%85%83%E7%AE%B1%E4%BB%98.jpg"
+    },
+    {
+      "title": "Asada★Astronic1 アストロニック1★パイプマシン ねじ切り機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/Asada%E2%98%85Astronic1+%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF1%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F.jpg"
+    },
+    {
+      "title": "Asada★大型ねじ切り機★4S-B_★ダイヘッド付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/Asada%E2%98%85%E5%A4%A7%E5%9E%8B%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%854S-B_%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    },
+    {
+      "title": "MCC32W★パイプマシン ねじ切り機★LM-21",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/MCC32W%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85LM-21.jpg"
+    },
+    {
+      "title": "REX レッキス★ねじ切り機 パイプマシンZシリーズ★F80AZ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F+%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3Z%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%98%85F80AZ.jpg"
+    },
+    {
+      "title": "REX レッキス★パイプマシン ねじ切り機★N80AⅢGX★ダイヘッド付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N80A%E2%85%A2GX%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    },
+    {
+      "title": "REX レッキス★パイプマシン ねじ切り機★NS25AⅢ★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85NS25A%E2%85%A2%E2%98%85.jpeg"
+    },
+    {
+      "title": "REX レッキス★パイプマシン★ねじ切り機★N40AⅢ★100V★ダイヘッド2個付☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3%E2%98%85%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N40A%E2%85%A2%E2%98%85100V%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%892%E5%80%8B%E4%BB%98%E2%98%86.jpeg"
+    },
+    {
+      "title": "REX レッキス★パイプマシン★ねじ切り機★N80AIII★ダイヘッド3台付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3%E2%98%85%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N80AIII%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%893%E5%8F%B0%E4%BB%98.jpg"
+    },
+    {
+      "title": "REX レッキス★パイプマシン★ねじ切り機★N80AⅢ★超硬カッター付★ダイヘッド ニップルマックス(アサダ) 台車付☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3%E2%98%85%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N80A%E2%85%A2%E2%98%85%E8%B6%85%E7%A1%AC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E4%BB%98%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89+%E3%83%8B%E3%83%83%E3%83%97%E3%83%AB%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9(%E3%82%A2%E3%82%B5%E3%83%80)+%E5%8F%B0%E8%BB%8A%E4%BB%98%E2%98%86.jpeg"
+    },
+    {
+      "title": "REX★Rexstar25 レッキススター★小型ねじ切り機★S25AⅢ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85Rexstar25+%E3%83%AC%E3%83%83%E3%82%AD%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%E2%98%85%E5%B0%8F%E5%9E%8B%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85S25A%E2%85%A2.jpg"
+    },
+    {
+      "title": "REX★ねじ切り機 パイプマシン★N100A★ダイヘッド付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F+%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3%E2%98%85N100A%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    },
+    {
+      "title": "REX★パイプマシン ねじ切り機★100V_200V切替★N100A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85100V_200V%E5%88%87%E6%9B%BF%E2%98%85N100A.jpg"
+    },
+    {
+      "title": "REX★パイプマシン ねじ切り機★150A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85150A.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★F50AⅢ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85F50A%E2%85%A2.jpg"
+    },
+    {
+      "title": "REX★パイプマシン ねじ切り機★F80AZ★取説 ダイヘッド 補助ローラー オイル付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85F80AZ%E2%98%85%E5%8F%96%E8%AA%AC+%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89+%E8%A3%9C%E5%8A%A9%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E3%82%AA%E3%82%A4%E3%83%AB%E4%BB%98.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N100A",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N100A.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N100A(1)",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N100A(1).jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N100A(2)",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N100A(2).jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N20AⅢ",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N20A%E2%85%A2.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N50AⅢ★ダイヘッド パイプ脚付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N50A%E2%85%A2%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89+%E3%83%91%E3%82%A4%E3%83%97%E8%84%9A%E4%BB%98.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N50AⅢ★ダイヘッド2個付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N50A%E2%85%A2%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%892%E5%80%8B%E4%BB%98.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★N80AⅢGX",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85N80A%E2%85%A2GX.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★NS25AⅢ",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85NS25A%E2%85%A2.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★S40A3★ダイヘッド付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85S40A3%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★S80AⅢ★ダイヘッド付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85S80A%E2%85%A2%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    },
+    {
+      "title":"REX★パイプマシン ねじ切り機★太陽 150A★ダイヘッド多数",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/REX%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85%E5%A4%AA%E9%99%BD+150A%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E5%A4%9A%E6%95%B0.jpg"
+    },
+    {
+      "title":"RIDGID★パイプマシン ねじ切り機★1210",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/RIDGID%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%851210.jpg"
+    },
+    {
+      "title":"SONE★コンジェット マイコン82★パイプマシン ねじ切り機",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/SONE%E2%98%85%E3%82%B3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88+%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B382%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F.jpg"
+    },
+    {
+      "title":"松坂鉄工所★MCC80W★パイプマシン ねじ切り機★LM-23★ダイヘッド付",
+      "imageSrc":"https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F(%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3)/cameraImagesGallery/%E6%9D%BE%E5%9D%82%E9%89%84%E5%B7%A5%E6%89%80%E2%98%85MCC80W%E2%98%85%E3%83%91%E3%82%A4%E3%83%97%E3%83%9E%E3%82%B7%E3%83%B3+%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A%E6%A9%9F%E2%98%85LM-23%E2%98%85%E3%83%80%E3%82%A4%E3%83%98%E3%83%83%E3%83%89%E4%BB%98.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "ねじ切り機(パイプマシン)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/webImagesGallery/ねじ切り機(パイプマシン).png"
+    },
+    {
+      "title": "ねじ切り機(パイプマシン)(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/webImagesGallery/ねじ切り機(パイプマシン) (1).png"
+    },
+    {
+      "title": "ねじ切り機(パイプマシン)(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/webImagesGallery/ねじ切り機(パイプマシン) (2).png"
+    },
+    {
+      "title": "/ねじ切り機(パイプマシン)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/webImagesGallery/ねじ切り機(パイプマシン) (3).png"
+    },
+    {
+      "title": "/ねじ切り機(パイプマシン)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/webImagesGallery/ねじ切り機(パイプマシン) (4).png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "asada",
+      "link": "https://www.asada.co.jp/index.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/makers/asada.png"
+    },
+    {
+      "jp": "",
+      "en": "ikuratools",
+      "link": "https://www.ikuratools.com/c_maicon.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/makers/ikuratools.png"
+    },
+    {
+      "jp": "",
+      "en": "mcccorp",
+      "link": "https://mcccorp.co.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/makers/mcccorp.png"
+    },
+    {
+      "jp": "",
+      "en": "rexind",
+      "link": "https://www.rexind.co.jp/jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/makers/rexind.png"
+    },
+    {
+      "jp": "",
+      "en": "ridgid",
+      "link": "https://www.ridgid.com/jp/ja/threading-pipe-fabrication",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/管工事機械・工具/ねじ切り機(パイプマシン)/makers/ridgid.png"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "解体もしてくれますか？",
+      "answer": "はい、当社のスタッフが解体作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 4,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 5,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でねじ切り機(パイプマシン)の買取実績があります。"
+    },
+    {
+      "id": 6,
+      "question": "不要になった金属材料がありますが、処分してくれますか？",
+      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなった ねじ切り機（パイプマシン） はございませんか？\nハディズでは、あらゆるメーカー・型式の 中古\nねじ切り機（パイプマシン）を買取 しています。\n重量のある機械や大型機種の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。\n機械の状態を適正に評価し、公正な価格での買取と速やかなお支払い をお約束します。"
+}

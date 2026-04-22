@@ -13,7 +13,7 @@ export async function POST(req: Request) {
   const clientEmail = body.email
   const clientName = body.name
 
-  const adminEmail = process.env.GMAIL_USER
+  const adminEmail = process.env.SMTP_USER
   // const adminEmail = "audirezk@gmail.com"
 
 

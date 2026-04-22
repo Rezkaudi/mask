@@ -6,6 +6,7 @@ const Inquiry = dynamic(() => import("@/components/common/sections/Inquiry"));
 // baseUrl
 import { baseUrl } from "@/utils/baseUrl";
 import ContactBanner from "@/components/pages/home/sections/ContactBanner";
+import { ServiceSchema, BreadcrumbSchema, generateBreadcrumbs } from '@/components/seo/schemas';
 
 // metadata
 export const metadata: Metadata = {
@@ -21,6 +22,15 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <>
+      {/* ✅ 追加: Structured Data */}
+      <ServiceSchema
+        name="無料価格査定"
+        description="弊社にとって、お客様に納得して頂けるお見積を提供出来る事は何よりも大切です。査定料は一切いただきません。"
+        url="https://www.mac-hadis.com/satei"
+        serviceType="無料査定サービス"
+      />
+      <BreadcrumbSchema items={generateBreadcrumbs.satei()} />
+
       <Inquiry />
       <ContactBanner showFormBtn={false} />
     </>

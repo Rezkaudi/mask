@@ -1,47 +1,214 @@
 [
   {
-    "id": 1,
-    "title1": "TopMan トップマン",
-    "title2": "岡田金属",
-    "title3": "小型 卓上旋盤",
-    "model": "TEL-400LS",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product1.jpg"
+    "title": "AIRMAN 北越工業★エンジンコンプレッサ★ ★PDS130SC-5C3",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/AIRMAN 北越工業★エンジンコンプレッサ★ ★PDS130SC-5C3.jpeg",
+    "categoryCover": true
   },
   {
-    "id": 2,
-    "title1": "ヤンマー",
-    "title2": "ディーゼルトラクター",
-    "title3": "ニューフォルテ",
-    "model": "F165D",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product2.jpg"
+    "title": "AIRMAN 北越工業★エンジン発電機★SDG25S",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/AIRMAN 北越工業★エンジン発電機★SDG25S.jpeg"
   },
   {
-    "id": 3,
-    "title1": "スター農機",
-    "title2": "Strautmann",
-    "title3": "ストラウトマン圧縮減容機",
-    "model": "MK700 60Hz",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product3.jpg"
+    "title": "HITACHI 日立★3.7kW 5馬力★エアコンプレッサ ベビコン★3.7P-14VP5★50Hz",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/HITACHI 日立★3.7kW 5馬力★エアコンプレッサ ベビコン★3.7P-14VP5★50Hz.jpeg",
+    "categoryCover": true
   },
   {
-    "id": 4,
-    "title1": "コマツ",
-    "title2": "油圧ショベル ユンボ",
-    "model": "PC28UU-3",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product4.jpg"
+    "title": "HOPKINS_BWM★シルクスクリーン印刷機★4ステーション★回転式手動印刷機★MRCB4_D-5200★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/HOPKINS_BWM★シルクスクリーン印刷機★4ステーション★回転式手動印刷機★MRCB4_D-5200★.jpg"
   },
   {
-    "id": 5,
-    "title1": "アネスト岩田",
-    "title2": "エンジンコンプレッサー",
-    "model": "PLUE22-10",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product5.jpg"
+    "title": "Husqvarna ハスクバーナ★パワーカッター★K770★12インチ★エンジンカッター コンクリートカッター",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/Husqvarna ハスクバーナ★パワーカッター★K770★12インチ★エンジンカッター コンクリートカッター.jpeg"
   },
   {
-    "id": 6,
-    "title1": "Denyo デンヨー",
-    "title2": "防音型エンジン発電機",
-    "model": "DCA-60LSIE",
-    "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product6.jpg"
+    "title": "西野製作所★自動万能木工機★SL-100型",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/IMG_6442.JPG",
+    "categoryCover": true
+  },
+  {
+    "title": "JUKI★筒型一本針本縫上下送りミシン★DSU-144N★2倍釜★厚物★取説付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/JUKI★筒型一本針本縫上下送りミシン★DSU-144N★2倍釜★厚物★取説付.jpeg"
+  },
+  {
+    "title": "KOMATSU コマツ★フォークリフト★FB09-3★最大荷重900kg",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/KOMATSU コマツ★フォークリフト★FB09-3★最大荷重900kg.jpeg"
+  },
+  {
+    "title": "MIKASA 三笠★タンピングランマー 転圧機★MT-72FWA",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/MIKASA 三笠★タンピングランマー 転圧機★MT-72FWA.jpeg"
+  },
+  {
+    "title": "Mimaki ミマキ★UV-LED硬化フラットベッドインクジェットプリンタ★  ★UJF-3042MkⅡ★2020年製★Kebabユニット ソフト付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/Mimaki ミマキ★UV-LED硬化フラットベッドインクジェットプリンタ★  ★UJF-3042MkⅡ★2020年製★Kebabユニット ソフト付.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "NITTO 日東工器★マルチワーカー★MW-50",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/NITTO 日東工器★マルチワーカー★MW-50.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "REX レッキス★パイプマシン★ねじ切り機★N80AIII★ダイヘッド3台付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/REX レッキス★パイプマシン★ねじ切り機★N80AIII★ダイヘッド3台付.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "Roland ローランド★UV-LEDインクジェットプリンター★VersaUV LEF-12i★2018年製★取説-ソフト-専用脱臭装置付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/Roland ローランド★UV-LEDインクジェットプリンター★VersaUV LEF-12i★2018年製★取説-ソフト-専用脱臭装置付.jpeg"
+  },
+  {
+    "title": "SOKKIA ソキア★トータルステーション★SRX5★一式",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/SOKKIA ソキア★トータルステーション★SRX5★一式.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "SUMOTO 洲本★高圧温水洗浄機★COMPACT BODY★COM-3",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/SUMOTO 洲本★高圧温水洗浄機★COMPACT BODY★COM-3.jpeg"
+  },
+  {
+    "title": "TAKISAWA 滝沢★4尺 旋盤★TSL-DELUXE",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/TAKISAWA 滝沢★4尺 旋盤★TSL-DELUXE.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "Vixen★天体望遠鏡★ED114SS★D=114mm f=600mm★  ★GPD赤道義★スカイセンサー2000PC★取説付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/Vixen★天体望遠鏡★ED114SS★D=114mm f=600mm★  ★GPD赤道義★スカイセンサー2000PC★取説付.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "YANMAR ヤンマー★6条植え 田植機★RJ6",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/YANMAR ヤンマー★6条植え 田植機★RJ6.jpeg"
+  },
+  {
+    "title": "YANMAR ヤンマー★コンバイン★3条刈り★YH323",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/YANMAR ヤンマー★コンバイン★3条刈り★YH323.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "YANMAR ヤンマー★高圧洗浄機★P1615S-1-ED★ホースリール付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/YANMAR ヤンマー★高圧洗浄機★P1615S-1-ED★ホースリール付.jpeg"
+  },
+  {
+    "title": "_CELETTE セレッテ★フレーム修正機一式★移動式ドライブオン型★GRIFFON-MZ★自動車板金",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/_CELETTE セレッテ★フレーム修正機一式★移動式ドライブオン型★GRIFFON-MZ★自動車板金.jpg",
+    "categoryCover": true
+  },
+  {
+    "title": "_ホシザキ★業務用テーブル形冷凍冷蔵庫★RFT-180SDF★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/_ホシザキ★業務用テーブル形冷凍冷蔵庫★RFT-180SDF★.jpg"
+  },
+  {
+    "title": "_日本包装機械★シュリンク包装機★DIBIPACK 6084★三相200V★未使用フィルム付★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/_日本包装機械★シュリンク包装機★DIBIPACK 6084★三相200V★未使用フィルム付★.jpg"
+  },
+  {
+    "title": "brother ブラザー★業務用 刺繍ミシン 6針1頭★PR-620 PRT04",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/brother ブラザー★業務用 刺繍ミシン 6針1頭★PR-620 PRT04.jpeg"
+  },
+  {
+    "title": "TopMan トップマン 岡田金属 TEL-400LS",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product1.jpg"
+  },
+  {
+    "title": "ヤンマー ディーゼルトラクター F165D",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product2.jpg"
+  },
+  {
+    "title": "スター農機 Strautmann MK700 60Hz",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product3.jpg"
+  },
+  {
+    "title": "コマツ 油圧ショベル ユンボ PC28UU-3",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product4.jpg"
+  },
+  {
+    "title": "アネスト岩田 エンジンコンプレッサー PLUE22-10",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product5.jpg"
+  },
+  {
+    "title": "Denyo デンヨー 防音型エンジン発電機 DCA-60LSIE",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/product6.jpg"
+  },
+  {
+    "title": "☆Panasonic★サイリスタ制御 CO2半自動溶接機★YD-350KR2★ワイヤ送給装置付☆",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆Panasonic★サイリスタ制御 CO2半自動溶接機★YD-350KR2★ワイヤ送給装置付☆.jpeg"
+  },
+  {
+    "title": "☆なんつね 南常★業務用 フローズンミートスライサー 冷凍肉スライサー★NF-410AD★三相200V☆",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆なんつね 南常★業務用 フローズンミートスライサー 冷凍肉スライサー★NF-410AD★三相200V☆.jpeg"
+  },
+  {
+    "title": "☆トヨタ★バッテリーフォークリフトトラック★6FBRJ9★24V★最大揚高2000mm★最大荷重900kg★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆トヨタ★バッテリーフォークリフトトラック★6FBRJ9★24V★最大揚高2000mm★最大荷重900kg★.jpeg"
+  },
+  {
+    "title": "☆ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg-3.7t★2021年製★取説付★美品★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/%E2%98%86%E3%83%93%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%B3+%E3%82%B9%E3%82%AE%E3%83%A4%E3%82%B9%E2%98%85%E9%96%80%E5%9E%8B%E3%83%AA%E3%83%95%E3%83%88+2%E6%9F%B1%E3%83%AA%E3%83%95%E3%83%88%E2%98%85NSA37H%E2%98%853700kg-3.7t%E2%98%852021%E5%B9%B4%E8%A3%BD%E2%98%85%E5%8F%96%E8%AA%AC%E4%BB%98%E2%98%85%E7%BE%8E%E5%93%81%E2%98%85.jpeg"
+  },
+  {
+    "title": "☆ヤンマー★FORTE★F230★トラクター★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆ヤンマー★FORTE★F230★トラクター★.jpeg"
+  },
+  {
+    "title": "☆三井精機★スクロールコンプレッサ★ESCAL45R★50Hz☆",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆三井精機★スクロールコンプレッサ★ESCAL45R★50Hz☆.jpeg"
+  },
+  {
+    "title": "☆山本製作所★動力折曲機 折り曲げ機★曲げ幅 3000mm★NE-30★取説付★",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/☆山本製作所★動力折曲機 折り曲げ機★曲げ幅 3000mm★NE-30★取説付★.jpeg",
+    "categoryCover": true
+  },
+  {
+    "title": "クボタ★ミニユンボ★K-008",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/クボタ★ミニユンボ★K-008.jpeg"
+  },
+  {
+    "title": "サンモア★縦型圧縮梱包機★SX-V8055★圧縮能力10t★2017年製★取説付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/サンモア★縦型圧縮梱包機★SX-V8055★圧縮能力10t★2017年製★取説付.jpeg"
+  },
+  {
+    "title": "スズキ★船外機★DF225",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/スズキ★船外機★DF225.jpeg"
+  },
+  {
+    "title": "タイヤチェンジャー★ユーロスター★EU39NA★  ★TECO 36 S ti★サポートアーム付 UPH4(A28)★50Hz",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/タイヤチェンジャー★ユーロスター★EU39NA★  ★TECO 36 S ti★サポートアーム付 UPH4(A28)★50Hz.jpeg"
+  },
+  {
+    "title": "ダイヘン★ロボット溶接機★アルメガ AX-MV6★AX-C★DM350★取説付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/ダイヘン★ロボット溶接機★アルメガ AX-MV6★AX-C★DM350★取説付.jpeg"
+  },
+  {
+    "title": "三菱★耕運機 管理機★MS85★8.5馬力",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/三菱★耕運機 管理機★MS85★8.5馬力.jpeg"
+  },
+  {
+    "title": "城進機械工業★ロータリーシャー★鈑金機械 建築板金",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/城進機械工業★ロータリーシャー★鈑金機械 建築板金.jpeg"
+  },
+  {
+    "title": "愛工舎★大型ミキサー ベーカリー★マイティ25 50Hz",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/愛工舎★大型ミキサー ベーカリー★マイティ25 50Hz.jpeg"
+  },
+  {
+    "title": "新ダイワ★防音型 エンジン発電機兼用溶接機★EGW150MD-I",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/新ダイワ★防音型 エンジン発電機兼用溶接機★EGW150MD-I.jpeg"
+  },
+  {
+    "title": "日本ホイスト★2.8t 巻上機 標準揚程型 普通型★NHEE2.8TA★取説 ラジコン付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/日本ホイスト★2.8t 巻上機 標準揚程型 普通型★NHEE2.8TA★取説 ラジコン付.jpeg"
+  },
+  {
+    "title": "日立工機★180mmロータリーバンドソー★CB18FA3",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/日立工機★180mmロータリーバンドソー★CB18FA3.jpeg"
+  },
+  {
+    "title": "松浦機械★立フライス盤★FVR-1B",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/松浦機械★立フライス盤★FVR-1B.jpeg"
+  },
+  {
+    "title": "根本★FINISHER 靴修理機械★NS-100F★取説付",
+    "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/purchase-resultes-section/根本★FINISHER 靴修理機械★NS-100F★取説付.jpeg"
   }
 ]

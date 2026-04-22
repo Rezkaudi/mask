@@ -1,0 +1,156 @@
+{
+  "id": 10,
+  "title": "マルチワーカー",
+  "category": "金属加工機械・板金機械",
+  "types": [
+    "大型マルチワーカー",
+    "ポータブルマルチワーカー",
+    "アングルカッター",
+    "アングルベンダー",
+    "アングルノッチャー",
+    "パンチャー（穴あけ機）",
+    "NCアングル加工機"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "Asada アサダ★アングルマシン75★アングル加工機★フットスイッチ 油圧ポンプ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/Asada アサダ★アングルマシン75★アングル加工機★フットスイッチ 油圧ポンプ.jpg"
+    },
+    {
+      "title": "KOMATSU コマツ★ポンチング マルチワーカー★K-Ⅲ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/KOMATSU コマツ★ポンチング マルチワーカー★K-Ⅲ.jpg"
+    },
+    {
+      "title": "NITTO 日東工器★マルチワーカー★MW-35",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/NITTO 日東工器★マルチワーカー★MW-35.jpg"
+    },
+    {
+      "title": "NITTO 日東工器★マルチワーカー★MW-50",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/NITTO 日東工器★マルチワーカー★MW-50.jpg"
+    },
+    {
+      "title": "TAKEDA-タケダ機械★エッヂノッチ★アングル切り欠き自在★プレス用ユニット金型★NS-75★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/TAKEDA-タケダ機械★エッヂノッチ★アングル切り欠き自在★プレス用ユニット金型★NS-75★.JPG"
+    },
+    {
+      "title": "亀倉★マルチアングル加工機★カリブジュニア★  ★油圧ユニット KJ-75R★ダイセット2個 KJ-75VD",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/亀倉★マルチアングル加工機★カリブジュニア★  ★油圧ユニット KJ-75R★ダイセット2個 KJ-75VD.jpg"
+    },
+    {
+      "title": "日東工器★マルチワーカー MW-20★ポンプHPS-10",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/cameraImagesGallery/日東工器★マルチワーカー MW-20★ポンプHPS-10.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "アングル加工機(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機(1).jpeg"
+    },
+    {
+      "title": "アングル加工機(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機(2).jpeg"
+    },
+    {
+      "title": "アングル加工機(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機(3).jpeg"
+    },
+    {
+      "title": "アングル加工機(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機(4).jpeg"
+    },
+    {
+      "title": "アングル加工機(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機(5).jpeg"
+    },
+    {
+      "title": "アングル加工機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/アングル加工機.jpeg"
+    },
+    {
+      "title": "マルチワーカー(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/マルチワーカー(1).jpeg"
+    },
+    {
+      "title": "マルチワーカー",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/webImagesGallery/マルチワーカー.jpeg"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "asada",
+      "link": "https://www.asada.co.jp/index.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/asada.jpg"
+    },
+    {
+      "jp": "",
+      "en": "ikuratools",
+      "link": "https://www.ikuratools.com/b_angle.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/ikuratools.JPG"
+    },
+    {
+      "jp": "",
+      "en": "kamekura",
+      "link": "https://www.kamekura.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/kamekura.PNG"
+    },
+    {
+      "jp": "",
+      "en": "komatsu",
+      "link": "https://www.komatsu.jp/ja",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/komatsu.PNG"
+    },
+    {
+      "jp": "",
+      "en": "makita",
+      "link": "https://www.makita.co.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/makita.jpg"
+    },
+    {
+      "jp": "",
+      "en": "nitto",
+      "link": "https://www.nitto-kohki.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/金属加工機械・ 板金機械/マルチワーカー/makers/nitto.jpg"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "大きくてそのまま出すことができませんが、搬出可能ですか？",
+      "answer": "はい、問題ありません。必要な工具を持参し、当社のスタッフが分解・取り外し作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "オイルはそのままでも大丈夫ですか？",
+      "answer": "はい、当社のスタッフが抜き取り作業を行い、適切に処分いたします。"
+    },
+    {
+      "id": 4,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 5,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 6,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地で整備リフトの買取実績があります。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなったマルチワーカーはございませんか？\nハディズでは、あらゆるメーカー・型式の中古マルチワーカーを高価買取しています。重量のある複合加工機の搬出・運搬も、専門知識を持つスタッフが安全かつ迅速に対応いたします。機械の状態を正確に査定し、公正な価格での買取とスムーズなお支払いをお約束します"
+}

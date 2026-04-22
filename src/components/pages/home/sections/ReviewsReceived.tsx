@@ -9,7 +9,6 @@ const ReviewsReceived: React.FC = () => {
       <Image
         className=" absolute -z-10 top-0 left-0 object-cover"
         fill
-        loading="eager"
         src={
           "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"
         }

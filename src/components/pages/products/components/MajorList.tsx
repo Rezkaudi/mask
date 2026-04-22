@@ -17,7 +17,6 @@ const MajorList = ({ title, companies }: IMajorListProps) => {
           "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"
         }
         alt="hero-background-hadis"
-        loading="eager"
       />
       {/* Content */}
       <h2 className="bg-gradient-to-r from-light-red to-dark-red bg-clip-text text-transparent text-center text-[32px] leading-[36px] lg:text-[65px] lg:leading-[90px] font-black">
@@ -32,6 +31,7 @@ const MajorList = ({ title, companies }: IMajorListProps) => {
           <Link
             key={index}
             target="_blank"
+            rel="noopener noreferrer"
             href={item.link}
             className="px-4 py-3 bg-white border-[3px] border-[#B81122] flex justify-center items-center min-h-[100px] max-h-[100px] lg:min-h-[150px] lg:max-h-[150px] overflow-hidden"
           >
@@ -40,7 +40,6 @@ const MajorList = ({ title, companies }: IMajorListProps) => {
               alt={item.en}
               width={250}
               height={250}
-              unoptimized
               className="w-full h-full object-contain"
             />
           </Link>

@@ -51,19 +51,19 @@
       "items": [
         {
           "id": "1",
-          "description": "✅ <strong>高価買取保証</strong>– 適正価格で査定し、お客様にご満足いただける価格をご提示します。"
+          "description": "<strong>高価買取保証</strong>– 適正価格で査定し、お客様にご満足いただける価格をご提示します。"
         },
         {
           "id": "2",
-          "description": "✅ <strong>即日査定・スピード対応</strong>– 迅速な対応で、お客様の貴重な時間を無駄にしません。"
+          "description": "<strong>即日査定・スピード対応</strong>– 迅速な対応で、お客様の貴重な時間を無駄にしません。"
         },
         {
           "id": "3",
-          "description": "✅ <strong>全国対応 </strong>– 日本全国どこでも対応可能"
+          "description": "<strong>全国対応 </strong>– 日本全国どこでも対応可能"
         },
         {
           "id": "4",
-          "description": "✅ <strong>簡単手続き </strong> – 煩雑な書類手続きは不要。スムーズに買取を進めます。"
+          "description": "<strong>簡単手続き </strong> – 煩雑な書類手続きは不要。スムーズに買取を進めます。"
         }
       ]
     },

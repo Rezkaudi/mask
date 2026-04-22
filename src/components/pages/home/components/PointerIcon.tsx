@@ -10,7 +10,6 @@ const PointerIcon = () => {
       alt="poninter"
       width={41}
       height={60}
-      loading="eager"
     />
   );
 };

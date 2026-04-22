@@ -24,7 +24,7 @@ export class SystemEmailTemplate extends EmailTemplate {
         ${this.addField("登録番号の提供", this.data.provideRegistrationNumber)}
         ${this.addField("都道府県", this.data.city)}
         ${this.addField("市区町村", this.data.product_info)}
-        ${this.addField("追加のメモ", this.data.additional_notes)}
+        ${this.addField("追加のメモ", this.data.additional_notes, false, true)}
         ${this.data.productsList
                 .map((product: Product, productIndex: number) =>
                     `

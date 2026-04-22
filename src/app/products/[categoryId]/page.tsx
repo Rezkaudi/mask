@@ -8,6 +8,8 @@ import { getCategoryById } from "@/services/category";
 import { baseUrl } from "@/utils/baseUrl";
 import { notFound } from "next/navigation";
 
+import { ServiceSchema, BreadcrumbSchema, generateBreadcrumbs } from '@/components/seo/schemas';
+
 interface IPageProps {
   params: Promise<{
     categoryId: string;
@@ -63,8 +65,24 @@ const page = async ({ params }: IPageProps) => {
   if (!categoryData) {
     return notFound()
   }
+  const categoryTitle = categoryData.title.replace(/\n/g, '');
 
-  return <CategoryPage categoryData={categoryData} />;
+  return (
+    <>
+      {/* ✅ 追加: Structured Data */}
+      <ServiceSchema
+        name={`${categoryTitle}買取サービス`}
+        description={`${categoryTitle}の高価買取ならハディズへ。全国対応、出張費・査定費無料。創業25年以上の実績。`}
+        url={`${baseUrl}/products/${categoryId}`}
+        image={categoryData.imageSrc}
+      />
+      <BreadcrumbSchema
+        items={generateBreadcrumbs.category(categoryId, categoryTitle)}
+      />
+
+      <CategoryPage categoryData={categoryData} />
+    </>
+  );
 };
 
 export default page;

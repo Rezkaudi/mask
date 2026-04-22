@@ -1,19 +1,24 @@
 import { useHaveDetails } from "@/hooks/useHaveDetails";
+import { getCategoryTitleById } from "@/services/category";
 import Image from "next/image";
 import Link from "next/link";
 
 interface IPurchaseItemsCardProps {
   title: string;
   categoryId?: string;
+  categoryName?: string;
   image: string;
 }
 
 const PurchaseItemsCard = ({
   title,
   categoryId,
+  categoryName,
   image,
 }: IPurchaseItemsCardProps) => {
-  const haveDetails = useHaveDetails(title);
+  const resolvedCategoryName =
+    categoryName ?? (categoryId ? getCategoryTitleById(categoryId) : undefined);
+  const haveDetails = useHaveDetails(title, resolvedCategoryName);
 
   // Common content to avoid duplication
   const content = (
@@ -29,7 +34,6 @@ const PurchaseItemsCard = ({
           alt={title}
           width={190}
           height={190}
-          loading="eager"
           className="w-auto h-[140px] lg:w-auto lg:h-[190px]"
         />
       </div>
@@ -41,7 +45,6 @@ const PurchaseItemsCard = ({
             height={20}
             src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/icons/info-circle.svg"
             alt="info-icon"
-            loading="eager"
           />
         )}
       </p>

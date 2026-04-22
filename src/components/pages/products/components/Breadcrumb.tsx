@@ -38,7 +38,6 @@ const Breadcrumb = ({ title, category }: IBreadcrumbProps) => {
             width={16}
             height={16}
             alt="right arrow icon"
-            loading="eager"
           />
           <span>{title}</span>
         </div>

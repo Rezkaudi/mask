@@ -33,7 +33,6 @@ const Flow: React.FC = () => {
         src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/flow-bg.jpeg"
         alt="Background image for flow section"
         fill
-        loading="eager"
       />
 
       <h3 className="font-black text-xl lg:text-2xl">お持ちの工具・機械で</h3>
@@ -60,7 +59,6 @@ const Flow: React.FC = () => {
           alt="hadis image"
           width={670}
           height={76}
-          loading="eager"
         />
       </div>
 

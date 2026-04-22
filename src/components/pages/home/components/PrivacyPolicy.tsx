@@ -1,11 +1,11 @@
 import Swal from "sweetalert2";
-import "@/styles/privacy.css";
+import styles from "./PrivacyPolicy.module.css";
 
 const showPrivacyPolicy = () => {
   Swal.fire({
     title: "プライバシーポリシー<br />（個人情報保護方針）",
     html: `
-      <div class="privacy-modal-content">
+      <div class="${styles.privacyModalContent}">
         <p><strong>1. 事業者情報</strong>
           法人名：有限会社ハディズ・インターナショナル<br />
           住所：埼玉県狭山市笹井1丁目33-5<br />
@@ -51,11 +51,11 @@ const showPrivacyPolicy = () => {
     showConfirmButton: false,
     width: "95%",
     customClass: {
-      popup: "privacy-modal",
-      title: "privacy-title",
+      popup: styles.privacyModal,
+      title: styles.privacyTitle, 
     },
     didOpen: () => {
-      const modalContent = document.querySelector(".privacy-modal");
+      const modalContent = document.querySelector(`.${styles.privacyModal}`);
       if (modalContent) {
         modalContent.scrollTo(0, 0);
         modalContent.addEventListener(

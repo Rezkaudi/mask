@@ -1,0 +1,34 @@
+.loader {
+  box-sizing: border-box;
+  border-top: 7px solid #555;
+  border-right: 7px solid #0000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: rotation 1s linear infinite;
+  display: inline-block;
+  position: relative;
+}
+
+.loader::after {
+  content: "";
+  box-sizing: border-box;
+  border-bottom: 7px solid #0000;
+  border-left: 7px solid #ff3d00;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: rotation 0.5s linear infinite reverse;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

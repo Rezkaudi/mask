@@ -1,19 +1,31 @@
 import React from "react";
+import SectionWrapper from "./common/SectionWrapper";
+import SectionHeader from "./common/SectionHeader";
 
 interface ISimpleTemplate {
-    content: SimpleContent
+  content: SimpleContent;
+  sectionNumber?: number;
 }
-const SimpleTemplate: React.FC<ISimpleTemplate> = ({ content }) => {
-    return (
-        <div className="border-t pt-5">
-            <h2 className="font-black text-[18px] lg:text-[25px] leading-[48px]">
-                {content.title}
-            </h2>
-            {content.description?.split("\n").map((item, index) => (
-                <p className="font-normal text-base leading-8 my-5" key={index} dangerouslySetInnerHTML={{ __html: item }} />
-            ))}
-        </div>
-    )
+
+const SimpleTemplate: React.FC<ISimpleTemplate> = ({
+  content,
+  sectionNumber,
+}) => {
+  return (
+    <SectionWrapper id={content.title}>
+      <SectionHeader number={sectionNumber} title={content.title} />
+
+      <div className="prose prose-lg max-w-none">
+        {content.description?.split("\n").map((paragraph, index) => (
+          <p
+            className="font-noto font-normal text-[14px] lg:text-[16px] leading-[200%] tracking-normal align-middle text-[#323232]"
+            key={index}
+            dangerouslySetInnerHTML={{ __html: paragraph }}
+          />
+        ))}
+      </div>
+    </SectionWrapper>
+  );
 };
 
 export default SimpleTemplate;

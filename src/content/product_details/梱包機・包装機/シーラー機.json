@@ -1,0 +1,217 @@
+{
+  "id": 19,
+  "title": "シーラー機",
+  "category": "梱包機・包装機",
+  "types": [
+    "インパルス式ヒートシーラー",
+    "直熱式ヒートシーラー",
+    "コンスタントヒートシーラー",
+    "超音波式シーラー",
+    "バンドシーラー",
+    "連続式ヒートシーラー",
+    "ハンドシーラー",
+    "卓上シーラー",
+    "足踏み式シーラー",
+    "半自動式・全自動式",
+    "脱気・真空シーラー",
+    "溶着＋カットタイプ / 溶断タイプ",
+    "カップシーラー"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "★富士インパルス★ショップシーラー★FS-215★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%85%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E2%98%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85FS-215%E2%98%85.JPG"
+    },
+    {
+      "title": "☆シール工業株式会社★リアオートシール機★SHLEDV★100V★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E3%82%B7%E3%83%BC%E3%83%AB%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E2%98%85%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%AB%E6%A9%9F%E2%98%85SHLEDV%E2%98%85100V%E2%98%85.jpeg"
+    },
+    {
+      "title": "☆セキスイ 積水化学工業★半自動封緘機 ワークメイト41 ランダム型 I貼り★CT-41★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E3%82%BB%E3%82%AD%E3%82%B9%E3%82%A4+%E7%A9%8D%E6%B0%B4%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E2%98%85%E5%8D%8A%E8%87%AA%E5%8B%95%E5%B0%81%E7%B7%98%E6%A9%9F+%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%8841+%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E5%9E%8B+I%E8%B2%BC%E3%82%8A%E2%98%85CT-41%E2%98%85.jpeg"
+    },
+    {
+      "title": "☆協和電機★ユニバーサルパッカー TCL-4035★自動包装機 L型シーラー★シュリンクトンネル VS-1500★取説付★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E5%8D%94%E5%92%8C%E9%9B%BB%E6%A9%9F%E2%98%85%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%91%E3%83%83%E3%82%AB%E3%83%BC+TCL-4035%E2%98%85%E8%87%AA%E5%8B%95%E5%8C%85%E8%A3%85%E6%A9%9F+L%E5%9E%8B%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB+VS-1500%E2%98%85%E5%8F%96%E8%AA%AC%E4%BB%98%E2%98%85.JPG"
+    },
+    {
+      "title": "☆協和電機★シュリンクトンネル VS-400★T型シーラー VTC-600",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E5%8D%94%E5%92%8C%E9%9B%BB%E6%A9%9F%E2%98%85%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB+VS-400%E2%98%85T%E5%9E%8B%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC+VTC-600.JPG"
+    },
+    {
+      "title": "☆富士インパルス★足踏み式シーラー★Fi-600YCシリーズ★FI-600YC-5 PK★100V☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E2%98%85%E8%B6%B3%E8%B8%8F%E3%81%BF%E5%BC%8F%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85Fi-600YC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%98%85FI-600YC-5+PK%E2%98%85100V%E2%98%86.jpeg"
+    },
+    {
+      "title": "☆日東電工★ニトマチック カートンシーラー★封緘機★テープ貼り★SN-101DKH★100V☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E2%98%86%E6%97%A5%E6%9D%B1%E9%9B%BB%E5%B7%A5%E2%98%85%E3%83%8B%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF+%E3%82%AB%E3%83%BC%E3%83%88%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85%E5%B0%81%E7%B7%98%E6%A9%9F%E2%98%85%E3%83%86%E3%83%BC%E3%83%97%E8%B2%BC%E3%82%8A%E2%98%85SN-101DKH%E2%98%85100V%E2%98%86.jpeg"
+    },
+    {
+      "title": "SURE 石崎電機製作所★オートシーラー★NL-451PA-10",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/SURE+%E7%9F%B3%E5%B4%8E%E9%9B%BB%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80%E2%98%85%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85NL-451PA-10.jpg"
+    },
+    {
+      "title": "シール栄登★シールエイト★シーラー機★NSE200×25DPS★包装機器",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E3%82%B7%E3%83%BC%E3%83%AB%E6%A0%84%E7%99%BB%E2%98%85%E3%82%B7%E3%83%BC%E3%83%AB%E3%82%A8%E3%82%A4%E3%83%88%E2%98%85%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F%E2%98%85NSE200%C3%9725DPS%E2%98%85%E5%8C%85%E8%A3%85%E6%A9%9F%E5%99%A8.jpg"
+    },
+    {
+      "title": "ストラパック★ロットランダム標準型 カートンシーラー★T-2000★取説付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E3%82%B9%E3%83%88%E3%83%A9%E3%83%91%E3%83%83%E3%82%AF%E2%98%85%E3%83%AD%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E6%A8%99%E6%BA%96%E5%9E%8B+%E3%82%AB%E3%83%BC%E3%83%88%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85T-2000%E2%98%85%E5%8F%96%E8%AA%AC%E4%BB%98.jpg"
+    },
+    {
+      "title": "ニトマチック★カートンシーラー★SN-102DKH★半自動 梱包",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E3%83%8B%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E2%98%85%E3%82%AB%E3%83%BC%E3%83%88%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85SN-102DKH%E2%98%85%E5%8D%8A%E8%87%AA%E5%8B%95+%E6%A2%B1%E5%8C%85.jpg"
+    },
+    {
+      "title": "富士インパルス★加熱温度制御ベルトシーラー 太陽★SE-SBTA132-10W(アミメ)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E2%98%85%E5%8A%A0%E7%86%B1%E6%B8%A9%E5%BA%A6%E5%88%B6%E5%BE%A1%E3%83%99%E3%83%AB%E3%83%88%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC+%E5%A4%AA%E9%99%BD%E2%98%85SE-SBTA132-10W(%E3%82%A2%E3%83%9F%E3%83%A1).jpg"
+    },
+    {
+      "title": "富士インパルス★脱気シーラー★V-400",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E2%98%85%E8%84%B1%E6%B0%97%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85V-400.jpg"
+    },
+    {
+      "title": "富士インパルス★茶袋シーラー★FT-230★取説_交換用ヒーター_元箱付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E6%A2%B1%E5%8C%85%E6%A9%9F%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F/%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E6%A9%9F/cameraImagesGallery/%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E2%98%85%E8%8C%B6%E8%A2%8B%E3%82%B7%E3%83%BC%E3%83%A9%E3%83%BC%E2%98%85FT-230%E2%98%85%E5%8F%96%E8%AA%AC_%E4%BA%A4%E6%8F%9B%E7%94%A8%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC_%E5%85%83%E7%AE%B1%E4%BB%98.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "シーラー機.png ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機.png"
+    },
+    {
+      "title": "シーラー機(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(1).png"
+    },
+    {
+      "title": "シーラー機(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(2).png"
+    },
+    {
+      "title": "シーラー機(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(3).png"
+    },
+    {
+      "title": "シーラー機(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(4).png"
+    },
+    {
+      "title": "シーラー機(6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(5).png"
+    },
+    {
+      "title": "シーラー機(7)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(6).png"
+    },
+    {
+      "title": "シーラー機(8)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(7).png"
+    },
+    {
+      "title": "シーラー機(9)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(8).png"
+    },
+    {
+      "title": "シーラー機(10)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(9).png"
+    },
+    {
+      "title": "シーラー機(11)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(10).png"
+    },
+    {
+      "title": "シーラー機(12)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(11).png"
+    },
+    {
+      "title": "シーラー機(13)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/webImagesGallery/シーラー機(12).png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "nitto",
+      "link": "https://www.nitto.com/jp/ja/products/packaging_and_equip/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/nitto.PNG"
+    },
+    {
+      "jp": "",
+      "en": "strapack",
+      "link": "https://www.strapack.co.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/strapack.png"
+    },
+    {
+      "jp": "",
+      "en": "fujiimpulse",
+      "link": "https://www.fujiimpulse.co.jp/docs/index.shtml",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/fujiimpulse.png"
+    },
+    {
+      "jp": "",
+      "en": "seal-eight",
+      "link": "https://www.seal-eight.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/seal-eight.png"
+    },
+    {
+      "jp": "",
+      "en": "kd-sp",
+      "link": "https://www.kd-sp.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/kd-sp.png"
+    },
+    {
+      "jp": "",
+      "en": "sekisui-pack",
+      "link": "https://www.sekisui-pack.com/index.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/sekisui-pack.png"
+    },
+    {
+      "jp": "",
+      "en": "seal-industrial",
+      "link": "https://www.seal-industrial.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/seal-industrial.png"
+    },
+    {
+      "jp": "",
+      "en": "sure-ishizaki",
+      "link": "https://www.sure-ishizaki.co.jp/tool-list/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/梱包機・包装機/シーラー機/makers/sure-ishizaki.PNG"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 3,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 4,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でシーラー機の買取実績があります。"
+    },
+    {
+      "id": 5,
+      "question": "不要になった金属材料がありますが、処分してくれますか？",
+      "answer": "はい、買取の際に引き取り可能です。手数料はかかりません。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなったシーラー機はございませんか？\nハディズでは、あらゆるメーカー・型式の中古シーラー機を買取しています。重量のある機械の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と速やかなお支払いをお約束します。"
+}

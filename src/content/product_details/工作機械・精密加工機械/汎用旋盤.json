@@ -1,66 +1,125 @@
 {
   "id": 7,
   "title": "汎用旋盤",
-  "subTitle": "汎用旋盤とは？",
-  "description": "汎用旋盤は、回転する工作物に対して切削工具を当てることで、円筒形や円錐形などの回転体形状の部品を加工する工作機械です。金属・樹脂・木材など様々な素材の外径切削・内径切削・端面切削・ねじ切り・溝入れなどの加工が可能で、手動操作により職人の技術を活かした柔軟な加工ができます。機械部品の製作から修理、試作品開発、単品加工まで幅広く対応し、少量多品種の生産に適しています。NC旋盤と比べて初期投資が少なく、熟練者の技術により複雑な形状も製作可能な、ものづくりの基本となる工作機械です。",
   "category": "工作機械・精密加工機械",
-  "servicesTitle": "中古汎用旋盤の買取サービス",
-  "purchaseeProductTitle": "の買取実績",
-  "servicesDescription": "ご使用されなくなった汎用旋盤はございませんか？\nハディズでは、あらゆるメーカー・型式の中古汎用旋盤を買取しています。重量のある工作機械の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と速やかなお支払いをお約束します。",
-  "questions": [
-    {
-      "id": 1,
-      "question": "事前に準備しておくことはありますか？",
-      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
-    },
-    {
-      "id": 2,
-      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
-      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
-    },
-    {
-      "id": 3,
-      "question": "積み込みの手伝いが必要ですか？",
-      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
-    },
-    {
-      "id": 4,
-      "question": "遠方でも買取に来てくれますか？",
-      "answer": "はい、日本各地で汎用旋盤の買取実績があります。"
-    }
+  "types": [
+    "汎用旋盤（普通旋盤）",
+    "NC旋盤（CNC旋盤）",
+    "卓上旋盤",
+    "正面旋盤（面盤旋盤）",
+    "タレット旋盤",
+    "立旋盤（縦旋盤）",
+    "複合加工旋盤"
   ],
-  "kinds": [
-    "普通旋盤 – 最も一般的なタイプで、手動操作により幅広い加工に対応可能",
-    "卓上旋盤 – コンパクトで省スペース、小物部品の加工や教育用途に最適",
-    "正面旋盤 – 大径・短尺の工作物に特化し、フランジやディスクの加工に優れる",
-    "タレット旋盤 – 複数の工具を搭載し、工具交換時間を短縮して生産性を向上"
-  ],
-  "merit": [
-    "汎用性の高さ – 単品から少量生産まで、様々な形状・サイズの加工に柔軟に対応",
-    "低コスト導入 – NC旋盤と比較して初期投資が少なく、中小企業でも導入しやすい",
-    "技術習得の基礎 – 機械加工の基本技術を身につけられ、熟練により高度な加工も可能"
-  ],
-  "tips": [
-    "スイング（振り）と心間距離 – 加工可能な工作物の最大径と長さを確認し、用途に合わせて選定",
-    "主軸回転数の範囲 – 加工材料と必要な表面粗さに応じた回転数が得られる機種を選択",
-    "付属品と精度 – チャック、心押台、工具類の充実度と、振れ精度・真直度を確認"
-  ],
+  "purchaseProductTitle": "の買取実績",
   "cameraImagesGallery": [
+    {
+      "title": "EGURO エグロ★精密高速旋盤★GL-120",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/EGURO エグロ★精密高速旋盤★GL-120.jpg"
+    },
+    {
+      "title": "HASEGAWA 長谷川★ミニレース 旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/HASEGAWA 長谷川★ミニレース 旋盤.jpg"
+    },
+    {
+      "title": "HOSEI ホーセイ★小型万能フライス旋盤★  ★NEW COMPLE 3000",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/HOSEI ホーセイ★小型万能フライス旋盤★  ★NEW COMPLE 3000.jpg"
+    },
+    {
+      "title": "KYOKUTO★DYNA-2000",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/KYOKUTO★DYNA-2000.jpg"
+    },
+    {
+      "title": "MAZAK-860",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/MAZAK-860.JPG"
+    },
+    {
+      "title": "MECANIX★小型卓上旋盤 MINI BENCH LATHE★  ★FL350E TYPE A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/MECANIX★小型卓上旋盤 MINI BENCH LATHE★  ★FL350E TYPE A.jpg"
+    },
+    {
+      "title": "METALWORKER★VARIABLE SPEED LATHE★卓上旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/METALWORKER★VARIABLE SPEED LATHE★卓上旋盤.jpg"
+    },
+    {
+      "title": "MORISEIKI★森精機☆MS650",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/MORISEIKI★森精機☆MS650.jpg"
+    },
+    {
+      "title": "Mecanix★卓上旋盤★L943",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/Mecanix★卓上旋盤★L943.jpg"
+    },
+    {
+      "title": "Mr.Meister★無段変速 小型卓上旋盤★TA-250A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/Mr.Meister★無段変速 小型卓上旋盤★TA-250A.jpg"
+    },
+    {
+      "title": "Mr.Meister★無段変速 小型卓上旋盤★TA-350A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/Mr.Meister★無段変速 小型卓上旋盤★TA-350A.jpg"
+    },
+    {
+      "title": "SAKAI★MINI-LATHE 小型卓上旋盤★ML-210",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/SAKAI★MINI-LATHE 小型卓上旋盤★ML-210.jpg"
+    },
     {
       "title": "SAKAI★小型卓上旋盤★ML-360",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/SAKAI★小型卓上旋盤★ML-360.jpg"
+    },
+    {
+      "title": "TAKAHASHI 高橋★旋盤★TLD-550",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKAHASHI 高橋★旋盤★TLD-550.jpg"
+    },
+    {
+      "title": "TAKAHASHI 高橋製作所★旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKAHASHI 高橋製作所★旋盤.jpg"
     },
     {
       "title": "TAKISAWA 滝沢★4尺 旋盤★TSL-DELUXE",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKISAWA 滝沢★4尺 旋盤★TSL-DELUXE.jpg"
     },
     {
+      "title": "TAKISAWA 滝沢★6尺 汎用旋盤 高速精密旋盤★TAL-460",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKISAWA 滝沢★6尺 汎用旋盤 高速精密旋盤★TAL-460.jpg"
+    },
+    {
+      "title": "TAKISAWA 滝沢★実用高速旋盤★TSL-550 DELUXE",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKISAWA 滝沢★実用高速旋盤★TSL-550 DELUXE.jpg"
+    },
+    {
+      "title": "TAKISAWA☆TAL-510",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TAKISAWA☆TAL-510.JPG"
+    },
+    {
       "title": "TopMan トップマン★岡田金属★小型 卓上旋盤★TEL-400LS",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/TopMan トップマン★岡田金属★小型 卓上旋盤★TEL-400LS.jpg"
     },
     {
+      "title": "WAKENKIKO★旋盤",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/WAKENKIKO★旋盤.jpg"
+    },
+    {
+      "title": "WASINO ワシノ★6尺旋盤★LEG-19J",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/WASINO ワシノ★6尺旋盤★LEG-19J.jpg"
+    },
+    {
+      "title": "YAMAZAKI★MAZAK-24",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/YAMAZAKI★MAZAK-24.jpg"
+    },
+    {
       "title": "YANG YAM★旋盤★CL4055B★三相200V",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/YANG YAM★旋盤★CL4055B★三相200V.jpg"
+    },
+    {
+      "title": "emco★小型卓上旋盤★unimat3★ドイツ製",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/emco★小型卓上旋盤★unimat3★ドイツ製.jpg"
+    },
+    {
+      "title": "イスペット★小型旋盤★FL",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/イスペット★小型旋盤★FL.jpg"
+    },
+    {
+      "title": "コスモキカイ★卓上ミニ旋盤★切削工具★JL-100",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/コスモキカイ★卓上ミニ旋盤★切削工具★JL-100.jpg"
     },
     {
       "title": "ワシノ★高速精密旋盤★LEO-80A★6尺旋盤★  ★ミツトヨ DRO付き",
@@ -73,40 +132,48 @@
     {
       "title": "東洋アソシエイツ Mr.Meister★小型卓上旋盤★ ★TA-350A",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/東洋アソシエイツ Mr.Meister★小型卓上旋盤★ ★TA-350A.jpg"
+    },
+    {
+      "title": "東洋アソシエイツ★万能精密旋盤★TA-650A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/東洋アソシエイツ★万能精密旋盤★TA-650A.jpg"
+    },
+    {
+      "title": "無段変速小型 卓上旋盤★MINI LATHE★CJ0618A",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/cameraImagesGallery/無段変速小型 卓上旋盤★MINI LATHE★CJ0618A.jpg"
     }
   ],
   "webImagesGallery": [
     {
       "title": "汎用旋盤(1)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(1).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(1).png"
     },
     {
       "title": "汎用旋盤(2)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(2).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(2).png"
     },
     {
       "title": "汎用旋盤(3)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(3).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(3).png"
     },
     {
       "title": "汎用旋盤(4)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(4).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(4).png"
     },
     {
       "title": "汎用旋盤(5)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(5).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(5).png"
     },
     {
       "title": "汎用旋盤(6)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(6).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(6).png"
     },
     {
       "title": "汎用旋盤(7)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(7).JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤(7).png"
     },
     {
       "title": "汎用旋盤",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤.JPG"
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/webImagesGallery/汎用旋盤.png"
     }
   ],
   "makers": [
@@ -146,5 +213,34 @@
       "link": "https://www.takisawa.co.jp/index.html",
       "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/汎用旋盤/makers/takisawa.PNG"
     }
-  ]
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "事前に準備しておくことはありますか？",
+      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
+    },
+    {
+      "id": 2,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 3,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 4,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地で汎用旋盤の買取実績があります。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなった汎用旋盤はございませんか？\nハディズでは、あらゆるメーカー・型式の中古汎用旋盤を買取しています。重量のある工作機械の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と速やかなお支払いをお約束します。"
 }

@@ -25,7 +25,6 @@ const PurchasedItems = () => {
         src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/bg-items.jpg"
         alt="banner-right-bg"
         fill
-        loading="eager"
         className="object-cover opacity-10 -z-10"
       />
       {/* overlay */}

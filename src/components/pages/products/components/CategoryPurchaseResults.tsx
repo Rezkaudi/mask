@@ -1,4 +1,4 @@
-import { TPurchaseItem } from "@/types/category.type";
+import { TPurchaseItem } from "@/types/purchase-item.types";
 import PurchaseCategoryCard from "./PurchaseCategoryCard";
 
 interface ICategoryPurchaseResultsProps {

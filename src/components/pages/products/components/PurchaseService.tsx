@@ -6,13 +6,13 @@ import QuestionCard from "./QuestionCard";
 interface IPurchaseServicesProps {
   servicesTitle: string;
   servicesDescription: string;
-  questions: TQuestion[]
+  questions: TQuestion[];
 }
 
 const PurchaseServices = ({
   servicesTitle,
   servicesDescription,
-  questions
+  questions,
 }: IPurchaseServicesProps) => {
   const [openAccordion, setOpenAccordion] = useState<number | null>(null);
   const toggleAccordion = (index: number) => {
@@ -26,14 +26,12 @@ const PurchaseServices = ({
           <h2 className="text-2xl sm:text-3xl font-bold text-center text-[#B81122] mb-8">
             {servicesTitle}
           </h2>
-          <p className="mb-8 leading-7">
-            {servicesDescription.split("\n").map((desc, index) => (
-              <span key={index}>
-                {desc}
-                <br />
-              </span>
-            ))}
-          </p>
+          <div
+            className="mb-8 leading-7"
+            dangerouslySetInnerHTML={{
+              __html: servicesDescription.replace(/\n/g, "<br/>"),
+            }}
+          />
           <h2 className="text-2xl sm:text-3xl font-bold text-center text-[#B81122] mb-8">
             よくあるご質問
           </h2>

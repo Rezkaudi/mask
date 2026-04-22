@@ -17,7 +17,7 @@ const ImageUpload = ({
   const compressImage = (
     file: File,
     maxWidth: number,
-    maxHeight: number
+    maxHeight: number,
   ): Promise<string> => {
     return new Promise((resolve, reject) => {
       const img = new window.Image();
@@ -59,7 +59,7 @@ const ImageUpload = ({
 
   const handleImageChange = async (
     event: React.ChangeEvent<HTMLInputElement>,
-    imageIndex: number
+    imageIndex: number,
   ) => {
     const file = event.target.files?.[0];
     if (file) {
@@ -91,7 +91,6 @@ const ImageUpload = ({
                 <Image
                   src={image}
                   alt="Uploaded"
-                  loading="eager"
                   width={300}
                   height={150}
                   className="w-full h-full object-contain"
@@ -106,7 +105,6 @@ const ImageUpload = ({
                     alt="Upload Icon"
                     width={40}
                     height={40}
-                    loading="eager"
                   />
                 </label>
               )}
@@ -137,7 +135,6 @@ const ImageUpload = ({
                   alt="Edit"
                   width={11}
                   height={11}
-                  loading="eager"
                 />
               </button>
               <button
@@ -151,7 +148,6 @@ const ImageUpload = ({
                   alt="Delete"
                   width={11}
                   height={11}
-                  loading="eager"
                 />
               </button>
             </div>

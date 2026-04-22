@@ -1,12 +1,162 @@
 {
   "id": 1,
   "title": "整備リフト",
-  "subTitle": "整備リフトとは？",
-  "description": "整備リフトは、自動車やオートバイの点検・修理・メンテナンス作業を行う際に、車両を持ち上げるための機械です。作業の効率化、安全性向上に役立ちます。",
   "category": "自動車整備機械",
-  "servicesTitle": "中古油圧式整備リフトの買取サービス",
-  "purchaseeProductTitle": "の買取実績",
-  "servicesDescription": "お使いにならなくなったカーリフトをお持ちですか？\nハディズでは、あらゆる種類の中古油圧式カーリフトを買取しています。大型機械の搬出も、経験豊富なスタッフにお任せください。正当な価格査定、迅速なお支払いをお約束します。",
+  "types": [
+    "1柱リフト",
+    "2柱リフト",
+    "門型リフト",
+    "埋設2柱リフト",
+    "4柱リフト",
+    "シザーリフト（パンタ式リフト）",
+    "移動式リフト",
+    "バイクリフト"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "BANZAI バンザイ★ゲートリフト・スリムⅡ★GLY-40★  ★能力4t",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/BANZAI バンザイ★ゲートリフト・スリムⅡ★GLY-40★  ★能力4t.jpg"
+    },
+    {
+      "title": "BendPak★4柱リフト★HD-9ST★4.0t★解体済み★アルミデッキセット アルミスロープ48インチ他 取説付★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/BendPak★4柱リフト★HD-9ST★4.0t★解体済み★アルミデッキセット アルミスロープ48インチ他 取説付★.jpg"
+    },
+    {
+      "title": "Bishamon ビシャモン スギヤス★2柱リフト★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/Bishamon ビシャモン スギヤス★2柱リフト★.jpg"
+    },
+    {
+      "title": "Bishamon ビシャモン スギヤス★門型 二柱リフト★  ★NSA30-N33H★3000kgs",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/Bishamon ビシャモン スギヤス★門型 二柱リフト★  ★NSA30-N33H★3000kgs.jpg"
+    },
+    {
+      "title": "Bishamon ビシャモン★2柱リフト★SP-2500",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/Bishamon ビシャモン★2柱リフト★SP-2500.jpg"
+    },
+    {
+      "title": "Bishamon ビシャモン★スギヤス★2柱リフト 2.8t★  ★OSP28",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/Bishamon ビシャモン★スギヤス★2柱リフト 2.8t★  ★OSP28.jpg"
+    },
+    {
+      "title": "SKTOKI★3t油圧式シザーリフト★OLS-30D(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/SKTOKI★3t油圧式シザーリフト★OLS-30D(1).jpg"
+    },
+    {
+      "title": "SKTOKI★3t油圧式シザーリフト★OLS-30D",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/SKTOKI★3t油圧式シザーリフト★OLS-30D.jpg"
+    },
+    {
+      "title": "スギヤス ビシャモン★2柱リフト★OSP30N★3t",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/スギヤス ビシャモン★2柱リフト★OSP30N★3t.jpeg"
+    },
+    {
+      "title": "スギヤス★Bishamon ビシャモン★1柱リフト カーリフト★  ★WNI25★荷重2,500kg★自動車整備 板金",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/スギヤス★Bishamon ビシャモン★1柱リフト カーリフト★  ★WNI25★荷重2,500kg★自動車整備 板金.jpg"
+    },
+    {
+      "title": "ビシャモン スギヤス★2柱リフト★OSP25★能力2500kg★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/ビシャモン スギヤス★2柱リフト★OSP25★能力2500kg★.jpg"
+    },
+    {
+      "title": "ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg-3.7t★  ★2021年製",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg-3.7t★  ★2021年製.jpeg"
+    },
+    {
+      "title": "ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg_3.7t★2021年製★取説付★美品★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg_3.7t★2021年製★取説付★美品★.jpg"
+    },
+    {
+      "title": "ビシャモン★1柱リフト★WNI25★荷重2,500kg★自動車整備 板金",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/cameraImagesGallery/ビシャモン★1柱リフト★WNI25★荷重2,500kg★自動車整備 板金.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "自動車整備 リフト(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(1).png"
+    },
+    {
+      "title": "自動車整備 リフト(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(2).png"
+    },
+    {
+      "title": "自動車整備 リフト(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(3).png"
+    },
+    {
+      "title": "自動車整備 リフト(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(4).png"
+    },
+    {
+      "title": "自動車整備 リフト(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(5).png"
+    },
+    {
+      "title": "自動車整備 リフト(6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト(6).png"
+    },
+    {
+      "title": "自動車整備 リフト",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/webImagesGallery/自動車整備 リフト.png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "altia",
+      "link": "https://altia.co.jp/kikou/lm/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/altia.png"
+    },
+    {
+      "jp": "",
+      "en": "banzai",
+      "link": "https://www.banzai.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/banzai.png"
+    },
+    {
+      "jp": "",
+      "en": "bishamon",
+      "link": "https://www.bishamon.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/bishamon.jpg"
+    },
+    {
+      "jp": "",
+      "en": "carleolift",
+      "link": "https://www.carleolift.co.jp",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/carleolift.png"
+    },
+    {
+      "jp": "",
+      "en": "heshbon",
+      "link": "https://en.heshbon.com/Pro_2post",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/heshbon.png"
+    },
+    {
+      "jp": "",
+      "en": "iyasaka",
+      "link": "https://www.iyasaka.co.jp/products/products_category/garage/flat/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/iyasaka.png"
+    },
+    {
+      "jp": "",
+      "en": "powerrex",
+      "link": "http://powerrex.co",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/powerrex.png"
+    },
+    {
+      "jp": "",
+      "en": "sugiyasu",
+      "link": "http://sugiyasu.co.jp/products/products_car",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/sugiyasu.co.png"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
   "questions": [
     {
       "id": 1,
@@ -39,146 +189,5 @@
       "answer": "はい、日本各地で整備リフトの買取実績があります。"
     }
   ],
-  "kinds": [
-    "2柱リフト - 車の下部整備に最適",
-    "4柱リフト - 安定性が高く、大型車両向け",
-    "シザーリフト - コンパクトでタイヤ交換に便利",
-    "埋め込み式リフト - 設置コストは高いが省スペース"
-  ],
-  "merit": [
-    "作業効率の向上 – 車両を持ち上げることで、下回りの作業がしやすくなる。",
-    "安全性の確保 – ジャッキに比べて安定性が高く、事故のリスクを低減",
-    "スペースの有効活用 – 小規模なガレージでも設置できるコンパクトなモデルも存在。"
-  ],
-  "tips": [
-    "作業内容に適したタイプを選ぶ – 一般的な整備なら2柱リフト、車検作業なら4柱リフトなど。",
-    "設置スペースの確認 – 設置に必要な天井の高さや床の強度を考慮する。",
-    "耐荷重と安全性能 – 取り扱う車両の重量に対応できるか確認。"
-  ],
-  "cameraImagesGallery": [
-    {
-      "title": "BANZAI バンザイ★ゲートリフト・スリムⅡ★GLY-40★  ★能力4t",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/BANZAI+%E3%83%90%E3%83%B3%E3%82%B6%E3%82%A4%E2%98%85%E3%82%B2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%95%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%A0%E2%85%A1%E2%98%85GLY-40%E2%98%85++%E2%98%85%E8%83%BD%E5%8A%9B4t.jpg"
-    },
-    {
-      "title": "Bishamon ビシャモン スギヤス★門型 二柱リフト★  ★NSA30-N33H★3000kgs",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/Bishamon ビシャモン スギヤス★門型 二柱リフト★  ★NSA30-N33H★3000kgs.jpg"
-    },
-    {
-      "title": "Bishamon ビシャモン★2柱リフト★SP-2500",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/Bishamon ビシャモン★2柱リフト★SP-2500.jpg"
-    },
-    {
-      "title": "Bishamon ビシャモン★スギヤス★2柱リフト 2.8t★  ★OSP28",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/Bishamon ビシャモン★スギヤス★2柱リフト 2.8t★  ★OSP28.jpg"
-    },
-    {
-      "title": "Bishamon ビシャモン★スギヤス★門型リフト★NSA30N★  ★能力3000kg",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/Bishamon ビシャモン★スギヤス★門型リフト★NSA30N★  ★能力3000kg.jpg"
-    },
-    {
-      "title": "SKTOKI★3t油圧式シザーリフト★OLS-30D(1)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/SKTOKI%E2%98%853t%E6%B2%B9%E5%9C%A7%E5%BC%8F%E3%82%B7%E3%82%B6%E3%83%BC%E3%83%AA%E3%83%95%E3%83%88%E2%98%85OLS-30D(1).jpg"
-    },
-    {
-      "title": "SKTOKI★3t油圧式シザーリフト★OLS-30D",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/SKTOKI★3t油圧式シザーリフト★OLS-30D.jpg"
-    },
-    {
-      "title": "スギヤス ビシャモン★2柱リフト★OSP30N★3t",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/%E3%82%B9%E3%82%AE%E3%83%A4%E3%82%B9+%E3%83%93%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%B3%E2%98%852%E6%9F%B1%E3%83%AA%E3%83%95%E3%83%88%E2%98%85OSP30N%E2%98%853t.jpg"
-    },
-    {
-      "title": "スギヤス★Bishamon ビシャモン★1柱リフト カーリフト★  ★WNI25★荷重2,500kg★自動車整備 板金",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/スギヤス★Bishamon ビシャモン★1柱リフト カーリフト★  ★WNI25★荷重2,500kg★自動車整備 板金.jpg"
-    },
-    {
-      "title": "ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg_3.7t★  ★2021年製",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/ビシャモン スギヤス★門型リフト 2柱リフト★NSA37H★3700kg_3.7t★  ★2021年製.jpg"
-    },
-    {
-      "title": "ビシャモン★1柱リフト★WNI25★荷重2,500kg★自動車整備 板金",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/ビシャモン★1柱リフト★WNI25★荷重2,500kg★自動車整備 板金.jpg"
-    }
-  ],
-  "webImagesGallery": [
-    {
-      "title": "自動車整備 リフト(1)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/自動車整備 リフト(1).jpg"
-    },
-    {
-      "title": "自動車整備 リフト(2)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99+%E3%83%AA%E3%83%95%E3%83%88(2).jpg"
-    },
-    {
-      "title": "自動車整備 リフト(3)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99+%E3%83%AA%E3%83%95%E3%83%88(3).jpeg"
-    },
-    {
-      "title": "自動車整備 リフト(4)",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/%E6%95%B4%E5%82%99%E3%83%AA%E3%83%95%E3%83%88/images_gallery/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99+%E3%83%AA%E3%83%95%E3%83%88(4).jpeg"
-    },
-    {
-      "title": "自動車整備 リフト",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/自動車整備 リフト.jpg"
-    },
-    {
-      "title": "自動車整備 1柱リフト",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/自動車整備 1柱リフト.png"
-    },
-    {
-      "title": "自動車用 リフト",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/images_gallery/自動車用 リフト.jpg"
-    }
-  ],
-  "makers": [
-    {
-      "jp": "",
-      "en": "altia",
-      "link": "https://altia.co.jp/kikou/lm/",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/altia.png"
-    },
-    {
-      "jp": "",
-      "en": "banzai",
-      "link": "https://www.banzai.co.jp.p",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/banzai.png"
-    },
-    {
-      "jp": "",
-      "en": "bishamon",
-      "link": "http://www.bishamon.co.jp",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/bishamon.jpg"
-    },
-    {
-      "jp": "",
-      "en": "carleolift",
-      "link": "https://www.carleolift.com/index_en.php",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/carleolift.jpg"
-    },
-    {
-      "jp": "",
-      "en": "heshbon",
-      "link": "https://en.heshbon.com/Pro_2post",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/heshbon.webp"
-    },
-    {
-      "jp": "",
-      "en": "iyasaka",
-      "link": "https://www.iyasaka.co.jp/products/products_category/garage/flat/",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/iyasaka.png"
-    },
-    {
-      "jp": "",
-      "en": "powerrex",
-      "link": "http://powerrex.co",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/powerrex.png"
-    },
-    {
-      "jp": "",
-      "en": "sugiyasu",
-      "link": "http://sugiyasu.co.jp/products/products_car.php",
-      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/自動車整備機械/整備リフト/makers/sugiyasu.png"
-    }
-  ]
+  "servicesDescription": "お使いにならなくなったカーリフトをお持ちですか？\nハディズでは、あらゆる種類の中古油圧式カーリフトを買取しています。大型機械の搬出も、経験豊富なスタッフにお任せください。正当な価格査定、迅速なお支払いをお約束します。"
 }

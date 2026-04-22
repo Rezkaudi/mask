@@ -1,44 +1,84 @@
+/* ═══════════════════════════════════════════════════════════════════════════════
+   TAILWIND CSS - Base Imports
+   ═══════════════════════════════════════════════════════════════════════════════
+   
+   NOTE: experimental.optimizeCss in next.config.mjs enables Critters which:
+   1. Extracts critical CSS from Tailwind output
+   2. Inlines above-the-fold styles in <head>
+   3. Defers the rest with media="print" trick
+   
+   Keep this file clean - Critters handles the critical/non-critical split
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.card {
-  @apply relative;
+/* ─────────────────────────────────────────────────────────────────────────────
+   SCROLL BEHAVIOR - Non-critical enhancement
+   ───────────────────────────────────────────────────────────────────────────── */
+html {
+  scroll-behavior: auto;
 }
 
-.card::before {
-  content: "";
-  @apply absolute top-0 left-0 right-0 h-[6px] rounded-t-[6px];
-  background: linear-gradient(90deg, #b81122 0%, #c93f4f 100%);
+html:focus-within {
+  scroll-behavior: smooth;
 }
 
-.gradient-red {
-  background: linear-gradient(to right bottom, #b81122 50%, #ac0c1c 50%);
-  border: 2px solid #990e1c;
-  /* -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #AD0D1D; */
-  text-shadow: 2px 2px 0 #990e1c, -2px 2px 0 #990e1c, -2px -2px 0 #990e1c,
-    2px -2px 0 #990e1c;
-}
+/* ─────────────────────────────────────────────────────────────────────────────
+   CUSTOM COMPONENT STYLES - Below the fold
+   These are NOT critical for initial paint
+   ───────────────────────────────────────────────────────────────────────────── */
+@layer components {
+  /* Gradient buttons - used in various sections */
+  .gradient-red {
+    background: linear-gradient(to right bottom, #b81122 50%, #ac0c1c 50%);
+    border: 2px solid #990e1c;
+    text-shadow:
+      2px 2px 0 #990e1c,
+      -2px 2px 0 #990e1c,
+      -2px -2px 0 #990e1c,
+      2px -2px 0 #990e1c;
+  }
 
-.gradient-green {
-  background: linear-gradient(to right bottom, #50cb68 50%, #49bf60 50%);
-  border: 2px solid #43b058;
-  /* -webkit-text-stroke-width: 2px; */
-  /* -webkit-text-stroke-color: #4AC061; */
-  text-shadow: 2px 2px 0 #4ac061, -2px 2px 0 #4ac061, -2px -2px 0 #4ac061,
-    2px -2px 0 #4ac061;
-}
+  .gradient-green {
+    background: linear-gradient(to right bottom, #50cb68 50%, #49bf60 50%);
+    border: 2px solid #43b058;
+    text-shadow:
+      2px 2px 0 #4ac061,
+      -2px 2px 0 #4ac061,
+      -2px -2px 0 #4ac061,
+      2px -2px 0 #4ac061;
+  }
 
-.gradient-blue {
-  background: linear-gradient(to right bottom, #0194f7 50%, #008ae6 50%);
-  border: 2px solid #017fd4;
-  /* -webkit-text-stroke-width: 2px; */
-  /* -webkit-text-stroke-color: #017FD4; */
-  text-shadow: 2px 2px 0 #017fd4, -2px 2px 0 #017fd4, -2px -2px 0 #017fd4,
-    2px -2px 0 #017fd4;
-}
+  .gradient-blue {
+    background: linear-gradient(to right bottom, #0194f7 50%, #008ae6 50%);
+    border: 2px solid #017fd4;
+    text-shadow:
+      2px 2px 0 #017fd4,
+      -2px 2px 0 #017fd4,
+      -2px -2px 0 #017fd4,
+      2px -2px 0 #017fd4;
+  }
 
-.gradient-navigation {
-  background: linear-gradient(to right bottom, #b81122 50%, #ac0c1c 50%);
+  .gradient-sky {
+    background: linear-gradient(to right bottom, #3fa7d6 50%, #164e63 50%);
+    border: 2px solid #017fd4;
+    text-shadow:
+      2px 2px 0 #3fa7d6,
+      -2px 2px 0 #3fa7d6,
+      -2px -2px 0 #3fa7d6,
+      2px -2px 0 #3fa7d6;
+  }
+
+  /* Card styles with top border accent */
+  .card {
+    @apply relative;
+  }
+
+  .card::before {
+    content: "";
+    @apply absolute top-0 left-0 right-0 h-[6px] rounded-t-[6px];
+    background: linear-gradient(90deg, #b81122 0%, #c93f4f 100%);
+  }
 }

@@ -18,7 +18,7 @@
     {
       "id": 3,
       "title": "スポット溶接機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/スポット溶接機.jpg",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/スポット溶接機.png",
       "category": "自動車整備機械"
     },
     {
@@ -29,80 +29,86 @@
     },
     {
       "id": 5,
-      "title": "Snap-on スナップオン . 工具",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/Snap-on スナップオン。自動車整備工具.jpg",
+      "title": "フレーム修正機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/フレーム修正機.png",
       "category": "自動車整備機械"
     },
     {
       "id": 6,
-      "title": "オイルチェンジャー",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/オイルチェンジャー.jpg",
+      "title": "Snap-on スナップオン",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/Snap-on スナップオン。自動車整備工具.jpeg",
       "category": "自動車整備機械"
     },
     {
       "id": 7,
-      "title": "サンドブラスト機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/サンドブラスト機.jpg",
+      "title": "高圧洗浄機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/高圧洗浄機.png",
       "category": "自動車整備機械"
     },
     {
       "id": 8,
-      "title": "ヒーター(塗装用乾燥機)",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/ヒーター(塗装用乾燥機).jpg",
+      "title": "オイルチェンジャー",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/オイルチェンジャー.png",
       "category": "自動車整備機械"
     },
     {
       "id": 9,
-      "title": "フレーム修正機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/フレーム修正機.jpg",
+      "title": "サンドブラスト機",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/サンドブラスト機.png",
       "category": "自動車整備機械"
     },
     {
       "id": 10,
+      "title": "ヒーター(塗装用乾燥機)",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/ヒーター(塗装用乾燥機).png",
+      "category": "自動車整備機械"
+    },
+    {
+      "id": 11,
       "title": "フロンガス回収機",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/フロンガス回収機.jpg",
       "category": "自動車整備機械"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "ヘッドライトテスター",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/ヘッドライトテスター.jpeg",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/ヘッドライトテスター.png",
       "category": "自動車整備機械"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "ホイールバランサー",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0/items/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%BC.jpg",
       "category": "自動車整備機械"
     },
     {
-      "id": 13,
-      "title": "排気ガステスター",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/排気ガステスター.jpg",
-      "category": "自動車整備機械"
-    },
-    {
       "id": 14,
-      "title": "整備用ジャッキ",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/整備用ジャッキ.jpg",
+      "title": "排気ガステスター",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/排気ガステスター.png",
       "category": "自動車整備機械"
     },
     {
       "id": 15,
-      "title": "油圧プレス",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/油圧プレス.jpg",
+      "title": "整備用ジャッキ",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/整備用ジャッキ.png",
       "category": "自動車整備機械"
     },
     {
       "id": 16,
-      "title": "門型クレーン",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/門型クレーン.jpg",
+      "title": "油圧プレス",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/油圧プレス.png",
       "category": "自動車整備機械"
     },
     {
       "id": 17,
-      "title": "高圧洗浄機",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/高圧洗浄機.png",
+      "title": "門型クレーン",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/門型クレーン.png",
+      "category": "自動車整備機械"
+    },
+    {
+      "id": 18,
+      "title": "ミキシングマシン",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/自動車整備機械/items/ミキシングマシン.jpeg",
       "category": "自動車整備機械"
     }
   ],

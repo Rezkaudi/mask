@@ -8,7 +8,7 @@ interface ContactBtnProps {
   label: string;
   href: string;
   mobileLabel?: string;
-  variant: "red" | "blue" | "green";
+  variant: "red" | "blue" | "green" | "sky";
   onClick?: React.MouseEventHandler<HTMLAnchorElement>;
 }
 
@@ -26,6 +26,7 @@ const ContactBtn: React.FC<ContactBtnProps> = ({
     red: "gradient-red",
     blue: "gradient-blue",
     green: "gradient-green",
+    sky: "gradient-sky",
   }[variant];
 
   // Define icon paths for each variant
@@ -34,6 +35,7 @@ const ContactBtn: React.FC<ContactBtnProps> = ({
     blue: "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/icons/computer.svg",
     green:
       "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/icons/line-green.svg",
+    sky: "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/icons/phone_in_talk.svg",
   };
 
   return (
@@ -45,8 +47,8 @@ const ContactBtn: React.FC<ContactBtnProps> = ({
         variant === "red"
           ? "phone"
           : variant === "blue"
-          ? "online support"
-          : "Line app"
+            ? "online support"
+            : "Line app"
       }`}
       className={`${gradientBg}  relative font-black rounded h-14 text-white flex items-center justify-center sm:w-fit px-3 sm:px-14 py-3 gap-1 lg:gap-3 ${className}`}
       onClick={onClick}
@@ -57,7 +59,6 @@ const ContactBtn: React.FC<ContactBtnProps> = ({
         alt={`${variant} contact icon`}
         width={32}
         height={32}
-        loading="eager"
       />
       <span className="text-nowrap overflow-hidden hidden lg:block">
         {label}
@@ -70,7 +71,6 @@ const ContactBtn: React.FC<ContactBtnProps> = ({
         alt={`Arrow pointing right, styled in ${variant}`}
         width={32}
         height={32}
-        loading="eager"
       />
     </Link>
   );

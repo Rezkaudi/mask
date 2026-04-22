@@ -33,7 +33,6 @@ const NavigationButton = ({
         alt={`${direction}-arrow`}
         width={24}
         height={12}
-        loading="eager"
         className={`${arrowClass} w-[24px] lg:w-[31px] h-[12px] lg:h-[15px]`}
       />
     </div>

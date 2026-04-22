@@ -1,4 +1,6 @@
 import React from "react";
+import SectionWrapper from "./common/SectionWrapper";
+import SectionHeader from "./common/SectionHeader";
 
 interface TableContent {
   id: string;
@@ -15,44 +17,55 @@ interface TableContent {
 
 interface ITableTemplate {
   content: TableContent;
+  sectionNumber?: number;
 }
 
-const TableTemplate: React.FC<ITableTemplate> = ({ content }) => {
+const TableTemplate: React.FC<ITableTemplate> = ({
+  content,
+  sectionNumber,
+}) => {
   return (
-    <div className="border-t pt-5">
-      <h2 className="font-black text-[18px] lg:text-[25px] leading-[48px]">
-        {content.title}
-      </h2>
+    <SectionWrapper id={content.title}>
+      <SectionHeader number={sectionNumber} title={content.title} />
 
-      {content.topDescription?.split("\n").map((item, index) => (
-        <p
-          key={index}
-          className="font-normal text-base leading-8 my-5 text-black"
-          dangerouslySetInnerHTML={{ __html: item }}
-        />
-      ))}
+      {/* Top Description */}
+      {content.topDescription && (
+        <div className="mb-8">
+          {content.topDescription.split("\n").map((paragraph, index) => (
+            <p
+              key={index}
+              className="font-noto font-normal text-[14px] lg:text-[16px] leading-[200%] tracking-normal align-middle text-[#323232] mb-4"
+              dangerouslySetInnerHTML={{ __html: paragraph }}
+            />
+          ))}
+        </div>
+      )}
 
-      <div className="overflow-x-auto my-10">
-        <table className="w-full border border-black text-sm">
+      {/* Table */}
+      <div className="overflow-x-auto my-8 rounded-lg border border-gray-200 shadow-sm">
+        <table className="w-full">
           <thead>
-            <tr className="bg-white">
+            <tr className="bg-gradient-to-r from-gray-50 to-gray-100">
               {content.headers.map((header, index) => (
                 <th
                   key={index}
-                  className="border border-black px-4 py-3 text-center text-base text-black"
+                  className="px-6 py-4 text-left text-sm font-bold text-gray-700 uppercase tracking-wider border-b-2 border-gray-200"
                 >
                   {header}
                 </th>
               ))}
             </tr>
           </thead>
-          <tbody>
+          <tbody className="bg-white divide-y divide-gray-200">
             {content.rows.map((row) => (
-              <tr key={row.id}>
-                {row.columns.map((col, i) => (
+              <tr
+                key={row.id}
+                className="hover:bg-gray-50 transition-colors duration-150"
+              >
+                {row.columns.map((col, colIndex) => (
                   <td
-                    key={i}
-                    className="border border-black px-4 py-4 align-top text-left leading-relaxed font-normal text-black"
+                    key={colIndex}
+                    className="px-6 py-4 text-sm text-gray-700 leading-relaxed"
                     dangerouslySetInnerHTML={{ __html: col }}
                   />
                 ))}
@@ -62,14 +75,21 @@ const TableTemplate: React.FC<ITableTemplate> = ({ content }) => {
         </table>
       </div>
 
-      {content.bottomDescription?.split("\n").map((item, index) => (
-        <p
-          key={index}
-          className="font-normal text-base leading-8 my-5 text-black"
-          dangerouslySetInnerHTML={{ __html: item }}
-        />
-      ))}
-    </div>
+      {/* Bottom Description */}
+      {content.bottomDescription && (
+        <div className="border border-[#B81122] rounded-2xl bg-[#FFF5F6] p-4">
+          {content.bottomDescription.split("\n").map((paragraph, index) => (
+            <p
+              key={index}
+              className="text-[14px] lg:text-[16px] leading-[160%] align-middle font-noto text-[#B81122]"
+              dangerouslySetInnerHTML={{
+                __html: paragraph,
+              }}
+            />
+          ))}
+        </div>
+      )}
+    </SectionWrapper>
   );
 };
 

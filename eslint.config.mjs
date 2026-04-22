@@ -7,6 +7,13 @@ const __dirname = dirname(__filename);
 
 const compat = new FlatCompat({
   baseDirectory: __dirname,
+  rules: {
+    "react/jsx-no-target-blank": ["error", {
+      allowReferrer: false,
+      enforceDynamicLinks: "always",
+      warnOnSpreadAttributes: true,
+    }]
+  }
 });
 
 const eslintConfig = [

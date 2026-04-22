@@ -1,5 +1,6 @@
 import { TItem } from "./item.type";
 import { TMaker } from "./maker.type";
+import { TPurchaseItem } from "./purchase-item.types";
 
 export type TCategory = {
   id: string;
@@ -7,9 +8,4 @@ export type TCategory = {
   items: TItem[];
   makers: TMaker[];
   purchaseItems: TPurchaseItem[];
-};
-
-export type TPurchaseItem = {
-  title: string;
-  imageSrc: string;
 };

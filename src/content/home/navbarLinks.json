@@ -2,26 +2,31 @@
   "navbarItems": [
     {
       "id": "1",
+      "label": "工場整理",
+      "href": "/factory-service"
+    },
+    {
+      "id": "2",
       "label": "選ばれる理由",
       "href": "/#why-choose"
     },
     {
-      "id": "2",
+      "id": "3",
       "label": "買取品目一覧",
       "href": "/#purchased-items"
     },
     {
-      "id": "3",
+      "id": "4",
       "label": "買取の流れ",
       "href": "/#purchase-process"
     },
     {
-      "id": "4",
+      "id": "5",
       "label": "よくあるご質問",
       "href": "/#frequently-asked-questions"
     },
     {
-      "id": "5",
+      "id": "6",
       "label": "会社概要",
       "href": "/#company-profile"
     }

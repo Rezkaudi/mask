@@ -1,0 +1,127 @@
+{
+  "id": 6,
+  "title": "レーザー加工機・彫刻機",
+  "category": "プリンター・ミシン・業務用機器",
+  "types": [
+    "CO2レーザー加工機",
+    "ファイバーレーザー加工機",
+    "YAGレーザー加工機",
+    "半導体（ダイオード）レーザー加工機",
+    "UV（紫外線）レーザー加工機 ",
+    "超短パルスレーザー加工機"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "Epilog Laser mini★18×12★8000レーザーシステム★取説 ソフト付★  ★レーザー彫刻機 レーザーカッター★小型集塵脱臭機 LCC400R",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/cameralmagesGallery/Epilog Laser mini★18×12★8000レーザーシステム★取説 ソフト付★  ★レーザー彫刻機 レーザーカッター★小型集塵脱臭機 LCC400R.jpg"
+    },
+    {
+      "title": "MCWlaser 30W★ファイバーレーザーマーキングマシン★金属用★フルセット",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/cameralmagesGallery/MCWlaser 30W★ファイバーレーザーマーキングマシン★金属用★フルセット.jpg"
+    },
+    {
+      "title": "UNIVERSAL★レーザー彫刻切断システム★XL-9200",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/cameralmagesGallery/UNIVERSAL★レーザー彫刻切断システム★XL-9200.jpg"
+    },
+    {
+      "title": "コムネット★GCC★Laser Pro★レーザー加工機★C180★ ★集塵機 ポンプ 付属品等付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/cameralmagesGallery/コムネット★GCC★Laser Pro★レーザー加工機★C180★ ★集塵機 ポンプ 付属品等付.jpg"
+    },
+    {
+      "title": "サンマックスレーザー★レーザーマシン★4030★ファイバーレーザー機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/cameralmagesGallery/サンマックスレーザー★レーザーマシン★4030★ファイバーレーザー機.jpg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "レーザー加工機(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機(1).JPG"
+    },
+    {
+      "title": "レーザー加工機(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機(1).PNG"
+    },
+    {
+      "title": "レーザー加工機(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機(2).JPG"
+    },
+    {
+      "title": "レーザー加工機(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機(2).PNG"
+    },
+    {
+      "title": "レーザー加工機(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機(3).JPG"
+    },
+    {
+      "title": "レーザー加工機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機.PNG"
+    },
+    {
+      "title": "レーザー加工機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/プリンター・ミシン・業務用機器/レーザー加工機 .彫刻機/weblmagesGallery/レーザー加工機.png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "mcwlaser",
+      "link": " https://www.mcwlaser.com",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%B3%E3%83%BB%E6%A5%AD%E5%8B%99%E7%94%A8%E6%A9%9F%E5%99%A8/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F+.%E5%BD%AB%E5%88%BB%E6%A9%9F/makers/mcwlaser"
+    },
+    {
+      "jp": "",
+      "en": "epiloglaser",
+      "link": "https://www.epiloglaser.com",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%B3%E3%83%BB%E6%A5%AD%E5%8B%99%E7%94%A8%E6%A9%9F%E5%99%A8/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F+.%E5%BD%AB%E5%88%BB%E6%A9%9F/makers/epiloglaser"
+    },
+    {
+      "jp": "",
+      "en": "gccworld",
+      "link": "https://gccworld.com",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%B3%E3%83%BB%E6%A5%AD%E5%8B%99%E7%94%A8%E6%A9%9F%E5%99%A8/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F+.%E5%BD%AB%E5%88%BB%E6%A9%9F/makers/gccworld"
+    },
+    {
+      "jp": "",
+      "en": "laser-machine",
+      "link": "https://www.laser-machine.com",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%B3%E3%83%BB%E6%A5%AD%E5%8B%99%E7%94%A8%E6%A9%9F%E5%99%A8/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F+.%E5%BD%AB%E5%88%BB%E6%A9%9F/makers/laser-machine"
+    },
+    {
+      "jp": "",
+      "en": "ulsinc",
+      "link": "https://www.ulsinc.com",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%B3%E3%83%BB%E6%A5%AD%E5%8B%99%E7%94%A8%E6%A9%9F%E5%99%A8/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F+.%E5%BD%AB%E5%88%BB%E6%A9%9F/makers/ulsinc"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "事前に準備しておくことはありますか？",
+      "answer": "いいえ、ありません。解体等が必要な場合も、その場で当社のスタッフが作業します。"
+    },
+    {
+      "id": 2,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 3,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 4,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でレーザー加工機の買取実績があります。"
+    }
+  ],
+  "servicesDescription": "ご不要になったレーザー加工機はございませんか？\n ハディズでは、各種メーカー・モデルの中古レーザー加工機を専門に買い取るサービスを提供しております。レーザー加工機に精通したスタッフが、正確な査定・安全な解体・スムーズな搬出・スピーディーな支払いを行います。動作品はもちろん、年式が新しい機種や人気モデルは特に高価買取の対象となります。 "
+}

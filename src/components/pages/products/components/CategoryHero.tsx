@@ -16,8 +16,7 @@ const CategoryHero = ({ categoryName }: ICategoryHeroProps) => {
           alt="category hero"
           sizes="100vw"
           quality={100}
-          fill
-          priority
+          fill          
           className="object-cover object-[75%] lg:object-center"
         />
       </div>
@@ -35,13 +34,13 @@ const CategoryHero = ({ categoryName }: ICategoryHeroProps) => {
         </p>
         {/* details */}
         <div className="flex w-full items-start xl:items-center lg:justify-center gap-2 flex-col lg:flex-row text-white flex-wrap">
-          <h1 className="flex gap-1 items-center justify-center w-[165px] h-[66px] lg:w-[276px] lg:h-[102px] gradient-red rounded-lg font-black lg:text-[32px] text-xl">
+          <h2 className="flex gap-1 items-center justify-center w-[165px] h-[66px] lg:w-[276px] lg:h-[102px] gradient-red rounded-lg font-black lg:text-[32px] text-xl">
             <span className="text-[18px] lg:text-[28px]">創業</span>
             <span className="text-[44px] lg:text-[100px]">25</span>
             <span className="mt-auto pb-2 text-[18px] lg:text-[28px]">
               年以上
             </span>
-          </h1>
+          </h2>
           <h2 className="flex gap-1 lg:gap-2 items-center justify-center w-[165px] h-[66px] lg:w-[276px] lg:h-[102px] gradient-red rounded-lg font-black lg:text-[32px] text-xl">
             <span className="flex items-start lg:items-center flex-col gap-1 lg:gap-2">
               <span>出張費</span>

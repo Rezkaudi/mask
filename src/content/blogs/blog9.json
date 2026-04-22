@@ -1,404 +1,357 @@
 {
   "id": "9",
-  "title": "自動車整備機械の高価買取ならお任せください！",
+  "title": "自動車整備機械を高く売るには？失敗しない買取業者選びのポイント",
   "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0%E3%81%AE%E9%AB%98%E4%BE%A1%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%B4%E5%82%99%E6%A9%9F%E6%A2%B0%E3%81%AE%E9%AB%98%E4%BE%A1%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81.jpg",
-  "metaDescription": "自動車整備工場などで使用する機械類をお持ちで、「できるだけ高く買い取ってほしい」とお考えの方へ。本記事では、整備工場向け中古機器を高価売却するためのポイントや中古市場の最新動向、信頼できる買取業者の選び方など、売却検討中の方向けの情報を網羅しました。整備リフトやタイヤチェンジャーといった大型機械から、スナップオン製の工具やジャッキ類まで幅広く対応していますので、ぜひ参考にしてください。",
-  "description": "自動車整備工場などで使用する機械類をお持ちで、「できるだけ高く買い取ってほしい」とお考えの方へ。本記事では、整備工場向け中古機器を高価売却するためのポイントや中古市場の最新動向、信頼できる買取業者の選び方など、<strong>売却検討中の方向け</strong>の情報を網羅しました。整備リフトやタイヤチェンジャーといった大型機械から、スナップオン製の工具やジャッキ類まで幅広く対応していますので、ぜひ参考にしてください。<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>1</a> <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>2</a>",
+  "metaDescription": "整備リフトやチェンジャーを売りたいけど、どの業者にお願いしたらいいかわからない！できるだけ高く買取してほしいけど、どういう点に気を付けたらいいのかわからない！そんな悩みをお持ちの方に、本記事では買取業者選びのポイントをご紹介します",
+  "description": "整備リフトやチェンジャーを売りたいけど、どの業者にお願いしたらいいかわからない！できるだけ高く買取してほしいけど、どういう点に気を付けたらいいのかわからない！そんな悩みをお持ちの方に、本記事では買取業者選びのポイントをご紹介します",
   "date": "2025/06/25",
   "subContent": [
     {
       "id": "1",
-      "title": "買取対象となる自動車整備機械・工具一覧",
-      "topDescription": "まずは<strong>どのような整備機械が買取対象になるのか</strong>確認しておきましょう。当社では以下のような自動車整備工場向け機器を中古で積極的に買い取りしています。",
+      "title": "中古市場の最新動向、需要と供給",
+      "topDescription": "近年、自動車整備業界では中古機器の流通が活発化しています。その背景にはいくつかの動向があります。",
       "type": "list",
       "listType": "dot",
       "items": [
         {
           "id": "1",
-          "description": "<strong>整備用リフト類</strong>：二柱リフト・四柱リフト、門型リフト、トータスリフトなど各種リフト装置 <a class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>3</a> <a class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>4</a>（リフトの取り外し・解体作業も無料対応しています<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>1</a> ）"
-
+          "description": "<strong>・新品価格の高騰</strong>：整備機器メーカー各社の新製品は高度化する一方、高価になっています。また、半導体不足などで納期が長引くケースもありました。そのため、中古機械で賄おうとする需要も根強くあります。特に認証工具や電子機器対応設備などは新規導入にコストがかかるため、中古市場で探す整備工場も少なくありません。 "
         },
-      {
-      "id": "2",
-      "description": "<strong>タイヤサービス機器</strong>：タイヤチェンジャー、ホイールバランサー <a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>5</a>"
+        {
+          "id": "2",
+          "description": "<strong>海外からの需要</strong>：日本製の整備機械や工具は、耐久性・制度が高く、海外でも人気があります。専門業者が海外への販路を持ち、中古機械を輸出するケースも増えています。その結果、日本国内では買い手が少ない型式の古い機械でも、海外需要によって思わぬ高値が付くこともあります"
+        }
+      ],
+      "bottomDescription": "こうした市場動向から、中古の自動車整備機械には十分な需要が存在していると言えます。"
     },
     {
-  "id": "3",
-  "description": "<strong>板金・塗装機器</strong>：スポット溶接機（スポット溶接機・ハンドスポッター）、半自動溶接機、フレーム修正機、塗装ブース、塗装乾燥機 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>6</a>"
-},
-      {
-  "id": "4",
-  "description": "<strong>整備用計測機器</strong>：サイドスリップテスター、ヘッドライトテスター、排気ガステスター、エンジン診断機（OBDスキャナー等）<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>7</a>"
-},
-       {
-  "id": "5",
-  "description": "<strong>車両整備用工具</strong>：エアコンプレッサー、高圧洗浄機、エンジンクレーン（門型クレーン含む）、油圧プレス、ガレージジャッキ・ミッションジャッキ等の各種ジャッキ類 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>7</a>"
-},
-{
-  "id": "6",
-  "description": "<strong>各種ハンドツール</strong>：電動工具・エアーツール類、工具セット、工具箱など。特に<strong>Snap-on（スナップオン）</strong>製品や<strong>HASCO（ハスコー）</strong>など人気メーカー工具も高価買取中です <a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>8</a> <a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>9</a>。"
-}
-      ],
-       "bottomDescription": "上記に挙げたもの以外にも、整備工場で使用される機械・工具全般が買取可能です。「こんなものは売れるだろうか？」という機器も、ぜひ一度ご相談ください。古い型式の機械でも需要があれば値段が付く可能性がありますし、<strong>人気メーカー製品は年代物でも高値が付きやすい</strong>傾向にあります<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>9</a>。"
-    },
-     {
       "id": "2",
-      "title": "「壊れている機械」や動作不良品でも査定OKの理由",
-      "description": "「古くて故障している整備機械なんて売れないのでは？」と心配されるかもしれません。しかし、<strong>動かない機械や不調品でも買取査定できるケース</strong>があります。専門の買取業者であれば、自社で整備・修理して再販したり、部品取りとして活用したりできるためです。実際、弊社では<strong>「古い工具や壊れた工具も気軽に査定に出していただける」</strong>体制を整えており、他社では値段が付かないような品でも“お宝”として高価買取した実績があります<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>10</a>。また、大手買取業者でも社内に修理のプロを抱え、インターネットや海外輸出も含めた販路を持つことで、故障品であっても高額査定に結びつけています<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>11</a>。<br/> <strong>ポイント：諦める前に一度査定</strong><br>長年使っておらず動くか分からない機械や、故障して動かない機器でも、まずは専門業者に査定を依頼することをおすすめします。買取業者側で直せる見込みがあったり、部品に価値がある機械ならば、<strong>「動作不良＝0円」では決してありません</strong><a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>10</a>。特にリフトやチェンジャーなど高価な機械は、壊れていても需要次第で値段が付くことがあります。",
-      "type": "simple"
+      "title": "安心して任せられる買取業者の選び方",
+      "topDescription": "大切な機械を売る際には、信頼できる買取業者を見極めるために、以下のポイントをチェックしましょう",
+      "type": "list",
+      "listType": "dot",
+      "items": [
+        {
+          "id": "1",
+          "description": "<strong>査定、出張費が無料であること</strong>基本中の基本ですが、査定見積もりや出張引取に費用がかからない業者を選びましょう。中には「出張無料」謳いながら、買取不成立時に高額な手数料を請求する悪徳業者も存在します"
+        },
+        {
+          "id": "2",
+          "description": "<strong>その場で現金支払いしてくれる</strong>高額な機械を売却する際、「後日振込」ではなく取引成立時に即支払いをしてくれるかも重要です。即日現金支払いに対応している業者なら、代金未払いの心配もなく安心です"
+        },
+        {
+          "id": "3",
+          "description": "<strong>専門知識と実績が豊富</strong>自動車整備機器の買取実績が豊富な専門業者を選びましょう。実績豊富な業者には、経験に裏打ちされた査定ノウハウがあり、適正な価格提示が期待できます。専門業者であれば、素人目には価値がわからない古い機械でも、しっかり評価してくれます"
+        },
+        {
+          "id": "4",
+          "description": "<strong>大型・重量機械の搬出に対応できる</strong>クレーン車や解体工具を所有し、安全に撤去できるスタッフがいる業者なら任せて安心です。多くの専門業者は、リフトの取り外しから搬出まで追加費用無しで対応しています"
+        },
+        {
+          "id": "5",
+          "description": "<strong>古物商許可など法令遵守</strong>買取業者が古物商の許可を取得しているか、会社情報や所在地をきちんと公開しているかも確認しましょう。法令を守って営業している業者であれば、契約や個人情報の取り扱いも適切に行われるはずです"
+        }
+      ],
+      "bottomDescription": "こうした市場動向から、<strong>中古の自動車整備機械には十分な需要が存在</strong>していると言えます。「もう使わないから廃棄しよう」と思う前に、ぜひ買取業者への売却を検討してみてください。不要機器を処分するにも費用がかかりますが、適切な業者に依頼すれば資産に換えることができます。"
     },
     {
       "id": "3",
-      "title": "中古市場の最新動向：整備機械の需要と供給",
-      "topDescription": "近年、自動車整備業界では<strong>中古機器の流通が活発化</strong>しています。その背景にはいくつかの動向があります。",
+      "title": "中古整備機器の価格相場(一例)",
+      "topDescription": "中古市場で実際に取引されている整備機器の価格例をいくつかご紹介します。もちろん機械の状態や年式によって変動しますが、目安として参考にしてみてください。",
       "type": "list",
       "listType": "dot",
       "items": [
         {
           "id": "1",
-          "description": "<strong>整備工場の廃業増加</strong>：少子高齢化や整備士不足、収益悪化などにより、中小の整備工場の廃業・撤退が近年急増しています。2024年度には廃業・倒産を合わせて445件もの整備事業者が市場から消滅し、過去最多を記録しました <a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>12</a> <a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>13</a>。このため<strong>工場閉鎖に伴う機械売却ニーズ</strong>が高まっています。一方で、閉業により市場に出回る中古機器も増えている状況です。"
-
-        },
-      {
-      "id": "2",
-      "description": "新品機器価格の高騰：<strong>整備機器メーカー各社の新製品は高度化する一方、高価になっています。</strong>また半導体不足などで納期が長引くケースもありました<a class='text-blue-600 underline hover:no-underline' href='https://www.anzen.co.jp/bussinessnews/2024/01/20232024.html'>14</a>。そのため、中古の整備機械で賄おうとする需要も根強くあります。特に認証工具や電子機器対応設備などは新規導入にコストがかかるため、中古市場で探す整備工場も少なくありません。"
-    },
-    {
-  "id": "3",
-  "description": "<strong>海外からの中古需要</strong>：日本製の整備機械や工具は耐久性・精度が高く、海外の新興国の整備市場でも人気があります。専門業者が海外への販路を持ち、中古整備機器を輸出するケースも増えています<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>11</a>。その結果、日本国内では買い手が少ない型式の古い機械でも、海外需要によって思わぬ高値が付くこともあります。"
-}
-      ],
-       "bottomDescription": "こうした市場動向から、<strong>中古の自動車整備機械には十分な需要が存在</strong>していると言えます。「もう使わないから廃棄しよう」と思う前に、ぜひ買取業者への売却を検討してみてください。不要機器を処分するにも費用がかかりますが、適切な業者に依頼すれば資産に換えることができます<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>15</a>。"
-    },
-     {
-      "id": "4",
-      "title": "中古整備機器の価格相場（一例）",
-      "topDescription": "中古市場で実際に取り引きされている整備機器の価格例をいくつかご紹介します。もちろん機械の状態や年式によって変動しますが、「どれくらいの値段になるのか」の目安として参考にしてください<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>16</a> <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>2</a>。",
-      "type": "list",
-      "listType": "dot",
-      "items": [
-        {
-          "id": "1",
-          "description": "<strong>二柱リフト（4トン）</strong>：中古買取価格 <strong>約20万円</strong> ～（使用年数やメーカーにより上下）<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>17</a>"
-
-        },
-      {
-      "id": "2",
-      "description": "<strong>タイヤチェンジャー</strong>：中古買取価格 <strong>約10万円</strong> ～（国産メーカー製・三相200Vの場合）<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>18</a>"
-    },
-    {
-  "id": "3",
-  "description": "<strong>フレーム修正機（板金用治具セット）</strong>：中古買取価格 <strong>約10万円</strong> 前後 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>19</a></li>"
-},
-      {
-  "id": "4",
-  "description": "<strong>排気ガステスター（車検用機器）</strong>：中古買取価格 <strong>約11万円</strong> 前後 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>20</a>"
-},
-       {
-  "id": "5",
-  "description": "<strong>油圧式ガレージジャッキ（3トン）</strong>：中古買取価格 <strong>約1万円</strong> 前後 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>21</a>"
-},
-{
-  "id": "6",
-  "description": "<strong>Snap-on製 工具箱（トップチェスト）</strong>：中古買取価格 <strong>約2.5万円</strong> <a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>22</a>"
-},
-{
-  "id": "7",
-  "description": "<strong>Snap-on製 メガネレンチセット</strong>：中古買取価格 <strong>約2万円</strong> <a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>23</a>"
-}
-      ],
-       "bottomDescription": "※上記は一例です。実際の査定額は機械の<strong>年式・型式、動作品かどうか、キズやサビの程度、付属品の有無</strong>、さらには<strong>中古市場での人気</strong>によって大きく変わります<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>24</a> <a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>25</a>。人気メーカー（例えば<strong>スナップオンやFACOM</strong>など）の工具類は古いものでも需要が高く、市場価値が下がりにくい傾向があります<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>9</a>。逆にマイナーな機種や故障品の場合、最低限の値段に留まることもあります。いずれにせよ、査定依頼の際には<strong>複数の業者に相見積もりを取る</strong>ことで適正価格を見極めることが重要です<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>26</a>。"
-    },
-     {
-      "id": "5",
-      "title": "高価買取のためのポイント～少しでも査定額を上げるには？",
-      "topDescription": "中古機器をできるだけ高く売却するために、売り手の側で工夫できるポイントがあります<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>27</a>。以下に<strong>高価買取のコツ</strong>をまとめました。",
-      "type": "list",
-      "listType": "dot",
-      "items": [
-        {
-          "id": "1",
-          "description": "<strong>付属品は可能な限り揃える</strong>：取扱説明書、スペアキー、アタッチメント類など購入時の付属品が手元にあれば、査定前に一緒にまとめておきましょう。付属品が完備されているだけで査定評価が上がるケースがあります<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>25</a>。特にリフトのアダプター類や溶接機のトーチ部分、工具セットのケースなど、<strong>細かな付属品も忘れずに</strong>添えてください。"
-
-        },
-      {
-      "id": "2",
-      "description": "<strong>できる範囲で清掃・整備する</strong>：ほこりや油汚れまみれの状態よりも、<strong>見た目がきれいな機械ほど査定額アップにつながります</strong><a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>28</a>。簡単に拭き掃除をしたり、サビを落とせる部分は落としておくだけでも印象が違います。また長期間使っていなかった機械は、可能であれば動作チェックをして正常動作を確認しておくと安心です<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>24</a>。動かない場合でもその旨正直に伝えれば査定可能ですので、無理に動かそうとして故障を悪化させないよう注意しましょう。"
-    },
-    {
-  "id": "3",
-  "description": "<strong>まとめて売却する</strong>：工場閉鎖や機器の入れ替えなどで複数の不要機械・工具がある場合は、<strong>一括で査定に出すことを検討</strong>してください。単品よりも複数まとめた方が買取業者にとっても効率が良いため、査定額を上乗せしてくれる場合があります<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>29</a>。「ついでにこれも」という形で小型工具類を買い取ってもらえることも多いです。"
-},
-      {
-  "id": "4",
-  "description": "<strong>売却時期を見計らう</strong>：中古市場には需要が高まるタイミングがあります。例えばエアコン整備機器であれば夏前、バッテリーテスターなら冬前など、季節や業界動向によってニーズが変動します。整備機器全般では4～5月の新年度開始時期や、年度末の入替シーズンに中古品需要が高まる傾向があります<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>30</a>。とはいえ、機械は時間とともに価値が下がりやすいものですから、「使わない」と決めたら早めに売却に出すのが基本的には得策です。"
-},
-       {
-  "id": "5",
-  "description": "<strong>複数業者に査定依頼する</strong>：前述の通り、1社だけの査定額で即決せず、<strong>相見積もり</strong>で比較検討することも高く売るコツです<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>26</a>。業者ごとに得意分野や販路が異なるため提示額に差が出ることがあります。他社の査定結果を伝えることで価格交渉に応じてくれる場合もあります。時間に余裕があるならば2～3社程度から見積もりを取り、最も条件の良いところに売却すると安心です。"
-}
-      ],
-       "bottomDescription": ""
-    },
-     {
-      "id": "6",
-      "title": "安心して任せられる買取業者の選び方",
-      "topDescription": "大切な機械を売る際には、「ちゃんと正当に評価してくれる業者かな？」という点も気になりますよね。<strong>信頼できる買取業者</strong>を見極めるために、以下のポイントをチェックしましょう。",
-      "type": "list",
-      "listType": "dot",
-      "items": [
-        {
-          "id": "1",
-          "description": "<strong>査定・出張費が無料であること</strong>：基本中の基本ですが、査定見積もりや出張引取に費用がかからない業者を選びましょう。中には「出張無料」を謳いながら、買取不成立時に高額な手数料を請求する悪質業者も存在します。<strong>信頼できる業者は訪問や査定に関わる費用を一切請求しません</strong> <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>31</a>（キャンセルしても無料）。弊社でも査定料・出張費は完全無料です<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>32</a>。"
-
-        },
-      {
-      "id": "2",
-      "description": "<strong>その場で現金払いしてくれる</strong>：高額な機械を売却する場合、「後日振込」ではなく<strong>取引成立時に即現金で支払ってくれる</strong>かも重要です。即日現金払いに対応している業者なら、代金未払いの心配もなく安心です<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>33</a>。弊社では出張買取時、<strong>その場で現金にてお支払い</strong>いたします<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>34</a>。"
-    },
-    {
-  "id": "3",
-  "description": "<strong>専門知識と実績が豊富</strong>：できれば自動車整備機器の買取実績が豊富な専門業者を選びましょう。実績豊富な業者には経験に裏打ちされた査定ノウハウがあり、適正な価格提示が期待できます。例えば業界大手では「年間30,000件以上」の中古機械買取実績を公表している例もあるほど、市場は活発です<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>35</a>。当社「ハディズ」も<strong>創業25年以上</strong>にわたり様々な機械工具の買取を手掛けており、専門知識を持ったスタッフが在籍しています<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>36</a>。専門業者であれば、素人目には価値がわからない古い機械でもしっかり評価してくれるので安心です。"
-},
-      {
-  "id": "4",
-  "description": "<strong>対応の丁寧さ・強引な勧誘をしない</strong>：問い合わせ時や査定時の対応が丁寧かどうかも大切です。質問にきちんと答えてくれるか、見積もり内容を明確に説明してくれるか確認しましょう。万一その場で売却を見送る場合でも、<strong>強引に売却を迫らない</strong>業者を選ぶべきです<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>37</a>。当社でも「無理な買取交渉は行わない」ことをポリシーとして掲げており、お客様の意思を尊重した対応を徹底しています<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>38</a>。"
-},
-       {
-  "id": "5",
-  "description": "<strong>重機の搬出に対応できる</strong>：二柱リフトや塗装ブースなど大型・重量機械の搬出作業に対応できる業者かもポイントです。自社でクレーン車や解体工具を持ち、安全に撤去できるスタッフがいる業者なら任せて安心です。弊社を含め多くの専門業者は、<strong>リフトの取り外しから搬出まで追加費用なしで対応 </strong> しています<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>1</a>。"
-},
-   {
-  "id": "6",
-  "description": "<strong>古物商許可など法令遵守</strong>：最後に、買取業者が古物商の許可を取得しているか、会社情報や所在地をきちんと公開しているかも確認しましょう。法令を守って営業している業者であれば、契約や個人情報の取り扱いも適切に行われるはずです。当社でも「しつこい勧誘はしない」「安全で丁寧な作業」「個人情報の保護徹底」を約束しています<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>39</a>。"
-}
-      ],
-       "bottomDescription": ""
-    },
-    {
-      "id": "7",
-      "title": "当社（ハディズ）の強みと高価買取サービスのご案内",
-      "topDescription": "弊社<strong>「ハディズ」</strong>は、中古機械・工具類の専門買取業者として全国のお客様からご依頼をいただいております。自動車整備機械の買取において、当社ならではの強みをご紹介します。",
-      "type": "list",
-      "listType": "dot",
-      "items": [
-        {
-          "id": "1",
-          "description": "<strong>創業25年以上の信頼と実績</strong>：豊富な知識と経験を持つスタッフが在籍しており、機械ごとの適正な査定に自信があります<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>36</a>。長年の実績から培った相場データとノウハウで、他店に負けない公正な買取価格を提示いたします<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>40</a>。"
-
-        },
-      {
-      "id": "2",
-      "description": "<strong>査定・出張費はすべて無料</strong>：お問い合わせから査定見積もり、現地への出張買取まで、<strong>一切費用はいただきません</strong><a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>32</a>。遠方でも追加料金なしで伺いますので、ご安心ください。"
-    },
-    {
-  "id": "3",
-  "description": "<strong>全国対応・スピード査定</strong>：日本全国どこでも出張買取に対応しています<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>41</a>。お急ぎの場合は可能な限り迅速に対応し、<strong>最短で翌日</strong>の訪問が可能です<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>42</a>（※地域や状況によります）。また、LINEで写真を送るだけの簡単査定にも対応しており、その日のうちに概算見積もり金額をご案内できます。"
-},
-      {
-  "id": "4",
-  "description": "<strong>即現金払い・スムーズな取引</strong>：買取が成立した際は、現地で速やかに現金にてお支払いします <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>34</a>。お振込みをお待たせすることなく、その場で代金を受け取れるため安心です。取引の際は身分証のご提示だけお願いしております <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>34</a>。"
-},
-       {
-  "id": "5",
-  "description": "<strong>大型機械も安心の対応力</strong>：リフト等の大型機器も当社スタッフが安全に解体・搬出いたします。他社で断られた重量物でもお気軽にご相談ください。実際に「重量物で自分では動かせず困っていたが、スムーズに対応してもらえた」との声も頂戴しています（※お客様の声<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>43</a>）。"
-},
-   {
-  "id": "6",
-  "description": "<strong>壊れた機械も歓迎</strong>：前述の通り、動作しない機械でも当社は積極的に査定いたします。実際に「古い機械の査定額が予想以上で満足」「不要機械を迅速・丁寧に買い取ってもらえた」といったお客様のご評価を多数いただいております<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>44</a> <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>45</a>。"
-}
-      ],
-       "bottomDescription": "お手元の整備機器・工具を少しでも高く、そして安心安全に現金化したいとお考えでしたら、ぜひ<strong>ハディズの無料査定</strong>をご利用ください。専門スタッフが丁寧に対応し、大切な機械を適正価格で買い取らせていただきます<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>45</a>。全国どこからでもお問い合わせをお待ちしております！ <br><strong>参考文献・出典</strong>：自動車整備機器の中古買取に関する各社サイトおよび業界ニュースより情報を参照 <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>12</a> <a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>1</a> 他。詳しくは本文中の引用箇所をご確認ください。"
-    },
-   {
-    "id": "8",
-    "title": "",
-    "topDescription": "",
-    "type": "list",
-    "listType": "number",
-    "subTitle": "Citations:",
-    "items": [
-        {
-            "id": "1",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "description": "二柱リフト(4トン)：中古買取価格 約20万円～"
         },
         {
-            "id": "2",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "id": "2",
+          "description": "タイヤチェンジャー(国内メーカー製・三相200Vの場合)：中古買取価格 約10万円～"
         },
         {
-            "id": "3",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "id": "3",
+          "description": "フレーム修正機(板金用治具セット)：中古買取価格 約10万円前後"
         },
         {
-            "id": "4",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "id": "4",
+          "description": "排気ガステスター(車検用機器)：中古買取価格 約11万円前後"
         },
         {
-            "id": "5",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "id": "5",
+          "description": "油圧式ガレージジャッキ(3トン)：中古買取価格 約1万円前後"
         },
         {
-            "id": "6",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+          "id": "6",
+          "description": "Snap-on製 工具箱(トップチェスト)：中古買取価格 約2.5万円"
         },
         {
-            "id": "7",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "8",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
-        },
-        {
-            "id": "9",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
-        },
-        {
-            "id": "10",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
-        },
-        {
-            "id": "11",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "12",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>「整備士がいない」車整備で淘汰急増、24年度は445件が消滅　整備業者の2割が「赤字」　部品高騰も重荷 | 株式会社帝国データバンクのプレスリリース</a>"
-        },
-        {
-            "id": "13",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>「整備士がいない」車整備で淘汰急増、24年度は445件が消滅　整備業者の2割が「赤字」　部品高騰も重荷 | 株式会社帝国データバンクのプレスリリース</a>"
-        },
-        {
-            "id": "14",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.anzen.co.jp/bussinessnews/2024/01/20232024.html'>2023年自動車整備業界の回顧と2024年に向けた展望と準備｜安全自動車株式会社</a>"
-        },
-        {
-            "id": "15",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "16",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "17",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "18",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "19",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "20",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "21",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
-        },
-        {
-            "id": "22",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
-        },
-        {
-            "id": "23",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
-        },
-        {
-            "id": "24",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "25",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
-        },
-        {
-            "id": "26",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
-        },
-        {
-            "id": "27",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
-        },
-        {
-            "id": "28",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "29",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "30",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.anzen.co.jp/bussinessnews/2024/01/20232024.html'>2023年自動車整備業界の回顧と2024年に向けた展望と準備｜安全自動車株式会社</a>"
-        },
-        {
-            "id": "31",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "32",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "33",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "34",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "35",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "36",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "37",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "38",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "39",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "40",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "41",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
-        },
-        {
-            "id": "42",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "43",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "44",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
-        },
-        {
-            "id": "45",
-            "description": "<a class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+          "id": "7",
+          "description": "Snap-on製 メガネレンチセット：中古買取価格 約2万円"
         }
-    ]
-}
+      ],
+      "bottomDescription": "※上記は一例です。実際の査定額は、機械の年式・型式、動作品かどうか、キズやサビの程度、付属品の有無、さらには中古市場での人気によって大きく変わります。"
+    },
+    {
+      "id": "4",
+      "title": "高価買取のためのポイント　少しでも査定額を上げるには？",
+      "topDescription": "中古機器をできるだけ高く売却するために、売り手の側で工夫できるポイントがあります。以下に高価買取のコツをまとめました。",
+      "type": "list",
+      "listType": "dot",
+      "items": [
+        {
+          "id": "1",
+          "description": "<strong>付属品は可能な限り揃える</strong>：取扱説明書、スペアキー、アタッチメント類など、購入時の付属品が手元にあれば、査定前に一緒にまとめておきましょう。付属品が完備されているだけで、査定評価が上がるケースがあります。特にリフトのアダプター類や、溶接機のトーチ部分、工具セットのケースなど、細かな付属品も忘れずに添えてください"
+        },
+        {
+          "id": "2",
+          "description": "<strong>できる範囲で清掃、整備する</strong>：ほこりや油汚れの状態よりも、見た目がきれいな機械ほど査定額アップにつながります。簡単に拭き掃除をしたり、サビを落とせる部分は落としておくだけでも印象が違います。また、長期間使っていなかった機械は、可能であれば動作チェックをして正常動作を確認しておくと安心です。動かない場合でもその旨正直に伝えれば査定可能ですので、無理に動かそうとして故障を悪化させないよう注意しましょう。"
+        },
+        {
+          "id": "3",
+          "description": "<strong>まとめて売却する</strong>：工場閉鎖や機器の入れ替えなどで複数の不要機械・工具がある場合は、一括で査定に出すことを検討してください。単品よりも複数まとめた方が買取業者にとっても効率が良いため、査定額を上乗せしてくれる場合があります。「ついでにこれも」という形で小型工具類を買い取ってもらえることも多いです"
+        },
+        {
+          "id": "4",
+          "description": "<strong>売却時期を見計らう</strong>：中古市場には需要が多感るタイミングがあります。例えばエアコン整備機器であれば夏前、バッテリーテスターなら冬前など、季節や業界動向によってニーズが変動します。整備機器全般では4～5月の新年度開始時期や、年度末の入替シーズンに中古品需要がたかまる傾向があります。とはいえ、機械は時間とともに価値が下がりやすいものですから、「使わない」と決めたら早めに売却に出すのが基本的には得策です"
+        },
+        {
+          "id": "5",
+          "description": "<strong>複数業者に査定依頼する</strong>：1社だけの査定額で即決せず、相見積もりで比較検討することも高く売るコツです。業者ごとに得意分野や販路が異なるため提示額に差が出ることがあります。他社の査定結果を伝えることで価格交渉に応じてくれる場合もあります。時間に余裕があるならば2～3社程度から見積もりを取り、最も条件の良いところに売却すると安心です"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "当社(ハディズ)の強みと高価買取サービスのご案内",
+      "topDescription": "ハディズは、中古機械・工具類の専門買取業者として全国のお客様からご依頼をいただいております。自動車整備機械の買取において、当社ならではの強みをご紹介します。",
+      "type": "list",
+      "listType": "dot",
+      "items": [
+        {
+          "id": "1",
+          "description": "<strong>創業25年以上の信頼と実績</strong>豊富な知識と経験を持つスタッフが在籍しており、機械ごとの適正な査定に自信があります。長年の実績から培った相場データとノウハウで、他店に負けない公正な買取価格を提示いたします"
+        },
+        {
+          "id": "2",
+          "description": "<strong>査定、出張費はすべて無料</strong>お問い合わせから査定見積もり、現地への出張買取まで、一切費用はいただきません。遠方でも追加料金なしで伺いますので、ご安心ください"
+        },
+        {
+          "id": "3",
+          "description": "<strong>全国対応、スピード査定</strong>日本全国どこでも出張買取に対応しています。お急ぎの場合は可能な限り迅速に対応し、最短で翌日の訪問が可能です。(地域や状況によります)また、LINEで写真を送るだけの簡単査定にも対応しており、その日のうちに概算見積金額をご案内できます"
+        },
+        {
+          "id": "4",
+          "description": "<strong>即現金支払い、スムーズな取引</strong>買取が成立した際は、現地で速やかに現金にてお支払いします。お振込をお待たせすることなく、その場で代金を受け取れるため安心です。取引の際は身分証のご提示だけお願いしております"
+        },
+        {
+          "id": "5",
+          "description": "<strong>大型機械も安心の対応力</strong>リフト等の大型機器も当社スタッフが安全に解体・搬出いたします。他社で断られた重量物でもお気軽にご相談ください。実際に「重量物で自分では動かせず困っていたが、スムーズに対応してもらえた」との声も頂戴しています"
+        },
+        {
+          "id": "6",
+          "description": "<strong>壊れた機械も歓迎</strong>動作しない機械でも当社は積極的に査定いたします。実際に「古い機械の査定額が予想以上で満足"
+        },
+        {
+          "id": "7",
+          "description": "<strong>不要機械を迅速</strong>丁寧に買い取ってもらえた」といったお客様の評価を多数いただいております"
+        },
+        {
+          "id": "8",
+          "description": "<strong>お手元の整備機器</strong>工具を少しでも高く、そして安心安全に現金化したいとお考えでしたら、ぜひハディズの無料査定をご利用ください。専門スタッフが丁寧に対応し、大切な機械を買取させていただきます。全国どこからでもお問い合わせをお待ちしております！"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "",
+      "topDescription": "",
+      "type": "list",
+      "listType": "number",
+      "subTitle": "Citations:",
+      "withPagination": true,
+      "items": [
+        {
+          "id": "1",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "2",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "3",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "4",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "5",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "6",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "7",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "8",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
+        },
+        {
+          "id": "9",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
+        },
+        {
+          "id": "10",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
+        },
+        {
+          "id": "11",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "12",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>「整備士がいない」車整備で淘汰急増、24年度は445件が消滅　整備業者の2割が「赤字」　部品高騰も重荷 | 株式会社帝国データバンクのプレスリリース</a>"
+        },
+        {
+          "id": "13",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://prtimes.jp/main/html/rd/p/000001067.000043465.html'>「整備士がいない」車整備で淘汰急増、24年度は445件が消滅　整備業者の2割が「赤字」　部品高騰も重荷 | 株式会社帝国データバンクのプレスリリース</a>"
+        },
+        {
+          "id": "14",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.anzen.co.jp/bussinessnews/2024/01/20232024.html'>2023年自動車整備業界の回顧と2024年に向けた展望と準備｜安全自動車株式会社</a>"
+        },
+        {
+          "id": "15",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "16",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "17",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "18",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "19",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "20",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "21",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://kaitoriup.com/seibikougu'>自動車整備工具を相場よりも高価買取 – リサイクルショップ大阪・高価買取査定「買取UP大阪堺鳳店」</a>"
+        },
+        {
+          "id": "22",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
+        },
+        {
+          "id": "23",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.upgarage.com/tools-blog/2215'>自動車整備工具　高価買取！　｜アップガレージ ツールズ SHOP BLOG</a>"
+        },
+        {
+          "id": "24",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "25",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
+        },
+        {
+          "id": "26",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
+        },
+        {
+          "id": "27",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mottai9.jp/automotive-tool-kaitori/'>自動車整備工具の買取業者15選！高く買い取ってもらうコツも解説 | 工具、資材、機械、足場の買取もったい9 自動車整備工具の買取業者15選！高く買い取ってもらうコツを解説</a>"
+        },
+        {
+          "id": "28",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "29",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "30",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.anzen.co.jp/bussinessnews/2024/01/20232024.html'>2023年自動車整備業界の回顧と2024年に向けた展望と準備｜安全自動車株式会社</a>"
+        },
+        {
+          "id": "31",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "32",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "33",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "34",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "35",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "36",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "37",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "38",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "39",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "40",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "41",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://pasioreuse.com/purchase/car/tirechanger/'>タイヤチェンジャーの高価買取｜自動車整備の機械・工具の買取なら</a>"
+        },
+        {
+          "id": "42",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "43",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "44",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        },
+        {
+          "id": "45",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.mac-hadis.com/'>中古機械、電動工具の高額買取のハディズ</a>"
+        }
+      ]
+    }
   ]
 }

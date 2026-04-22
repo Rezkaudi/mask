@@ -1,0 +1,62 @@
+.privacyModal {
+  width: min(90%, 600px);
+  max-height: 80vh;
+  overflow-y: auto;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease-in-out;
+  padding: 15px;
+}
+
+/* SweetAlert2 specific override needs global because swal attaches to body */
+:global(.swal2-show) .privacyModal {
+  animation: none !important;
+  -webkit-animation: none !important;
+}
+
+@media (min-width: 768px) {
+  .privacyModal {
+    max-width: 70%;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .privacyModal {
+    max-width: 60%;
+    padding: 25px;
+  }
+}
+
+.privacyTitle {
+  font-size: clamp(16px, 2vw, 24px);
+  font-weight: bold;
+}
+
+.privacyModalContent {
+  text-align: left;
+  font-size: clamp(12px, 1.5vw, 15px);
+  line-height: 1.7;
+  color: #333;
+}
+
+.privacyModalContent p {
+  margin-bottom: 20px;
+}
+
+.privacyModalContent strong {
+  font-size: clamp(13px, 1.8vw, 16px);
+  color: #222;
+  display: block;
+}
+
+.privacyModalContent ul {
+  padding-left: 20px;
+  margin-bottom: 20px !important;
+}
+
+.privacyModalContent ul li {
+  margin-bottom: 8px;
+  list-style-type: disc;
+}

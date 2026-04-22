@@ -14,7 +14,7 @@ const BlogsPost = () => {
         ブログ記事
       </h2>
       {/* boxes */}
-      <div className="gap-8 flex flex-wrap justify-center">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {blogsData
           .slice(-3)
           .reverse()
@@ -23,7 +23,7 @@ const BlogsPost = () => {
               key={blog.id}
               title={blog.title}
               imageSrc={blog.imageSrc}
-              description={blog.description}
+              description={blog.metaDescription}
               date={blog.date}
             />
           ))}

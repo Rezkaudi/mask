@@ -1,0 +1,389 @@
+/* ═══════════════════════════════════════════════════════════════════════════════
+   CRITICAL ABOVE-THE-FOLD CSS
+   ═══════════════════════════════════════════════════════════════════════════════
+   
+   This file is automatically processed by Critters (experimental.optimizeCss)
+   Only include styles that are VISIBLE on initial viewport without scrolling:
+   - Header/Navigation
+   - Hero section
+   - Essential layout styles
+   
+   IMPORTANT: Keep this file UNDER 14KB for optimal TCP packet delivery
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   CSS RESET - Minimal reset for immediate rendering
+   ───────────────────────────────────────────────────────────────────────────── */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  line-height: inherit;
+  min-height: 100vh;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   TYPOGRAPHY - System font stack for instant text rendering
+   ───────────────────────────────────────────────────────────────────────────── */
+html,
+body {
+  font-family:
+    var(--font-noto-sans-jp),
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   LAYOUT UTILITIES - Essential flex/grid for structure
+   ───────────────────────────────────────────────────────────────────────────── */
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.items-start {
+  align-items: flex-start;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-start {
+  justify-content: flex-start;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.h-full {
+  height: 100%;
+}
+.w-full {
+  width: 100%;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.sticky {
+  position: sticky;
+}
+.top-0 {
+  top: 0;
+}
+.inset-0 {
+  inset: 0;
+}
+.z-50 {
+  z-index: 50;
+}
+.z-10 {
+  z-index: 10;
+}
+.-z-30 {
+  z-index: -30;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.hidden {
+  display: none;
+}
+.block {
+  display: block;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   SPACING - Common padding/margin used in header & hero
+   ───────────────────────────────────────────────────────────────────────────── */
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.pt-7 {
+  padding-top: 1.75rem;
+}
+.pb-4 {
+  padding-bottom: 1rem;
+}
+.gap-1 {
+  gap: 0.25rem;
+}
+.gap-2 {
+  gap: 0.5rem;
+}
+.gap-8 {
+  gap: 2rem;
+}
+.space-y-2 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.5rem;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   SIZING - Header and hero specific dimensions
+   ───────────────────────────────────────────────────────────────────────────── */
+.h-16 {
+  height: 4rem;
+}
+.h-\[410px\] {
+  height: 410px;
+}
+.h-\[45px\] {
+  height: 45px;
+}
+.h-\[38px\] {
+  height: 38px;
+}
+.h-\[88px\] {
+  height: 88px;
+}
+.h-\[66px\] {
+  height: 66px;
+}
+.w-\[70px\] {
+  width: 70px;
+}
+.w-\[335px\] {
+  width: 335px;
+}
+.w-\[340px\] {
+  width: 340px;
+}
+.w-\[165px\] {
+  width: 165px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   COLORS - Brand colors for hero gradient buttons
+   ───────────────────────────────────────────────────────────────────────────── */
+.bg-white {
+  background-color: #fff;
+}
+.text-white {
+  color: #fff;
+}
+.text-\[\#B81122\] {
+  color: #b81122;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   TYPOGRAPHY SIZES - Hero text
+   ───────────────────────────────────────────────────────────────────────────── */
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.text-\[18px\] {
+  font-size: 18px;
+}
+.text-\[44px\] {
+  font-size: 44px;
+}
+.text-\[46px\] {
+  font-size: 46px;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-black {
+  font-weight: 900;
+}
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   BORDERS & SHAPES
+   ───────────────────────────────────────────────────────────────────────────── */
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.object-cover {
+  object-fit: cover;
+}
+.object-contain {
+  object-fit: contain;
+}
+.object-right-top {
+  object-position: right top;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   HERO GRADIENT - Critical brand styling
+   ───────────────────────────────────────────────────────────────────────────── */
+.gradient-red {
+  background: linear-gradient(to right bottom, #b81122 50%, #ac0c1c 50%);
+  border: 2px solid #990e1c;
+  text-shadow:
+    2px 2px 0 #990e1c,
+    -2px 2px 0 #990e1c,
+    -2px -2px 0 #990e1c,
+    2px -2px 0 #990e1c;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   ANIMATIONS - Smooth image reveal
+   ───────────────────────────────────────────────────────────────────────────── */
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   RESPONSIVE - Desktop overrides (lg: 1024px+)
+   ───────────────────────────────────────────────────────────────────────────── */
+@media (min-width: 1024px) {
+  .lg\:hidden {
+    display: none;
+  }
+  .lg\:block {
+    display: block;
+  }
+  .lg\:flex {
+    display: flex;
+  }
+  .lg\:h-20 {
+    height: 5rem;
+  }
+  .lg\:h-\[640px\] {
+    height: 640px;
+  }
+  .lg\:h-\[64px\] {
+    height: 64px;
+  }
+  .lg\:h-\[70px\] {
+    height: 70px;
+  }
+  .lg\:h-\[300px\] {
+    height: 300px;
+  }
+  .lg\:h-\[102px\] {
+    height: 102px;
+  }
+  .lg\:w-\[101px\] {
+    width: 101px;
+  }
+  .lg\:w-\[276px\] {
+    width: 276px;
+  }
+  .lg\:w-1\/2 {
+    width: 50%;
+  }
+  .lg\:px-7 {
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+  }
+  .lg\:space-y-7 > :not([hidden]) ~ :not([hidden]) {
+    margin-top: 1.75rem;
+  }
+  .lg\:text-\[28px\] {
+    font-size: 28px;
+  }
+  .lg\:text-\[32px\] {
+    font-size: 32px;
+  }
+  .lg\:text-\[50px\] {
+    font-size: 50px;
+  }
+  .lg\:text-\[100px\] {
+    font-size: 100px;
+  }
+  .lg\:gap-2 {
+    gap: 0.5rem;
+  }
+  .lg\:flex-row {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:w-\[810px\] {
+    width: 810px;
+  }
+  .xl\:h-\[64px\] {
+    height: 64px;
+  }
+  .xl\:h-\[350px\] {
+    height: 350px;
+  }
+  .xl\:items-center {
+    align-items: center;
+  }
+}
+
+@media (min-width: 1536px) {
+  .\32xl\:min-w-\[1000px\] {
+    min-width: 1000px;
+  }
+  .\32xl\:h-3\/4 {
+    height: 75%;
+  }
+  .\32xl\:h-\[calc\(100vh-64px\)\] {
+    height: calc(100vh - 64px);
+  }
+  .\32xl\:items-center {
+    align-items: center;
+  }
+  .\32xl\:pt-20 {
+    padding-top: 5rem;
+  }
+}

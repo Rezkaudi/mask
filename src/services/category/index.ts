@@ -11,7 +11,7 @@ export const getCategoryById = (id: string): CategoryType | undefined => {
 
 export const getCategoryTitleById = (id: string): string | undefined => {
     const category = categories.find((item) => item.id === id);
-    return category?.title;
+    return category?.title.replace(/\n/g, "").trim();
 }
 
 export const getAllCategories = () => {
