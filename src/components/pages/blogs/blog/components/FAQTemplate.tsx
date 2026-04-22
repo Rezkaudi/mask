@@ -18,9 +18,15 @@ const FAQTemplate: React.FC<IFAQTemplate> = ({ content, sectionNumber }) => {
 
       {/* Description */}
       {content.description && (
-        <p className="font-noto font-normal text-[14px] lg:text-[16px] leading-[200%] tracking-normal align-middle text-[#323232] mb-8">
-          {content.description}
-        </p>
+        <div className="mb-8">
+          {content.description.split("\n").map((paragraph, index) => (
+            <p
+              className="font-noto font-normal text-[14px] lg:text-[16px] leading-[200%] tracking-normal align-middle text-[#323232]"
+              key={index}
+              dangerouslySetInnerHTML={{ __html: paragraph }}
+            />
+          ))}
+        </div>
       )}
 
       {/* FAQ Items */}
@@ -46,10 +52,14 @@ const FAQTemplate: React.FC<IFAQTemplate> = ({ content, sectionNumber }) => {
                 <span className="bg-gradient-to-br from-green-500 to-green-600 text-white w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold mr-3 flex-shrink-0">
                   A{item.id}
                 </span>
-                <p
-                  className="text-gray-700 leading-relaxed text-base pt-1"
-                  dangerouslySetInnerHTML={{ __html: item.answer }}
-                />
+                <div className="text-gray-700 leading-relaxed text-base pt-1">
+                  {item.answer.split("\n").map((paragraph, pIdx) => (
+                    <p
+                      key={pIdx}
+                      dangerouslySetInnerHTML={{ __html: paragraph }}
+                    />
+                  ))}
+                </div>
               </div>
             </div>
           </div>
