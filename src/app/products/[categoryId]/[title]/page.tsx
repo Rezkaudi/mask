@@ -43,10 +43,13 @@ const Page = async ({ params }: IProductPageProps) => {
   // const categoryData = await getCategoryById(categoryId);
 
   const categoryTitle = await getCategoryTitleById(categoryId);
+  console.log(title, categoryTitle);
   const productData = await getProductByTitle(title, categoryTitle);
+  console.log("product details", productData);
   if (!productData) {
     return notFound();
   }
+  console.log(productData);
   const productImage = productData.webImagesGallery?.[0]?.imageSrc || '';
 
   return (

@@ -11,15 +11,6 @@ export default {
       fontFamily: {
         noto: ["var(--font-noto-sans-jp)", "sans-serif"],
       },
-      keyframes: {
-        "fade-in-left": {
-          "0%": { opacity: "0", transform: "translateX(-20px)" },
-          "100%": { opacity: "1", transform: "translateX(0)" },
-        },
-      },
-      animation: {
-        'fade-in-left': "fade-in-left 0.5s ease forwards",
-      },
       colors: {
         "light-red": "#D51A16",
         "dark-red": "#B81122",

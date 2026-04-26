@@ -5,7 +5,7 @@ import Link from "next/link";
 
 interface IPurchaseItemsCardProps {
   title: string;
-  categoryId?: string;
+  categoryId: string;
   categoryName?: string;
   image: string;
 }
@@ -16,8 +16,7 @@ const PurchaseItemsCard = ({
   categoryName,
   image,
 }: IPurchaseItemsCardProps) => {
-  const resolvedCategoryName =
-    categoryName ?? (categoryId ? getCategoryTitleById(categoryId) : undefined);
+  const resolvedCategoryName = categoryName ?? getCategoryTitleById(categoryId);
   const haveDetails = useHaveDetails(title, resolvedCategoryName);
 
   // Common content to avoid duplication

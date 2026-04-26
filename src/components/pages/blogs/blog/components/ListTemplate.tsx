@@ -20,6 +20,8 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
     setShow((prev) => !prev);
   };
 
+  const stripHtml = (html: string): string => html.replace(/<[^>]*>/g, "");
+
   return (
     <SectionWrapper id={content.title}>
       {/* Section Header */}
@@ -53,17 +55,19 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
             <div key={index}>
               <div className="flex items-start">
                 {/* List Marker */}
-                {content.listType !== "none" && (
-                  content.listType === "number" ? (
+                {content.listType !== "none" &&
+                  (content.listType === "number" ? (
                     <span className="font-noto font-bold text-[18px] leading-[200%] text-[#111111] mr-1 flex-shrink-0">
                       {`${index + 1}.`}
                     </span>
                   ) : (
-                    <span className="mr-3 flex-shrink-0 flex items-center mt-4" aria-hidden="true">
+                    <span
+                      className="mr-3 flex-shrink-0 flex items-center mt-4"
+                      aria-hidden="true"
+                    >
                       <span className="w-2 h-2 rounded-full bg-[#111111] block" />
                     </span>
-                  )
-                )}
+                  ))}
 
                 <div className="flex-1">
                   {item.title && (
@@ -73,10 +77,14 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
                           className="text-[#111111] hover:underline transition-colors text-[14px] lg:text-[16px]"
                           href={item.href!}
                         >
-                          <span dangerouslySetInnerHTML={{ __html: item.title }} />
+                          <span
+                            dangerouslySetInnerHTML={{ __html: item.title }}
+                          />
                         </Link>
                       ) : (
-                        <span dangerouslySetInnerHTML={{ __html: item.title }} />
+                        <span
+                          dangerouslySetInnerHTML={{ __html: item.title }}
+                        />
                       )}
                     </h3>
                   )}
@@ -96,7 +104,11 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
                         <div className="relative w-full max-w-[321px] h-[175px] lg:max-w-[796px] lg:h-[434px] overflow-hidden rounded-[12px] bg-gray-50">
                           <Image
                             src={item.imageSrc}
-                            alt={item.title || "Section illustration"}
+                            alt={
+                              item.title
+                                ? stripHtml(item.title)
+                                : "Section illustration"
+                            }
                             width={796}
                             height={434}
                             className="w-full h-full object-contain rounded-[12px]"
@@ -144,10 +156,7 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
                             >
                               <Image
                                 src={image.src}
-                                alt={
-                                  image.alt ||
-                                  `${item.title || "Section illustration"} - Image ${imgIndex + 1}`
-                                }
+                                alt={`${item.title ? stripHtml(item.title) : "Section illustration"} - Image ${imgIndex + 1}`}
                                 width={796}
                                 height={434}
                                 className="w-full h-full object-contain rounded-[12px]"
