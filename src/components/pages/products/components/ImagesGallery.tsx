@@ -158,6 +158,9 @@ const ImagesGallery = ({
     if (e.key === "0") resetZoom();
   };
 
+  // (Optional) Dev diagnostic
+  console.log("MAIN SRC:", main?.imageSrc);
+
   return (
     <div className="w-full max-w-6xl mx-auto p-4 md:p-8">
       {/* Product Title */}
@@ -261,8 +264,8 @@ const ImagesGallery = ({
                 onClick={() => setSelectedImageIndex(index)}
                 onKeyDown={(e) => handleKeyPress(e, index)}
                 className={`relative flex-shrink-0 w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-rose-400 focus:ring-offset-1 ${selectedImageIndex === index
-                    ? "ring-2 ring-rose-500 shadow-sm scale-[1.02]"
-                    : "ring-1 ring-gray-200 hover:ring-gray-300 hover:shadow-sm"
+                  ? "ring-2 ring-rose-500 shadow-sm scale-[1.02]"
+                  : "ring-1 ring-gray-200 hover:ring-gray-300 hover:shadow-sm"
                   }`}
                 aria-label={`View ${image.title}`}
               >

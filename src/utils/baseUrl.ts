@@ -1,1 +1,1 @@
-export const baseUrl: string = "https://www.mac-hadis.com"
+export const baseUrl: string = "https://mac-hadis.com"

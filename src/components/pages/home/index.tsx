@@ -48,6 +48,7 @@ const CompanyProfile = dynamic(() => import("./sections/CompanyProfile"), {
   loading: () => <SectionLoader height="500px" />
 });
 
+// ❌ REMOVED: The render-blocking dynamic import definition from here
 
 const Index = () => {
   return (
