@@ -21,17 +21,17 @@ const ImageListTemplate: React.FC<IImageListTemplate> = ({
         <SectionHeader number={sectionNumber} title={content.title} />
       )}
 
-      <div className="flex flex-wrap justify-between md:justify-center gap-4 lg:gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-6">
         {content.items?.map((item, index) => (
-          <div key={index} className="w-[47%] md:w-[47%]">
+          <div key={index} className="w-full">
             <div className=" bg-white border-2 border-gray-200 rounded-lg overflow-hidden">
-              <div className="w-full  flex justify-center items-center bg-gray-50 p-4">
+              <div className="relative w-full aspect-[4/3] flex justify-center items-center bg-gray-50 p-2 lg:p-4">
                 <Image
                   src={item.imageSrc}
                   alt={item.alt}
-                  width={250}
-                  height={250}
-                  className="w-auto h-[200px] lg:w-auto lg:h-[250px] object-contain"
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 600px"
+                  className="object-contain p-2 lg:p-4"
                 />
               </div>
               {!item.alt ||
