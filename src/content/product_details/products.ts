@@ -29,6 +29,7 @@ import product28 from './自動車整備機械/油圧プレス.json';
 import product29 from './業務用厨房機器・ ベーカリー機器/プレハブ冷凍庫、冷蔵庫.json';
 import product30 from './業務用厨房機器・ ベーカリー機器/ガスフライヤー.json';
 import product31 from './金属加工機械・板金機械/ロータリーシャ.json';
+import product32 from './金属加工機械・板金機械/コンターマシン.json';
 
 
 const products = [
@@ -63,6 +64,7 @@ const products = [
   product29,
   product30,
   product31,
+  product32,
 ]
 
 export default products
