@@ -8,6 +8,7 @@ import VideoTemplate from "../components/VideoTemplate";
 import ListTemplate from "../components/ListTemplate";
 import TableTemplate from "../components/TableTemplate";
 import ImageListTemplate from "../components/ImageListTemplate";
+import ButtonTemplate from "../components/ButtonTemplate";
 
 interface ISubContent {
   content: BlogSubContent;
@@ -56,6 +57,8 @@ const SubContent: React.FC<ISubContent> = ({
                 sectionNumber={sectionNumber}
               />
             );
+          case "btn":
+            return <ButtonTemplate content={content} />;
           default:
             return null;
         }
