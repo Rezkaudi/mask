@@ -59,6 +59,7 @@ interface ListContent extends BlogItemBase {
         bottomDescription?: string;
     }[];
     sectionImages?: string[] | { src: string; alt?: string }[];
+    imagesNote?: string;
     bottomDescription?: string;
     withPagination?: boolean;
 }
@@ -77,6 +78,7 @@ interface BtnContent extends BlogItemBase {
     label?: string;
     href?: string;
     description?: string;
+    variant?: "primary" | "secondary";
 }
 
 type BlogSubContent = SimpleContent | FAQContent | ImageContent | ListContent | VideoContent | TableContent | ImageListContent | BtnContent;
