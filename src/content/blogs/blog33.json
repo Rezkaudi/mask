@@ -11,7 +11,8 @@
       "type": "btn",
       "title": "",
       "label": "無料査定・お問い合わせはこちら",
-      "href": "/#inquiry"
+      "href": "/#inquiry",
+      "variant": "secondary"
     },
     {
       "id": "1",
@@ -31,7 +32,14 @@
           "id": "3",
           "title": "<strong>「未校正品」も買取OK</strong> – 校正が切れているもの、校正証明書がないものでも査定可能です。"
         }
-      ]
+      ],
+      "sectionImages": [
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-1.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-2.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-3.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-4.jpeg"
+      ],
+      "imagesNote": "掲載画像は一例です。その他メーカーも幅広く買取しております。"
     },
     {
       "id": "2",
@@ -70,11 +78,32 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-1.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-2.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-3.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-4.jpeg"
-      ]
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-11.jpg",
+          "alt": "オシロスコープ"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-14.jpg",
+          "alt": "デジタルマルチメータ"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-13.jpg",
+          "alt": "スペクトラムアナライザ"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-15.jpg",
+          "alt": "ロジックアナライザ"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-12.jpg",
+          "alt": "カーブトレーサ"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-16.jpg",
+          "alt": "信号発生器"
+        }
+      ],
+      "imagesNote": "掲載画像は一例です。その他メーカーも幅広く買取しております。"
     },
     {
       "id": "3",
@@ -104,11 +133,28 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-5.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-6.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-7.jpeg"
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/tektronix.jpg",
+          "alt": "Tektronix（テクトロニクス）"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/yokogawa.jpg",
+          "alt": "YOKOGAWA（横河電機）"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/advantest.webp",
+          "alt": "ADVANTEST（アドバンテスト）"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/Agilent_Technologies-Logo.svg",
+          "alt": "Agilent（アジレント・テクノロジー）"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/noiseken.png",
+          "alt": "Noiseken（ノイズ研究所）"
+        }
       ],
-      "bottomDescription": "※上記以外のメーカーも幅広く取り扱っております。"
+      "imagesNote": "掲載画像は一例です。その他メーカーも幅広く買取しております。"
     },
     {
       "id": "4",
@@ -120,8 +166,9 @@
       "id": "btn-2",
       "type": "btn",
       "title": "",
-      "label": "無料査定・お問い合わせはこちら",
-      "href": "/#inquiry"
+      "label": "計測器の無料査定を依頼する",
+      "href": "/#inquiry",
+      "variant": "secondary"
     },
     {
       "id": "5",
@@ -143,10 +190,14 @@
         }
       ],
       "sectionImages": [
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-5.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-6.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-7.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-8.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-9.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/blog33-10.jpeg"
-      ]
+      ],
+      "imagesNote": "掲載画像は一例です。その他メーカーも幅広く買取しております。"
     },
     {
       "id": "6",
