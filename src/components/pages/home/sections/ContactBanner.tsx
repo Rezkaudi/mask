@@ -9,9 +9,11 @@ import ContactDetails from "@/content/home/ContactDetails.json";
 const ContactBanner = ({
   showFormBtn = true,
   applyFactoryTheme = false,
+  hideRightImage = false,
 }: {
   showFormBtn?: boolean;
   applyFactoryTheme?: boolean;
+  hideRightImage?: boolean;
 }) => {
   return (
     <section className="font-noto object-cover relative flex flex-row-reverse">
@@ -22,17 +24,19 @@ const ContactBanner = ({
         fill
       />
       {/* Right image */}
-      <div className="hidden md:block md:w-[48%] relative md:h-auto">
-        <Image
-          src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/right-bg-banner.jpeg"
-          alt="banner-right-bg"
-          fill
-          className="object-cover"
-        />
-      </div>
+      {!hideRightImage && (
+        <div className="hidden md:block md:w-[48%] relative md:h-auto">
+          <Image
+            src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/home-page/backgrounds/right-bg-banner.jpeg"
+            alt="banner-right-bg"
+            fill
+            className="object-cover"
+          />
+        </div>
+      )}
 
       {/* left section */}
-      <div className="px-5 py-[50px] xl:p-[75px] md:w-[52%] xl:pl-[80px] space-y-4 lg:max-h-[415px]">
+      <div className={`px-5 py-[50px] xl:p-[75px] xl:pl-[80px] space-y-4 lg:max-h-[415px] ${hideRightImage ? "w-full" : "md:w-[52%]"}`}>
         {/* Modern Badge */}
         <div
           className={`absolute top-2 left-2 z-10 -rotate-[30deg] ${applyFactoryTheme ? "text-white" : "text-red-600"}`}
