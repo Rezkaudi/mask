@@ -9,6 +9,7 @@ import ListTemplate from "../components/ListTemplate";
 import TableTemplate from "../components/TableTemplate";
 import ImageListTemplate from "../components/ImageListTemplate";
 import ButtonTemplate from "../components/ButtonTemplate";
+import ContactBanner from "@/components/pages/home/sections/ContactBanner";
 
 interface ISubContent {
   content: BlogSubContent;
@@ -59,6 +60,13 @@ const SubContent: React.FC<ISubContent> = ({
             );
           case "btn":
             return <ButtonTemplate content={content} />;
+          case "contactBanner":
+            return (
+              <ContactBanner
+                showFormBtn={content.showFormBtn ?? true}
+                hideRightImage
+              />
+            );
           default:
             return null;
         }

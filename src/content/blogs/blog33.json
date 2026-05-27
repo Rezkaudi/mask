@@ -7,12 +7,9 @@
   "date": "2026/05/20",
   "subContent": [
     {
-      "id": "btn-1",
-      "type": "btn",
-      "title": "",
-      "label": "計測器の無料査定を依頼する",
-      "href": "/#inquiry",
-      "variant": "secondary"
+      "id": "contact-banner-1",
+      "type": "contactBanner",
+      "title": ""
     },
     {
       "id": "1",
@@ -153,8 +150,7 @@
           "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【買取強化中】使わなくなった計測器・測定器、ハディズが高価買取いたします！/noiseken.png",
           "alt": "Noiseken（ノイズ研究所）"
         }
-      ],
-      "imagesNote": "掲載画像は一例です。その他メーカーも幅広く買取しております。"
+      ]
     },
     {
       "id": "4",
@@ -163,12 +159,9 @@
       "description": "お手元の機材がいくらで売れるか、まずは<strong>無料査定</strong>をご活用ください。\n・<strong>LINE査定</strong>：写真を撮って送るだけのスピード査定\n・<strong>お問い合わせフォーム</strong>：24時間受付中\n・<strong>電話相談</strong>：お急ぎの方は直接お電話ください。\n※大量一括査定をご希望の方は、出張査定が便利です。（関東エリアのみ）"
     },
     {
-      "id": "btn-2",
-      "type": "btn",
-      "title": "",
-      "label": "計測器の無料査定を依頼する",
-      "href": "/#inquiry",
-      "variant": "secondary"
+      "id": "contact-banner-2",
+      "type": "contactBanner",
+      "title": ""
     },
     {
       "id": "5",

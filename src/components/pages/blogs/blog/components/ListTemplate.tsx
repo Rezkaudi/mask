@@ -71,10 +71,10 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
 
                 <div className="flex-1">
                   {item.title && (
-                    <h3 className="font-noto text-[18px] lg:text-[20px] leading-[200%] tracking-normal align-middle text-[#111111]">
+                    <h3 className="font-noto font-normal text-[14px] lg:text-[16px] leading-[200%] tracking-normal align-middle text-[#323232]">
                       {item.isLink ? (
                         <Link
-                          className="text-[#111111] hover:underline transition-colors text-[14px] lg:text-[16px]"
+                          className="text-[#323232] hover:underline transition-colors"
                           href={item.href!}
                         >
                           <span
