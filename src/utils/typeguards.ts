@@ -8,5 +8,5 @@ export const isTProduct = (p: TProduct | TNewProduct): p is TProduct => {
 
 /** New product (has types / information) */
 export const isNewProduct = (p: TProduct | TNewProduct): p is TNewProduct => {
-  return Array.isArray((p as TNewProduct)?.types);
+  return Array.isArray((p as TNewProduct)?.information);
 };
