@@ -22,7 +22,7 @@ export type TNewProduct = {
   id: number;
   title: string;
   category: string;
-  types: string[] | { title: string; items?: string[] }[]
+  types?: string[] | { title: string; items?: string[] }[]
   purchaseProductTitle: string;
   webImagesGallery: TImage[]
   makers: TMaker[];
