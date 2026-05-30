@@ -28,7 +28,9 @@ const index = ({ product }: IIndexProps) => {
     <>
       <ProductHero productTitle={product.title} />
       <Breadcrumb title={product.title} category={product.category} />
-      <Types types={product.types} />
+      {product.types && product.types.length > 0 && (
+        <Types types={product.types} />
+      )}
       <ImagesGallery images={product.webImagesGallery} />
       {/* <MajorList title={product.title} companies={product.makers} /> */}
       <Makers companies={product.makers} />
