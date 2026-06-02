@@ -1,0 +1,204 @@
+{
+  "id": 34,
+  "title": "プレス機械",
+  "category": "工作機械・精密加工機械",
+  "types": [
+    "機械プレス",
+    "サーボプレス",
+    "油圧プレス",
+    "高速プレス",
+    "精密プレス",
+    "ユニットプレス",
+    "特殊プレス"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "cameraImagesGallery": [
+    {
+      "title": "AMADA アマダ★油圧プレス 油圧パンチャー ハンマーパンチ★4トン★CP-4☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/AMADA アマダ★油圧プレス 油圧パンチャー ハンマーパンチ★4トン★CP-4☆.jpg"
+    },
+    {
+      "title": "TAKEDA タケダ機械★ユニットプレス★UP-30★フットスイッチ 取説付★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/TAKEDA タケダ機械★ユニットプレス★UP-30★フットスイッチ 取説付★.JPG"
+    },
+    {
+      "title": " アマダ　AMADA プレス機　60ton",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/ アマダ　AMADA プレス機　60ton.jpg"
+    },
+    {
+      "title": " アマダ　AMADA プレス機　80ton",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/ アマダ　AMADA プレス機　80ton.jpg"
+    },
+    {
+      "title": "アマダ★ベンダー★プレスブレーキ★RG-35S★1200mm★バッグゲージ付★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/アマダ★ベンダー★プレスブレーキ★RG-35S★1200mm★バッグゲージ付★.JPG"
+    },
+    {
+      "title": "☆コマツ★35tプレスブレーキ★PHS35×125★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/☆コマツ★35tプレスブレーキ★PHS35×125★.jpeg"
+    },
+    {
+      "title": "コマツ☆ 圧力能力50トン☆PAS50",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/コマツ☆ 圧力能力50トン☆PAS50.JPG"
+    },
+    {
+      "title": "三起精機☆ トライプレス☆ STS-1311-500HM☆ 加圧能力5000 kN",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/三起精機☆ トライプレス☆ STS-1311-500HM☆ 加圧能力5000 kN.JPG"
+    },
+    {
+      "title": "三起精機☆ 万能プレス☆ STS-1209-250☆ 加圧能力250トン",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/三起精機☆ 万能プレス☆ STS-1209-250☆ 加圧能力250トン.JPG"
+    },
+    {
+      "title": "富士機工 パンチプレス α-Ⅲ MLホルダー500付★東洋工機 20tセットプレス HSP-20",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/富士機工 パンチプレス α-Ⅲ MLホルダー500付★東洋工機 20tセットプレス HSP-20.jpg"
+    },
+    {
+      "title": "小松製作所（KOMATSU）☆ PHS30-1☆ 圧力能力30トン",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/小松製作所（KOMATSU）☆ PHS30-1☆ 圧力能力30トン.JPG"
+    },
+    {
+      "title": "東洋工機☆ HPM 60AT1☆ 圧力能力60 tons☆プレスブレーキ",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/東洋工機☆ HPM 60AT1☆ 圧力能力60 tons☆プレスブレーキ.JPG"
+    },
+    {
+      "title": "相澤鐵工所☆ MP-35☆ 圧力能力35 ton☆ マイティプレスブレーキ仕様☆ AAA",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/相澤鐵工所☆ MP-35☆ 圧力能力35 ton☆ マイティプレスブレーキ仕様☆ AAA.jpeg"
+    },
+    {
+      "title": "蹴とばしプレス★フットプレス★足踏み★ケトバシ☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/cameraImagesGallery/蹴とばしプレス★フットプレス★足踏み★ケトバシ☆.jpeg"
+    }
+  ],
+  "webImagesGallery": [
+    {
+      "title": "プレス機械(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(1).png"
+    },
+    {
+      "title": "プレス機械(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(2).png"
+    },
+    {
+      "title": "プレス機械(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(3).png"
+    },
+    {
+      "title": "プレス機械(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(4).png"
+    },
+    {
+      "title": "プレス機械(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(5).png"
+    },
+    {
+      "title": "プレス機械(6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(6).png"
+    },
+    {
+      "title": "プレス機械(7)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(7).png"
+    },
+    {
+      "title": "プレス機械(8)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(8).png"
+    },
+    {
+      "title": "プレス機械(9)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(9).png"
+    },
+    {
+      "title": "プレス機械(10)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/webImagesGallery/プレス機械(10).png"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "aaa-aizawa",
+      "link": "https://www.aaa-aizawa.co.jp/products/index.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/aaa-aizawa.png"
+    },
+    {
+      "jp": "",
+      "en": "aida",
+      "link": "https://www.aida.co.jp/products/list01.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/aida.PNG"
+    },
+    {
+      "jp": "",
+      "en": "amada",
+      "link": "https://www.amada.co.jp/ja/products/press_systems/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/amada.png"
+    },
+    {
+      "jp": "",
+      "en": "fuji-kiko",
+      "link": "https://www.fuji-kiko.co.jp/products/product_cat/punching/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/fuji-kiko.png"
+    },
+    {
+      "jp": "",
+      "en": "sanki",
+      "link": "https://sanki.komatsu/tanatsu/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/sanki.PNG"
+    },
+    {
+      "jp": "",
+      "en": "sanki-seiko",
+      "link": "https://www.sanki-seiko.co.jp/product/product.php",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/sanki-seiko.png"
+    },
+    {
+      "jp": "",
+      "en": "takeda-mc",
+      "link": "https://www.takeda-mc.co.jp/product-information/katakou/#p04",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/takeda-mc.JPG"
+    },
+    {
+      "jp": "",
+      "en": "yamadadobby",
+      "link": "https://www.yamadadobby.co.jp/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/工作機械・精密加工機械/プレス機械/makers/yamadadobby.JPG"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "大きくてそのまま出すことができませんが、搬出可能ですか？",
+      "answer": "はい、問題ありません。必要な工具を持参し、当社のスタッフが分解・取り外し作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "オイルはそのままでも大丈夫ですか？",
+      "answer": "はい、当社のスタッフが抜き取り作業を行い、適切に処分いたします。"
+    },
+    {
+      "id": 4,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 5,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 6,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でプレス機械の買取実績があります。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなったプレス機械はございませんか？\nハディズでは、あらゆるメーカー・型式の中古プレス機械を買取しています。重量のあるプレス機械の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と速やかなお支払いをお約束します。"
+}
