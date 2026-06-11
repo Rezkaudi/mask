@@ -14,46 +14,62 @@
     },
     {
       "id": "2",
-      "type": "table",
+      "type": "list",
+      "listType": "none",
       "title": "買取機械一覧（一部抜粋）",
-      "headers": [
-        "分類",
-        "主な買取機械"
-      ],
-      "rows": [
+      "items": [
         {
           "id": "1",
-          "columns": [
-            "<strong>金型・精密加工</strong>",
-            "西部電機 放電加工機 E-150 ／ 三菱電機 レーザー加工機 MELLASER ML10E2 ／ MITSUI 平面研磨機 MSG-200M ／ IWASHITA タレットフライス盤 NK-1R ／ 北村製作所 精密卓上旋盤 KL-16形 ／ WASINO 精密旋盤 LR-55A ／ 坂崎鉄工 彫刻機 SP-V29N ／ 坂崎鉄工 彫刻用刃物研磨機 SG-5"
+          "title": "<strong>金型・精密加工</strong>",
+          "subItems": [
+            { "id": "1", "text": "西部電機 放電加工機 E-150" },
+            { "id": "2", "text": "三菱電機 レーザー加工機 MELLASER ML10E2" },
+            { "id": "3", "text": "MITSUI 平面研磨機 MSG-200M" },
+            { "id": "4", "text": "IWASHITA タレットフライス盤 NK-1R" },
+            { "id": "5", "text": "北村製作所 精密卓上旋盤 KL-16形" },
+            { "id": "6", "text": "WASINO 精密旋盤 LR-55A" },
+            { "id": "7", "text": "坂崎鉄工 彫刻機 SP-V29N" },
+            { "id": "8", "text": "坂崎鉄工 彫刻用刃物研磨機 SG-5" }
           ]
         },
         {
           "id": "2",
-          "columns": [
-            "<strong>穴あけ・タッピング</strong>",
-            "KIRA ボール盤 KRT-10 ／ KIRA タッピング盤 KND-8 ／ Brother タッピングマシン Hi-Spin BR1-103 ／ NAKANE 卓上ボール盤 NS-14R"
+          "title": "<strong>穴あけ・タッピング</strong>",
+          "subItems": [
+            { "id": "1", "text": "KIRA ボール盤 KRT-10" },
+            { "id": "2", "text": "KIRA タッピング盤 KND-8" },
+            { "id": "3", "text": "Brother タッピングマシン Hi-Spin BR1-103" },
+            { "id": "4", "text": "NAKANE 卓上ボール盤 NS-14R" }
           ]
         },
         {
           "id": "3",
-          "columns": [
-            "<strong>板金・プレス</strong>",
-            "小松製作所 35t油圧プレス PHS35×125 ／ 相澤鐵工所 35tマイティプレスブレーキ MP-35 ／ DAIDEN スポット溶接機 SU-7"
+          "title": "<strong>板金・プレス</strong>",
+          "subItems": [
+            { "id": "1", "text": "小松製作所 35t油圧プレス PHS35×125" },
+            { "id": "2", "text": "相澤鐵工所 35tマイティプレスブレーキ MP-35" },
+            { "id": "3", "text": "DAIDEN スポット溶接機 SU-7" }
           ]
         },
         {
           "id": "4",
-          "columns": [
-            "<strong>搬送設備・周辺機械など</strong>",
-            "椿本メイフラン チップコンベア CT51 ／ 木下製作所 ニューマブラスター SFK-1 ／ アネスト岩田 エアコンプレッサー CLP15-8.5 ／ 下村電友舎 電動バフ DB-400L ／ SANEI 投影機 FMP-500 ／ 大昭和精機 卓上自在面取り機 ビーバーカットV BCV250"
+          "title": "<strong>搬送設備・周辺機械など</strong>",
+          "subItems": [
+            { "id": "1", "text": "椿本メイフラン チップコンベア CT51" },
+            { "id": "2", "text": "木下製作所 ニューマブラスター SFK-1" },
+            { "id": "3", "text": "アネスト岩田 エアコンプレッサー CLP15-8.5" },
+            { "id": "4", "text": "下村電友舎 電動バフ DB-400L" },
+            { "id": "5", "text": "SANEI 投影機 FMP-500" },
+            { "id": "6", "text": "大昭和精機 卓上自在面取り機 ビーバーカットV BCV250" }
           ]
         },
         {
           "id": "5",
-          "columns": [
-            "<strong>その他</strong>",
-            "机や棚、椅子などの事務用品 ／ 材料（金属やアクリルなどの素材） ／ ストーブなどの家電、雑品"
+          "title": "<strong>その他</strong>",
+          "subItems": [
+            { "id": "1", "text": "机や棚、椅子などの事務用品" },
+            { "id": "2", "text": "材料（金属やアクリルなどの素材）" },
+            { "id": "3", "text": "ストーブなどの家電、雑品" }
           ]
         }
       ],
