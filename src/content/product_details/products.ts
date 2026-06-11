@@ -32,6 +32,7 @@ import product31 from './金属加工機械・板金機械/ロータリーシャ
 import product32 from './金属加工機械・板金機械/コンターマシン.json';
 import product33 from './工作機械・精密加工機械/鋸盤 (バンドソー).json';
 import product34 from './工作機械・精密加工機械/プレス機械.json';
+import product35 from './発電機・溶接機・コンプレッサ/TIG溶接機.json';
 
 
 const products = [
@@ -68,7 +69,8 @@ const products = [
   product31,
   product32,
   product33,
-  product34
+  product34,
+  product35
 ]
 
 export default products

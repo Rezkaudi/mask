@@ -1,0 +1,206 @@
+{
+  "id": 35,
+  "title": "TIG溶接機",
+  "category": "発電機・溶接機・コンプレッサ",
+  "types": [
+    "直流TIG溶接機（DC TIG）",
+    "交流TIG溶接機（AC TIG）",
+    "交流直流兼用TIG溶接機（AC/DC TIG）",
+    "パルスTIG溶接機",
+    "インバータTIG溶接機"
+  ],
+  "purchaseProductTitle": "の買取実績",
+  "webImagesGallery": [
+    {
+      "title": "TIG溶接機(1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(1).png"
+    },
+    {
+      "title": "TIG溶接機(2)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(2).png"
+    },
+    {
+      "title": "TIG溶接機(3)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(3).png"
+    },
+    {
+      "title": "TIG溶接機(4)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(4).png"
+    },
+    {
+      "title": "TIG溶接機(5)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(5).png"
+    },
+    {
+      "title": "TIG溶接機(6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(6).png"
+    },
+    {
+      "title": "TIG溶接機(7)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(7).png"
+    },
+    {
+      "title": "TIG溶接機(8)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/cameraImagesGallery/TIG溶接機(8).JPG"
+    }
+  ],
+  "cameraImagesGallery": [
+    {
+      "title": "DAIHEN ダイヘン★TIG MINI 200P★TIG溶接機★VRTPM-201(S-1)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/DAIHEN ダイヘン★TIG MINI 200P★TIG溶接機★VRTPM-201(S-1).jpg"
+    },
+    {
+      "title": "IKURA 育良★インバーター制御直流パルスTIG溶接機★ライトティグ★IS-LT200",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/IKURA 育良★インバーター制御直流パルスTIG溶接機★ライトティグ★IS-LT200.jpg"
+    },
+    {
+      "title": "☆National PANA-TIG★WS200★サイリスタ制御 交直両用 TIG溶接機★YC-200TWS-3★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/☆National PANA-TIG★WS200★サイリスタ制御 交直両用 TIG溶接機★YC-200TWS-3★.jpeg"
+    },
+    {
+      "title": "National★THYRISTOR-TIG 溶接機★WP300★YC-300TWSP-2",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/National★THYRISTOR-TIG 溶接機★WP300★YC-300TWSP-2.jpg"
+    },
+    {
+      "title": "Panasonic★PANA-TIG★サイリスタ制御交直両用TIG溶接機★WP300★YC-300WP4",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★PANA-TIG★サイリスタ制御交直両用TIG溶接機★WP300★YC-300WP4.JPG"
+    },
+    {
+      "title": "Panasonic★TIG STAR★TIG溶接機★YC-300WX3",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★TIG STAR★TIG溶接機★YC-300WX3.JPG"
+    },
+    {
+      "title": "Panasonic★TIG溶接機★TIG STAR WX300★ケーブル付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★TIG溶接機★TIG STAR WX300★ケーブル付.jpg"
+    },
+    {
+      "title": "Panasonic★TIG溶接機★YC-200BR1★ケーブル付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★TIG溶接機★YC-200BR1★ケーブル付.jpg"
+    },
+    {
+      "title": "Panasonic★インバータ制御交直両用TIG溶接機★YC-300WX4",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★インバータ制御交直両用TIG溶接機★YC-300WX4.JPG"
+    },
+    {
+      "title": "Panasonic★インバータ直流TIG溶接機★YC-200BL3",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic★インバータ直流TIG溶接機★YC-200BL3.jpg"
+    },
+    {
+      "title": "Panasonic パナソニック★TIG溶接機★YC-300TR6★三相200V",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/Panasonic パナソニック★TIG溶接機★YC-300TR6★三相200V.JPG"
+    },
+    {
+      "title": "SANWA 三和商工★TIG 抵抗溶接機★WELD PRO SW-V01★付属品付",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/SANWA 三和商工★TIG 抵抗溶接機★WELD PRO SW-V01★付属品付.jpg"
+    },
+    {
+      "title": "☆ダイヘン★TIG溶接用交両用電源★TIG溶接機★インバーターエレコン300P★AVP-300(S-4)★2016年製☆",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/☆ダイヘン★TIG溶接用交両用電源★TIG溶接機★インバーターエレコン300P★AVP-300(S-4)★2016年製☆.jpeg"
+    },
+    {
+      "title": "ダイヘン★インバーターアルゴ★300P★TIG溶接機★VRTP-300(S-6)",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/ダイヘン★インバーターアルゴ★300P★TIG溶接機★VRTP-300(S-6).JPG"
+    },
+    {
+      "title": "☆ダイヘン★インバータアルゴ200P★TIG溶接機★VRTP-200(S-1)★",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/☆ダイヘン★インバータアルゴ200P★TIG溶接機★VRTP-200(S-1)★.jpeg"
+    },
+    {
+      "title": "ダイヘン★インバータエレコン300P★AVP-300★TIG溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/ダイヘン★インバータエレコン300P★AVP-300★TIG溶接機.jpg"
+    },
+    {
+      "title": "ダイヘン★インバータティグミニ200PⅡ★TIG溶接機",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/ダイヘン★インバータティグミニ200PⅡ★TIG溶接機.jpg"
+    },
+    {
+      "title": "ダイヘン★直流パルスTIG★溶接機★デジタルアルゴDT300PⅡ★DT-300",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/ダイヘン★直流パルスTIG★溶接機★デジタルアルゴDT300PⅡ★DT-300.jpg"
+    },
+    {
+      "title": "新ダイワ★ポータブル インバータ交流_直流TIG溶接機★STW200A★単相200V",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/新ダイワ★ポータブル インバータ交流_直流TIG溶接機★STW200A★単相200V.JPG"
+    },
+    {
+      "title": "日立★インバーター 直流TIG溶接機★Pochette★150NPX DT-NPX",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/webImagesGallery/日立★インバーター 直流TIG溶接機★Pochette★150NPX DT-NPX.jpg"
+    }
+  ],
+  "makers": [
+    {
+      "jp": "",
+      "en": "connect.panasonic",
+      "link": "https://connect.panasonic.com/jp-ja/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/connect.panasonic.png"
+    },
+    {
+      "jp": "",
+      "en": "daihen",
+      "link": "https://www.daihen.co.jp/products/welder/tig/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/daihen.png"
+    },
+    {
+      "jp": "",
+      "en": "hitachi-ies",
+      "link": "https://www.hitachi-ies.co.jp/products/",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/hitachi-ies.png"
+    },
+    {
+      "jp": "",
+      "en": "ikuratools",
+      "link": "https://www.ikuratools.com/entrance_w.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/ikuratools.JPG"
+    },
+    {
+      "jp": "",
+      "en": "sanwashoko",
+      "link": "https://www.sanwashoko.co.jp/weldpro_sw_v02.html",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/sanwashoko.png"
+    },
+    {
+      "jp": "",
+      "en": "yamabiko-corp",
+      "link": "https://www.yamabiko-corp.co.jp/shindaiwa/products/category/contents_type=447",
+      "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/発電機・溶接機・コンプレッサ/TIG溶接機/makers/yamabiko-corp.png"
+    }
+  ],
+  "information": [
+    "サビや汚れ、傷みが少なく綺麗なもの（ただし、再塗装されているものは値打ちが下がる場合があります。）",
+    "取扱説明書や付属品が揃っている",
+    "製造メーカー、製造年などの情報を把握していること",
+    "買取時に動作確認が可能であること"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "配線はそのままでも大丈夫ですか？",
+      "answer": "はい、当社の技術スタッフが安全に取り外し作業を行います。"
+    },
+    {
+      "id": 2,
+      "question": "大きくてそのまま出すことができませんが、搬出可能ですか？",
+      "answer": "はい、問題ありません。必要な工具を持参し、当社のスタッフが分解・取り外し作業を行います。"
+    },
+    {
+      "id": 3,
+      "question": "オイルはそのままでも大丈夫ですか？",
+      "answer": "はい、当社のスタッフが抜き取り作業を行い、適切に処分いたします。"
+    },
+    {
+      "id": 4,
+      "question": "現地にフォークリフトやクレーンがないのですが、買取可能ですか？",
+      "answer": "はい、必要に応じてリフトや専用の機材・道具を持参し、パワーゲート付きトラックまたはユニック車でお伺いいたします。"
+    },
+    {
+      "id": 5,
+      "question": "積み込みの手伝いが必要ですか？",
+      "answer": "いいえ、お客様のお手伝いは不要です。搬出から積み込みまで当社のスタッフが対応します。"
+    },
+    {
+      "id": 6,
+      "question": "遠方でも買取に来てくれますか？",
+      "answer": "はい、日本各地でTIG溶接機の買取実績があります。"
+    }
+  ],
+  "servicesDescription": "ご使用されなくなったTIG溶接機はございませんか？\nハディズでは、あらゆるメーカー・型式の中古TIG溶接機を買取しています。重量のある溶接機や周辺機器の搬出・運搬も、専門知識を持つスタッフが安全に対応いたします。機械の状態を適正に評価し、公正な価格での買取と速やかなお支払いをお約束します。"
+}
