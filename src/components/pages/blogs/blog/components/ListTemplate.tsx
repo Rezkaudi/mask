@@ -193,7 +193,7 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
                   )}
                   {/* Bottom Description */}
                   {item.bottomDescription && (
-                    <div className="border border-[#B81122] rounded-2xl bg-[#FFF5F6] p-4">
+                    <div className="border mt-4 border-[#B81122] rounded-2xl bg-[#FFF5F6] p-4">
                       <p
                         className="text-[14px] lg:text-[16px] leading-[160%] align-middle font-noto text-[#B81122]"
                         dangerouslySetInnerHTML={{
