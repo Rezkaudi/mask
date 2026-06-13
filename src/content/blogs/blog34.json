@@ -73,6 +73,18 @@
           ]
         }
       ],
+      "sectionImages": [
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-1.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-2.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-3.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-4.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-5.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-6.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-7.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-8.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-9.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-10.jpg"
+      ],
       "bottomDescription": "今回のような金型製作工場では、放電加工機、平面研磨機、フライス盤、旋盤、レーザー加工機、プレスブレーキ、コンプレッサー、測定機器、工具類など、用途やメーカーが異なる設備が多数残されていることがあります。\nこれらを個別に処分しようとすると、査定業者の選定、搬出業者の手配、残置物の分別、スケジュール調整に時間がかかります。ハディズでは、専門機械から汎用機械、工具、材料、事務用品までまとめて確認し、買取可能なものを一括で評価いたします。\n特に日本製の工作機械は、国内だけでなく海外でも需要が見込める場合があります。そのため、年式が古い機械であっても、状態・メーカー・型式・付属品・搬出条件によっては買取対象となる可能性があります。"
     },
     {
@@ -107,6 +119,13 @@
           "title": "<strong>査定から撤去・搬出までワンストップ対応</strong>",
           "description": "売却の合意後、工場からの機械搬出作業もすべて弊社が主導して行います。期限の限られた破産手続きや明け渡しスケジュールに合わせ、迅速かつ安全に搬出を完了させます。"
         }
+      ],
+      "sectionImages": [
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-11.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-12.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-13.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-14.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-15.jpg"
       ]
     },
     {
@@ -155,21 +174,26 @@
       "items": [
         {
           "id": "1",
+          "title": "ハディズ：工場整理・機械買取サービス",
+          "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://mac-hadis.com/factory-service'>https://mac-hadis.com/factory-service</a>"
+        },
+        {
+          "id": "2",
           "title": "裁判所：破産手続に関する説明",
           "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.courts.go.jp/'>https://www.courts.go.jp/</a>"
         },
         {
-          "id": "2",
+          "id": "3",
           "title": "山梨県都留市：統計情報",
           "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://www.city.tsuru.yamanashi.jp/'>https://www.city.tsuru.yamanashi.jp/</a>"
         },
         {
-          "id": "3",
+          "id": "4",
           "title": "山梨県データカタログ：市町村別工業統計",
           "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://catalog.dataplatform-yamanashi.jp/'>https://catalog.dataplatform-yamanashi.jp/</a>"
         },
         {
-          "id": "4",
+          "id": "5",
           "title": "日本産機新聞：工作機械受注に関する業界情報",
           "description": "<a target='_blank' class='text-blue-600 underline hover:no-underline' href='https://nihonsanki-shimbun.com/'>https://nihonsanki-shimbun.com/</a>"
         }
