@@ -22,61 +22,132 @@
           "id": "1",
           "title": "<strong>金型・精密加工</strong>",
           "subItems": [
-            { "id": "1", "text": "西部電機 放電加工機 E-150" },
-            { "id": "2", "text": "三菱電機 レーザー加工機 MELLASER ML10E2" },
-            { "id": "3", "text": "MITSUI 平面研磨機 MSG-200M" },
-            { "id": "4", "text": "IWASHITA タレットフライス盤 NK-1R" },
-            { "id": "5", "text": "北村製作所 精密卓上旋盤 KL-16形" },
-            { "id": "6", "text": "WASINO 精密旋盤 LR-55A" },
-            { "id": "7", "text": "坂崎鉄工 彫刻機 SP-V29N" },
-            { "id": "8", "text": "坂崎鉄工 彫刻用刃物研磨機 SG-5" }
+            {
+              "id": "1",
+              "text": "西部電機 放電加工機 E-150"
+            },
+            {
+              "id": "2",
+              "text": "三菱電機 レーザー加工機 MELLASER ML10E2"
+            },
+            {
+              "id": "3",
+              "text": "MITSUI 平面研磨機 MSG-200M"
+            },
+            {
+              "id": "4",
+              "text": "IWASHITA タレットフライス盤 NK-1R"
+            },
+            {
+              "id": "5",
+              "text": "北村製作所 精密卓上旋盤 KL-16形"
+            },
+            {
+              "id": "6",
+              "text": "WASINO 精密旋盤 LR-55A"
+            },
+            {
+              "id": "7",
+              "text": "坂崎鉄工 彫刻機 SP-V29N"
+            },
+            {
+              "id": "8",
+              "text": "坂崎鉄工 彫刻用刃物研磨機 SG-5"
+            }
           ]
         },
         {
           "id": "2",
           "title": "<strong>穴あけ・タッピング</strong>",
           "subItems": [
-            { "id": "1", "text": "KIRA ボール盤 KRT-10" },
-            { "id": "2", "text": "KIRA タッピング盤 KND-8" },
-            { "id": "3", "text": "Brother タッピングマシン Hi-Spin BR1-103" },
-            { "id": "4", "text": "NAKANE 卓上ボール盤 NS-14R" }
+            {
+              "id": "1",
+              "text": "KIRA ボール盤 KRT-10"
+            },
+            {
+              "id": "2",
+              "text": "KIRA タッピング盤 KND-8"
+            },
+            {
+              "id": "3",
+              "text": "Brother タッピングマシン Hi-Spin BR1-103"
+            },
+            {
+              "id": "4",
+              "text": "NAKANE 卓上ボール盤 NS-14R"
+            }
           ]
         },
         {
           "id": "3",
           "title": "<strong>板金・プレス</strong>",
           "subItems": [
-            { "id": "1", "text": "小松製作所 35t油圧プレス PHS35×125" },
-            { "id": "2", "text": "相澤鐵工所 35tマイティプレスブレーキ MP-35" },
-            { "id": "3", "text": "DAIDEN スポット溶接機 SU-7" }
+            {
+              "id": "1",
+              "text": "小松製作所 35t油圧プレス PHS35×125"
+            },
+            {
+              "id": "2",
+              "text": "相澤鐵工所 35tマイティプレスブレーキ MP-35"
+            },
+            {
+              "id": "3",
+              "text": "DAIDEN スポット溶接機 SU-7"
+            }
           ]
         },
         {
           "id": "4",
           "title": "<strong>搬送設備・周辺機械など</strong>",
           "subItems": [
-            { "id": "1", "text": "椿本メイフラン チップコンベア CT51" },
-            { "id": "2", "text": "木下製作所 ニューマブラスター SFK-1" },
-            { "id": "3", "text": "アネスト岩田 エアコンプレッサー CLP15-8.5" },
-            { "id": "4", "text": "下村電友舎 電動バフ DB-400L" },
-            { "id": "5", "text": "SANEI 投影機 FMP-500" },
-            { "id": "6", "text": "大昭和精機 卓上自在面取り機 ビーバーカットV BCV250" }
+            {
+              "id": "1",
+              "text": "椿本メイフラン チップコンベア CT51"
+            },
+            {
+              "id": "2",
+              "text": "木下製作所 ニューマブラスター SFK-1"
+            },
+            {
+              "id": "3",
+              "text": "アネスト岩田 エアコンプレッサー CLP15-8.5"
+            },
+            {
+              "id": "4",
+              "text": "下村電友舎 電動バフ DB-400L"
+            },
+            {
+              "id": "5",
+              "text": "SANEI 投影機 FMP-500"
+            },
+            {
+              "id": "6",
+              "text": "大昭和精機 卓上自在面取り機 ビーバーカットV BCV250"
+            }
           ]
         },
         {
           "id": "5",
           "title": "<strong>その他</strong>",
           "subItems": [
-            { "id": "1", "text": "机や棚、椅子などの事務用品" },
-            { "id": "2", "text": "材料（金属やアクリルなどの素材）" },
-            { "id": "3", "text": "ストーブなどの家電、雑品" }
+            {
+              "id": "1",
+              "text": "机や棚、椅子などの事務用品"
+            },
+            {
+              "id": "2",
+              "text": "材料（金属やアクリルなどの素材）"
+            },
+            {
+              "id": "3",
+              "text": "ストーブなどの家電、雑品"
+            }
           ]
         }
       ],
       "sectionImages": [
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-1.jpg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-2.jpg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-3.jpg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-4.jpg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-5.jpg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-6.jpg",
@@ -103,14 +174,38 @@
           "title": "<strong>古い機械、メーカーサポート終了品も買取可能</strong>",
           "description": "「製造から30年以上経過している」「長期間稼働していない」といった古い機械でも諦める必要はありません。日本製の工作機械は海外市場において依然として高い需要と信頼性があるため、弊社独自の国内外のネットワークを活かし、古い機械にも再販価値を見出して適正に評価・買取いたします。<br/><br/>メーカーサポートが終了している機械や、現在は使用していない機械であっても、部品取り、修理再生、海外需要などにより価値が残っている場合があります。処分費用をかける前に、まずは買取査定をご相談ください。<br/><br/>工場設備の搬出では、機械の重量、設置場所、搬出口の広さ、フォークリフトやユニック車の使用可否、電源の切り離し、近隣への配慮など、事前確認が重要です。特に破産案件では、建物の明け渡し期限が決まっていることも多いため、査定から契約、支払い、搬出完了までのスピードが求められます。<br/><br/>ハディズでは、現場状況を確認したうえで、無理のない搬出計画を立て、安全を最優先に作業を進めます。大型工作機械や重量物がある場合でも、現場条件に応じて柔軟に対応いたします。<br/><br/><strong>査定をスムーズに進めるために</strong><br/>査定をスムーズに進めるため、事前に以下の情報があると買取金額の判断が早くなります。",
           "subItems": [
-            { "id": "1", "text": "機械のメーカー名、型式、年式" },
-            { "id": "2", "text": "銘板の写真" },
-            { "id": "3", "text": "機械全体の写真" },
-            { "id": "4", "text": "付属品、取扱説明書、治具、工具の有無" },
-            { "id": "5", "text": "動作確認の可否" },
-            { "id": "6", "text": "設置場所、階数、搬出口の状況" },
-            { "id": "7", "text": "フォークリフトやクレーンの使用可否" },
-            { "id": "8", "text": "希望する引き取り期限" }
+            {
+              "id": "1",
+              "text": "機械のメーカー名、型式、年式"
+            },
+            {
+              "id": "2",
+              "text": "銘板の写真"
+            },
+            {
+              "id": "3",
+              "text": "機械全体の写真"
+            },
+            {
+              "id": "4",
+              "text": "付属品、取扱説明書、治具、工具の有無"
+            },
+            {
+              "id": "5",
+              "text": "動作確認の可否"
+            },
+            {
+              "id": "6",
+              "text": "設置場所、階数、搬出口の状況"
+            },
+            {
+              "id": "7",
+              "text": "フォークリフトやクレーンの使用可否"
+            },
+            {
+              "id": "8",
+              "text": "希望する引き取り期限"
+            }
           ],
           "bottomDescription": "もちろん、資料がそろっていない場合でもご相談可能です。現場に残された機械を確認しながら、買取できるものを一つずつ丁寧に査定いたします。"
         },
@@ -121,11 +216,12 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-11.jpg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-12.jpg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-13.jpg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-14.jpg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-15.jpg"
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-15.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-13.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-3.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-12.jpg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/【債務整理・財産換価】　金型工場設備一式の買取実績｜山梨県都留市/blog-34-11.jpg"
       ]
     },
     {
