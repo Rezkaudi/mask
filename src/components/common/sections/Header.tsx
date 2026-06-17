@@ -2,8 +2,10 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState, memo, useCallback } from "react";
 import { Menu, X } from "lucide-react";
+import { resolveNavItems, type INavItem } from "@/utils/navItems";
 
 // data
 import navbarLinksData from "@/content/home/navbarLinks.json";
@@ -17,14 +19,18 @@ import ContactBtn from "@/components/pages/home/components/ContactBtn";
 // ═══════════════════════════════════════════════════════════════════════════════
 
 // Desktop navigation - memoized since it doesn't change
-const DesktopNav = memo(function DesktopNav() {
+const DesktopNav = memo(function DesktopNav({
+  navItems,
+}: {
+  navItems: INavItem[];
+}) {
   return (
     <nav
       className="hidden lg:flex items-center justify-end h-full w-full gap-8"
       aria-label="Main navigation"
     >
       <ul className="flex items-center justify-center gap-8 font-bold text-base text-[#B81122]">
-        {navbarLinksData?.navbarItems?.map((item) => (
+        {navItems?.map((item) => (
           <li key={item.id}>
             <Link
               href={item.href}
@@ -85,6 +91,8 @@ const DesktopNav = memo(function DesktopNav() {
 
 const Header: React.FC = () => {
   const [activeMenu, setActiveMenu] = useState(false);
+  const pathname = usePathname();
+  const navItems = resolveNavItems(pathname);
 
   // ✅ Memoize toggle function to prevent unnecessary re-renders
   const toggleMenu = useCallback(() => {
@@ -113,7 +121,7 @@ const Header: React.FC = () => {
         </Link>
 
         {/* Desktop Navigation - memoized component */}
-        <DesktopNav />
+        <DesktopNav navItems={navItems} />
 
         {/* Mobile Burger Button */}
         <button
@@ -134,7 +142,7 @@ const Header: React.FC = () => {
           aria-hidden={!activeMenu}
         >
           <ul className="flex items-start flex-col justify-center gap-10 font-bold text-sm text-[#111111]">
-            {navbarLinksData?.navbarItems?.map((item) => (
+            {navItems?.map((item) => (
               <li key={item.id} onClick={toggleMenu}>
                 <Link
                   href={item.href}

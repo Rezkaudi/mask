@@ -3,11 +3,29 @@ import Image from "next/image";
 import ContactBanner from "../../home/sections/ContactBanner";
 import SubContent from "./sections/SubContent";
 import ContactFixedBanner from "@/components/common/sections/ContactFixedBanner";
+import CompanyProfile from "../../home/sections/CompanyProfile";
+import companyProfileData from "@/content/home/CompanyProfile.json";
 import { useState } from "react";
 
 interface IBlogPage {
   data: BlogPost;
 }
+
+// Fields shown in the blog page company profile section
+const COMPANY_PROFILE_FIELDS = [
+  "会社名",
+  "代表取締役",
+  "本社所在地",
+  "電話番号1",
+  "電話番号2",
+  "FAX番号",
+  "メール",
+  "古物商登録",
+];
+
+const companyProfileItems = companyProfileData.filter((item) =>
+  COMPANY_PROFILE_FIELDS.includes(item.title),
+);
 
 const Index: React.FC<IBlogPage> = ({ data }) => {
   const date = data.date.split("/").join("-");
@@ -122,11 +140,19 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
                         {item.title}
                       </a>
                     </li>
-                    {index !== items.length - 1 && (
-                      <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto block"></div>
-                    )}
+                    <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto block"></div>
                   </>
                 ))}
+                <li className="relative group">
+                  <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
+                  <a
+                    href="#company-profile"
+                    onClick={() => setIsOpen(false)}
+                    className="block p-5 font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold rounded-md transition-all duration-200"
+                  >
+                    会社概要
+                  </a>
+                </li>
               </ul>
             </nav>
           )}
@@ -157,11 +183,18 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
                     >
                       {item.title}
                     </a>
-                    {index !== items.length - 1 && (
-                      <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto"></div>
-                    )}
+                    <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto"></div>
                   </li>
                 ))}
+                <li className="relative group">
+                  <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
+                  <a
+                    href="#company-profile"
+                    className="block font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold p-5 transition-all duration-200"
+                  >
+                    会社概要
+                  </a>
+                </li>
               </ul>
             </nav>
           </div>
@@ -204,6 +237,7 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
           </div>
         </main>
       </div>
+      <CompanyProfile items={companyProfileItems} />
       <ContactBanner />
       <ContactFixedBanner />
     </>
