@@ -6,6 +6,7 @@ import ContactFixedBanner from "@/components/common/sections/ContactFixedBanner"
 import CompanyProfile from "../../home/sections/CompanyProfile";
 import companyProfileData from "@/content/home/CompanyProfile.json";
 import { useState } from "react";
+import Link from "next/link";
 
 interface IBlogPage {
   data: BlogPost;
@@ -106,9 +107,8 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
             </div>
             {/* Arrow Icon */}
             <span
-              className={`transform transition-transform duration-200 text-gray-400 ${
-                isOpen ? "rotate-180" : "rotate-0"
-              }`}
+              className={`transform transition-transform duration-200 text-gray-400 ${isOpen ? "rotate-180" : "rotate-0"
+                }`}
             >
               <Image
                 src="https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/icons/ChevronDown.svg"
@@ -132,26 +132,26 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
                   <>
                     <li key={index} className="relative group">
                       <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-                      <a
+                      <Link
                         href={`#${item.title}`}
                         onClick={() => setIsOpen(false)} // Close menu on click
                         className="block p-5 font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold rounded-md transition-all duration-200"
                       >
                         {item.title}
-                      </a>
+                      </Link>
                     </li>
                     <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto block"></div>
                   </>
                 ))}
                 <li className="relative group">
                   <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-                  <a
+                  <Link
                     href="#company-profile"
                     onClick={() => setIsOpen(false)}
                     className="block p-5 font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold rounded-md transition-all duration-200"
                   >
                     会社概要
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </nav>
@@ -177,23 +177,23 @@ const Index: React.FC<IBlogPage> = ({ data }) => {
                 {items.map((item, index) => (
                   <li key={index} className="relative group">
                     <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-                    <a
+                    <Link
                       href={`#${item.title}`}
                       className="block font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold p-5 transition-all duration-200"
                     >
                       {item.title}
-                    </a>
+                    </Link>
                     <div className="w-[80%] h-[1px] bg-[#F2F2F2] mx-auto"></div>
                   </li>
                 ))}
                 <li className="relative group">
                   <div className="block left-0 top-1/2 bg-[#B81122] rounded-tr-[4px] rounded-br-[4px] w-[4px] h-[90%] -translate-y-1/2 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-                  <a
+                  <Link
                     href="#company-profile"
                     className="block font-noto font-normal text-[16px] leading-[20px] text-gray-600 hover:text-[#B81122] hover:font-bold p-5 transition-all duration-200"
                   >
                     会社概要
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </nav>
