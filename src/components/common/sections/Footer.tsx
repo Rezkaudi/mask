@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
             alt="Hadis International Logo"
             width={101}
             height={64}
-            style={{ width: "101", height: "64" }} 
+            style={{ width: "101", height: "64" }}
           />
         </Link>
 
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         <div className="flex items-center justify-start lg:justify-center w-full gap-4">
           {navbarLinksData?.snsLinks?.map((item) =>
             item.href.startsWith("mailto:") ? (
-              <a
+              <Link
                 key={item.id}
                 href={item.href}
                 target="_blank"
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
                   width={40}
                   height={40}
                 />
-              </a>
+              </Link>
             ) : (
               <Link
                 key={item.id}
