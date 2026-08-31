@@ -36,6 +36,7 @@ import blog34 from './blog34.json'
 import blog35 from './blog35.json'
 import blog36 from './blog36.json'
 import blog37 from './blog37.json'
+import blog38 from './blog38.json'
 
 
 
@@ -79,6 +80,7 @@ const blogs = [
     blog35,
     blog36,
     blog37,
+    blog38,
 ];
 
 // Export the array as default
