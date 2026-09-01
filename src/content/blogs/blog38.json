@@ -12,23 +12,38 @@
       "type": "table",
       "title": "今回の買取・搬出事例の要点",
       "topDescription": "",
-      "headers": ["項目", "内容"],
+      "headers": [
+        "項目",
+        "内容"
+      ],
       "rows": [
         {
           "id": "1",
-          "columns": ["<strong>買取台数</strong>", "製パン機械・包装機械 合計4台"]
+          "columns": [
+            "<strong>買取台数</strong>",
+            "製パン機械・包装機械 合計4台"
+          ]
         },
         {
           "id": "2",
-          "columns": ["<strong>設置場所</strong>", "建物2階"]
+          "columns": [
+            "<strong>設置場所</strong>",
+            "建物2階"
+          ]
         },
         {
           "id": "3",
-          "columns": ["<strong>最大重量</strong>", "メーカー公開仕様で約530kg"]
+          "columns": [
+            "<strong>最大重量</strong>",
+            "メーカー公開仕様で約530kg"
+          ]
         },
         {
           "id": "4",
-          "columns": ["<strong>窓下枠の高さ</strong>", "床面から約85cm"]
+          "columns": [
+            "<strong>窓下枠の高さ</strong>",
+            "床面から約85cm"
+          ]
         },
         {
           "id": "5",
@@ -39,7 +54,10 @@
         },
         {
           "id": "6",
-          "columns": ["<strong>作業時間</strong>", "準備・搬出・積み込みまで約5時間"]
+          "columns": [
+            "<strong>作業時間</strong>",
+            "準備・搬出・積み込みまで約5時間"
+          ]
         }
       ],
       "bottomDescription": ""
@@ -49,7 +67,11 @@
       "type": "table",
       "title": "今回買取した製パン機械・包装機械",
       "topDescription": "今回買取した機械は、次の4台です。",
-      "headers": ["機械名", "メーカー・型式", "用途・参考仕様"],
+      "headers": [
+        "機械名",
+        "メーカー・型式",
+        "用途・参考仕様"
+      ],
       "rows": [
         {
           "id": "1",
@@ -103,8 +125,10 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_13.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_15.jpeg"
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_2.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_3.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_4.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_5.jpeg"
       ]
     },
     {
@@ -115,9 +139,10 @@
       "topDescription": "今回搬出した機械の中で最も重量があったのは、愛工舎製作所のスパイラルミキサーEM80Pです。\nメーカー公開仕様では重量が約530kgあるため、人力だけで持ち上げたり、無理に移動させたりすることはできません。\n現場の床、窓の高さ、室内の作業スペースに合わせて、専用のリフト、台座、保護材などを準備しました。\n機械を持ち上げる際は、急な傾きや重心の移動による転倒を防ぎながら、少しずつ窓の位置へ移動させています。",
       "items": [],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_2.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_3.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_4.jpeg"
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_1.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_9.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_10.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_11.jpeg"
       ]
     },
     {
@@ -127,15 +152,42 @@
       "title": "搬出前に確認したポイント",
       "topDescription": "大型機械の搬出では、作業当日だけでなく、事前の現場確認が重要です。\n今回は主に次の点を確認しました。",
       "items": [
-        { "id": "1", "title": "各機械のメーカー、型式、寸法、重量" },
-        { "id": "2", "title": "機械の重心と吊り上げ位置" },
-        { "id": "3", "title": "窓の幅、高さ、下枠の位置" },
-        { "id": "4", "title": "機械から窓までの室内搬送経路" },
-        { "id": "5", "title": "床、壁、窓枠の養生方法" },
-        { "id": "6", "title": "室内でリフトや台座を設置できるスペース" },
-        { "id": "7", "title": "クレーン車の進入経路と設置位置" },
-        { "id": "8", "title": "建物周辺の作業スペースと安全確保" },
-        { "id": "9", "title": "トラックへの積み込み順序" }
+        {
+          "id": "1",
+          "title": "各機械のメーカー、型式、寸法、重量"
+        },
+        {
+          "id": "2",
+          "title": "機械の重心と吊り上げ位置"
+        },
+        {
+          "id": "3",
+          "title": "窓の幅、高さ、下枠の位置"
+        },
+        {
+          "id": "4",
+          "title": "機械から窓までの室内搬送経路"
+        },
+        {
+          "id": "5",
+          "title": "床、壁、窓枠の養生方法"
+        },
+        {
+          "id": "6",
+          "title": "室内でリフトや台座を設置できるスペース"
+        },
+        {
+          "id": "7",
+          "title": "クレーン車の進入経路と設置位置"
+        },
+        {
+          "id": "8",
+          "title": "建物周辺の作業スペースと安全確保"
+        },
+        {
+          "id": "9",
+          "title": "トラックへの積み込み順序"
+        }
       ],
       "bottomDescription": "重量物は、持ち上げることができても、重心がずれると急に傾いたり回転したりする可能性があります。\nそのため、機械ごとに吊り位置を確認し、室内と屋外の作業員で合図を統一したうえで作業を進めました。"
     },
@@ -147,12 +199,9 @@
       "topDescription": "機械を窓の高さまで移動させた後、状態と重心を確認しながら吊り具を取り付けました。\n吊り上げ時には、機械が窓枠や外壁へ接触しないよう、室内側からロープで向きや揺れを調整します。\n窓の外へ出した機械は、吊り荷の下や周辺へ人が入らないよう作業範囲を確保し、クレーンでゆっくりと地上へ降ろしました。\n地上では機械を安定した状態で受け、そのままトラックへ積み込みます。\n室内での移動、クレーン操作、合図・誘導、地上での荷受け、トラックへの積み込みを連携して行うことで、安全かつスムーズな搬出が可能になります。",
       "items": [],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_1.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_5.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_6.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_7.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_8.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_9.jpeg"
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_8.jpeg"
       ]
     },
     {
@@ -162,15 +211,27 @@
       "title": "約5時間で4台の搬出・積み込みを完了",
       "topDescription": "今回の作業は、現場の養生や搬出準備から、4台すべての搬出・積み込み完了まで約5時間でした。",
       "items": [
-        { "id": "1", "title": "ミキサー EM80P" },
-        { "id": "2", "title": "分割丸目機" },
-        { "id": "3", "title": "シュリンクトンネル IST-770EF" },
-        { "id": "4", "title": "包装機 SL-310G" }
+        {
+          "id": "1",
+          "title": "ミキサー EM80P"
+        },
+        {
+          "id": "2",
+          "title": "分割丸目機"
+        },
+        {
+          "id": "3",
+          "title": "シュリンクトンネル IST-770EF"
+        },
+        {
+          "id": "4",
+          "title": "包装機 SL-310G"
+        }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_10.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_11.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_12.jpeg"
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_12.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_15.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_13.jpeg"
       ],
       "bottomDescription": "以上の4台を2階の窓から搬出し、機械や建物に大きな傷や損傷を与えることなく、すべての作業を無事に完了しました。\n階段や通常の出入口を使用できない現場でも、機械の重量・寸法、設置状況、建物の構造、クレーン車の設置条件を事前に確認することで、現場に合った搬出方法をご提案できます。"
     },
@@ -181,15 +242,42 @@
       "title": "製パン機械・包装機械の主な査定ポイント",
       "topDescription": "製パン機械や包装機械の査定では、次のような情報を確認します。",
       "items": [
-        { "id": "1", "title": "メーカー名と型式" },
-        { "id": "2", "title": "製造年" },
-        { "id": "3", "title": "通電・動作確認の可否" },
-        { "id": "4", "title": "外観、サビ、汚れの状態" },
-        { "id": "5", "title": "メンテナンスや修理の履歴" },
-        { "id": "6", "title": "取扱説明書、工具、交換部品の有無" },
-        { "id": "7", "title": "ボウル、プレート、コンベアなど付属品の有無" },
-        { "id": "8", "title": "中古市場での需要" },
-        { "id": "9", "title": "設置場所と搬出条件" }
+        {
+          "id": "1",
+          "title": "メーカー名と型式"
+        },
+        {
+          "id": "2",
+          "title": "製造年"
+        },
+        {
+          "id": "3",
+          "title": "通電・動作確認の可否"
+        },
+        {
+          "id": "4",
+          "title": "外観、サビ、汚れの状態"
+        },
+        {
+          "id": "5",
+          "title": "メンテナンスや修理の履歴"
+        },
+        {
+          "id": "6",
+          "title": "取扱説明書、工具、交換部品の有無"
+        },
+        {
+          "id": "7",
+          "title": "ボウル、プレート、コンベアなど付属品の有無"
+        },
+        {
+          "id": "8",
+          "title": "中古市場での需要"
+        },
+        {
+          "id": "9",
+          "title": "設置場所と搬出条件"
+        }
       ],
       "bottomDescription": "古い機械や動作確認ができない機械でも、メーカー、型式、状態、部品需要などによっては買取できる場合があります。\n処分を決める前に、まずは銘板と機械全体の写真をお送りください。"
     },
@@ -200,15 +288,42 @@
       "title": "写真査定でお送りいただきたいもの",
       "topDescription": "写真査定をご希望の場合は、次の写真があると、査定と搬出方法の確認がスムーズです。",
       "items": [
-        { "id": "1", "title": "機械全体が分かる写真" },
-        { "id": "2", "title": "メーカー名・型式・製造年が記載された銘板" },
-        { "id": "3", "title": "操作パネルと電源部分" },
-        { "id": "4", "title": "ボウル、コンベア、専用工具などの付属品" },
-        { "id": "5", "title": "機械の前後左右" },
-        { "id": "6", "title": "設置場所から搬出口までの通路" },
-        { "id": "7", "title": "階段、ドア、窓など搬出口の写真" },
-        { "id": "8", "title": "窓の幅、高さ、床から下枠までの高さ" },
-        { "id": "9", "title": "建物外側とクレーン車を設置できる場所" }
+        {
+          "id": "1",
+          "title": "機械全体が分かる写真"
+        },
+        {
+          "id": "2",
+          "title": "メーカー名・型式・製造年が記載された銘板"
+        },
+        {
+          "id": "3",
+          "title": "操作パネルと電源部分"
+        },
+        {
+          "id": "4",
+          "title": "ボウル、コンベア、専用工具などの付属品"
+        },
+        {
+          "id": "5",
+          "title": "機械の前後左右"
+        },
+        {
+          "id": "6",
+          "title": "設置場所から搬出口までの通路"
+        },
+        {
+          "id": "7",
+          "title": "階段、ドア、窓など搬出口の写真"
+        },
+        {
+          "id": "8",
+          "title": "窓の幅、高さ、床から下枠までの高さ"
+        },
+        {
+          "id": "9",
+          "title": "建物外側とクレーン車を設置できる場所"
+        }
       ],
       "bottomDescription": "写真だけで搬出方法を確定できない場合は、必要に応じて現地の状況を確認します。"
     },
