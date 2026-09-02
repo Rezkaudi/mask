@@ -85,8 +85,8 @@
           "id": "2",
           "columns": [
             "<strong>分割丸目機</strong>",
-            "型式は現物確認",
-            "パン生地を一定量に分割し、丸く成形する工程で使用"
+            "全自動分割丸目機 DR-ROBOT2 (TOKURA)",
+            "パン生地を一定量に分割し、丸く成形する工程で使用。外形寸法W655×D655×H1700mm、重量約380kg"
           ]
         },
         {
@@ -125,8 +125,6 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_2.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_3.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_4.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_5.jpeg"
       ]
@@ -199,6 +197,8 @@
       "topDescription": "機械を窓の高さまで移動させた後、状態と重心を確認しながら吊り具を取り付けました。\n吊り上げ時には、機械が窓枠や外壁へ接触しないよう、室内側からロープで向きや揺れを調整します。\n窓の外へ出した機械は、吊り荷の下や周辺へ人が入らないよう作業範囲を確保し、クレーンでゆっくりと地上へ降ろしました。\n地上では機械を安定した状態で受け、そのままトラックへ積み込みます。\n室内での移動、クレーン操作、合図・誘導、地上での荷受け、トラックへの積み込みを連携して行うことで、安全かつスムーズな搬出が可能になります。",
       "items": [],
       "sectionImages": [
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_12.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_15.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_6.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_7.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_8.jpeg"
@@ -229,8 +229,9 @@
         }
       ],
       "sectionImages": [
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_12.jpeg",
-        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_15.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_1.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_2.jpeg",
+        "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_3.jpeg",
         "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/2%E9%9A%8E%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E8%A3%BD%E3%83%91%E3%83%B3%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%8C%85%E8%A3%85%E6%A9%9F%E3%82%92%E6%90%AC%E5%87%BA%E3%83%BB%E8%B2%B7%E5%8F%96%EF%BD%9C%E9%87%8D%E9%87%8F%E7%B4%84530kg%E3%81%AE%E5%A4%A7%E5%9E%8B%E6%A9%9F%E6%A2%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C/blog38_13.jpeg"
       ],
       "bottomDescription": "以上の4台を2階の窓から搬出し、機械や建物に大きな傷や損傷を与えることなく、すべての作業を無事に完了しました。\n階段や通常の出入口を使用できない現場でも、機械の重量・寸法、設置状況、建物の構造、クレーン車の設置条件を事前に確認することで、現場に合った搬出方法をご提案できます。"
