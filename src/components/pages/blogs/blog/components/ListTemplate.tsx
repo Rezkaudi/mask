@@ -194,7 +194,10 @@ const ListTemplate: React.FC<IListTemplate> = ({ content, sectionNumber }) => {
                               >
                                 <Image
                                   src={image.src}
-                                  alt={`${item.title ? stripHtml(item.title) : "Section illustration"} - Image ${imgIndex + 1}`}
+                                  alt={
+                                    image.alt ||
+                                    `${item.title ? stripHtml(item.title) : "Section illustration"} - Image ${imgIndex + 1}`
+                                  }
                                   width={796}
                                   height={434}
                                   className="w-full h-full object-contain rounded-[12px]"
