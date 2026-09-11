@@ -2,7 +2,7 @@
   "id": "10",
   "title": "汎用旋盤買取ならハディズ｜査定無料・取り外し対応・搬出までお任せ",
   "oldTitles": ["汎用旋盤を高く売るには？失敗しない買取業者選びのポイント"],
-  "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E3%82%92%E9%AB%98%E3%81%8F%E5%A3%B2%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E9%81%B8%E3%81%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/main10.png",
+  "imageSrc": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/main10.png",
   "metaTitle": "汎用旋盤買取ならハディズ｜査定無料・取り外し・搬出まで対応",
   "metaDescription": "汎用旋盤・NC旋盤の買取ならハディズへ。査定は無料で、取り外し・搬出までご相談いただけます。古い旋盤や動かない旋盤も、写真とメーカー・型式・動作状況から買取金額をご案内します。",
   "description": "汎用旋盤・NC旋盤の買取ならハディズへ。<strong>査定無料</strong>で、取り外し・搬出までご相談いただけます。\n設備更新や工場の閉鎖に伴い、使わなくなった旋盤はありませんか？古い機械や長年使用した旋盤でも、<strong>状態や機種によっては買取できる場合があります</strong>。\n「処分するしかない」と決める前に、まずは<strong>写真で無料査定</strong>。メーカー・型式・動作状況を確認し、買取金額をご案内します。",
@@ -13,50 +13,54 @@
       "type": "list",
       "listType": "dot",
       "title": "汎用旋盤をはじめ、各種旋盤を買取しています",
-      "topDescription": "手動の汎用旋盤からNC旋盤、小型・大型の旋盤まで幅広くご相談いただけます。",
+      "topDescription": "手動の汎用旋盤からNC旋盤、小型・大型の旋盤まで幅広くご相談いただけます。\n以下の写真は、<strong>ハディズが実際に買取・搬出した旋盤</strong>の一例です。設置されたままの状態から査定していますので、ご自身で移動や清掃をしていただく必要はありません。",
       "items": [
         {
           "id": "1",
           "title": "<strong>汎用旋盤・普通旋盤</strong>",
-          "description": "ハンドル操作で加工する一般的な旋盤です。試作・修理・少量生産などで使われていた機械も、<strong>メーカーや年式を問わず</strong>ご相談ください。",
+          "description": "ハンドル操作で加工する一般的な旋盤です。滝澤鉄工所（TAKISAWA）・森精機（MORISEIKI）・豊和産業（HOWA）・ヱグロ（EGURO）など、<strong>メーカーや年式を問わず</strong>ご相談ください。試作・修理・少量生産に使われていた機械も査定対象です。",
           "images": [
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(3).png",
-              "alt": "ハンドル操作で加工する汎用旋盤・普通旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_8.jpeg",
+              "alt": "豊和産業（HOWA SANGYO）の汎用旋盤。工場に設置されたままの状態"
             },
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(4).png",
-              "alt": "ベッドと往復台を備えた汎用旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_9.jpeg",
+              "alt": "ヱグロ（EGURO）の汎用旋盤。作業場に据え付けられた状態"
             },
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(5).png",
-              "alt": "主軸台と心押し台を備えた汎用旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_15.jpeg",
+              "alt": "滝澤鉄工所（TAKISAWA）の汎用旋盤。長年使用された普通旋盤"
             },
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(6).png",
-              "alt": "チャックカバーを備えた汎用旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_13.jpeg",
+              "alt": "森精機（MORISEIKI）の汎用旋盤。チャックと心押し台を備えた普通旋盤"
             }
           ]
         },
         {
           "id": "2",
           "title": "<strong>NC旋盤・CNC旋盤</strong>",
-          "description": "プログラム制御で加工する旋盤も査定対象です。メーカー・型式に加え、<strong>制御装置や動作状況</strong>などを確認して評価します。",
+          "description": "プログラム制御で加工する旋盤も査定対象です。メーカー・型式に加え、<strong>制御装置や動作状況</strong>などを確認して評価します。重量のある機械は、クレーンで吊り上げて搬出します。",
           "images": [
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4.png",
-              "alt": "操作パネルを備えたNC旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_5.jpeg",
+              "alt": "ミヤノ（MIYANO）BND-34CのNC旋盤をチェーンで吊り上げて搬出する様子"
             }
           ]
         },
         {
           "id": "3",
           "title": "<strong>卓上旋盤・小型旋盤</strong>",
-          "description": "小さな部品の加工に使われる卓上旋盤や小型旋盤も対応。工場や作業場で使わなくなった機械をご相談ください。",
+          "description": "小さな部品の加工に使われる卓上旋盤や小型精密旋盤も対応。<strong>架台付きのまま</strong>吊り上げて搬出できますので、工場や作業場で使わなくなった機械をご相談ください。",
           "images": [
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/cameraImagesGallery/SAKAI%E2%98%85%E5%B0%8F%E5%9E%8B%E5%8D%93%E4%B8%8A%E6%97%8B%E7%9B%A4%E2%98%85ML-360.jpg",
-              "alt": "作業台に設置された卓上旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_7.jpeg",
+              "alt": "長谷川機械製作所（HASEGAWA）TYPE-WHNの小型精密旋盤"
+            },
+            {
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_4.jpeg",
+              "alt": "ユニック車で吊り上げた架台付きの小型旋盤をトラックへ積み込む様子"
             }
           ]
         },
@@ -68,15 +72,15 @@
         {
           "id": "5",
           "title": "<strong>大型旋盤・長尺旋盤</strong>",
-          "description": "芯間の長い旋盤や、大径加工に使う大型旋盤も査定いたします。<strong>重量物の取り外し・搬出</strong>も、現場の状況に合わせて対応します。",
+          "description": "芯間の長い旋盤や、大径加工に使う大型旋盤も査定いたします。<strong>重量物の取り外し・搬出</strong>も、設置場所や搬出経路に合わせて対応します。",
           "images": [
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(7).png",
-              "alt": "長いベッドを備えた大型旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_10.jpeg",
+              "alt": "ヤマザキ（YAMAZAKI）の長尺旋盤。芯間の長いベッドを備えた大型旋盤"
             },
             {
-              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/webImagesGallery/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4(2).png",
-              "alt": "大径加工に対応する大型NC旋盤"
+              "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_14.jpeg",
+              "alt": "極東（KYOKUTO）DYNA-2000の長尺旋盤。工場内に設置された状態"
             }
           ]
         },
@@ -86,7 +90,7 @@
           "description": "タレット旋盤など、上記以外の旋盤もご相談ください。「種類が分からない」という場合も、<strong>機械全体と銘板の写真</strong>から確認いたします。"
         }
       ],
-      "bottomDescription": "<strong>主な査定対象メーカー</strong>\n滝澤鉄工所（TAKISAWA）、オークマ、森精機・DMG森精機、ヤマザキマザック、池貝、ワシノなど。\n上記以外のメーカーや、古いメーカー名が記載された機械もご相談いただけます。メーカー・年式だけで判断せず、<strong>機械の状態を確認して査定します</strong>。"
+      "bottomDescription": "<strong>主な査定対象メーカー</strong>\n滝澤鉄工所（TAKISAWA）、オークマ、森精機・DMG森精機、ヤマザキマザック、池貝、ワシノ、ヱグロ、豊和産業、長谷川機械製作所、ミヤノなど。\n上記以外のメーカーや、古いメーカー名が記載された機械もご相談いただけます。メーカー・年式だけで判断せず、<strong>機械の状態を確認して査定します</strong>。"
     },
     {
       "id": "2",
@@ -103,32 +107,38 @@
         {
           "id": "2",
           "title": "<strong>取り外し・撤去に対応</strong>",
-          "description": "設備更新や工場整理に伴う旋盤の取り外し・撤去も、現場の状況に合わせてご案内します。"
+          "description": "設備更新や工場整理に伴う旋盤の取り外し・撤去も、現場の状況に合わせてご案内します。<strong>アンカーの切り離しからローラーでの移動まで</strong>、作業は当社スタッフが行います。"
         },
         {
           "id": "3",
           "title": "<strong>重量物の搬出もご相談可能</strong>",
-          "description": "大型旋盤やNC旋盤も、<strong>設置場所・搬出経路</strong>を確認し、必要な機材や作業方法を検討します。"
+          "description": "大型旋盤やNC旋盤も、<strong>設置場所・搬出経路</strong>を確認し、ユニック車・フォークリフト・チェーンブロックなど必要な機材や作業方法を検討します。"
+        },
+        {
+          "id": "4",
+          "title": "<strong>間口が狭い現場・住宅地の工場も対応</strong>",
+          "description": "シャッター前まで機械を出せない現場や、トラックを横付けしにくい住宅地の工場でも、<strong>事前に搬出経路を確認したうえで</strong>作業方法をご提案します。"
         }
       ],
       "sectionImages": [
         {
-          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E3%82%92%E9%AB%98%E3%81%8F%E5%A3%B2%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E9%81%B8%E3%81%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/blog10_1.jpeg",
-          "alt": "ハディズによる機械の搬出作業"
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_6.jpeg",
+          "alt": "作業場から汎用旋盤を運び出す取り外し作業"
         },
         {
-          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E3%82%92%E9%AB%98%E3%81%8F%E5%A3%B2%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E9%81%B8%E3%81%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/blog10_3.jpeg",
-          "alt": "トラックへ積み込んだ買取機械"
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_1.jpeg",
+          "alt": "ユニック車とフォークリフトによる旋盤の吊り上げ準備"
         },
         {
-          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E3%82%92%E9%AB%98%E3%81%8F%E5%A3%B2%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E9%81%B8%E3%81%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/blog10_4.jpeg",
-          "alt": "買取した汎用旋盤とフライス盤をトラックに積み込んだ搬出の様子"
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_3.jpeg",
+          "alt": "汎用旋盤とフライス盤をまとめてトラックへ積み込んだ搬出"
         },
         {
-          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E3%82%92%E9%AB%98%E3%81%8F%E5%A3%B2%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E8%B2%B7%E5%8F%96%E6%A5%AD%E8%80%85%E9%81%B8%E3%81%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/blog10_2.jpeg",
-          "alt": "ユニック車のクレーンで積み込み、ベルトで固定した架台付き小型旋盤"
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_2.jpeg",
+          "alt": "池貝（IKEGAI）ED-18の汎用旋盤を積載したトラック"
         }
       ],
+      "imagesNote": "掲載写真は、ハディズが実際に対応した取り外し・搬出作業の一例です。",
       "bottomDescription": "出張・取り外し・搬出に関する条件や費用は、<strong>お見積もり時にご案内します</strong>。"
     },
     {
@@ -146,12 +156,12 @@
         {
           "id": "2",
           "title": "<strong>無理のない範囲で清掃する</strong>",
-          "description": "機械を停止し、電源を切ったうえで、安全に手の届く範囲のホコリや油汚れを拭き取りましょう。状態が確認しやすくなります。査定のために<strong>無理な分解や修理をする必要はありません</strong>。"
+          "description": "機械を停止し、電源を切ったうえで、安全に手の届く範囲のホコリや油汚れを拭き取りましょう。状態が確認しやすくなります。切粉が残ったままでも査定できますので、<strong>無理な分解や修理をする必要はありません</strong>。"
         },
         {
           "id": "3",
           "title": "<strong>付属品・整備記録を揃える</strong>",
-          "description": "チャック・センター・工具・取扱説明書などがあれば、まとめてご提示ください。修理や部品交換、定期的なメンテナンスの記録も<strong>確認資料になります</strong>。"
+          "description": "チャック・センター・振れ止め・バイト・取扱説明書などがあれば、まとめてご提示ください。修理や部品交換、定期的なメンテナンスの記録も<strong>確認資料になります</strong>。"
         },
         {
           "id": "4",
@@ -161,10 +171,16 @@
       ],
       "sectionImages": [
         {
-          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/products/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%83%BB%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4/cameraImagesGallery/Mr.Meister%E2%98%85%E7%84%A1%E6%AE%B5%E5%A4%89%E9%80%9F%20%E5%B0%8F%E5%9E%8B%E5%8D%93%E4%B8%8A%E6%97%8B%E7%9B%A4%E2%98%85TA-350A.jpg",
-          "alt": "旋盤の査定に必要な全体・銘板・付属品の写真例"
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_12.jpeg",
+          "alt": "ヤマザキマザック Mazak-860。機名・型式が確認できる汎用旋盤"
+        },
+        {
+          "src": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/blogs/%E6%B1%8E%E7%94%A8%E6%97%8B%E7%9B%A4%E8%B2%B7%E5%8F%96%E3%81%AA%E3%82%89%E3%83%8F%E3%83%87%E3%82%A3%E3%82%BA%EF%BD%9C%E6%9F%BB%E5%AE%9A%E7%84%A1%E6%96%99%E3%83%BB%E5%8F%96%E3%82%8A%E5%A4%96%E3%81%97%E5%AF%BE%E5%BF%9C%E3%83%BB%E6%90%AC%E5%87%BA%E3%81%BE%E3%81%A7%E3%81%8A%E4%BB%BB%E3%81%9B/blog10_11.jpeg",
+          "alt": "切粉が残ったままの汎用旋盤。現状のままで査定できます"
         }
-      ]    },
+      ],
+      "imagesNote": "査定に必要なのは、<strong>機械全体・銘板（メーカー名と型式）・付属品・設置場所</strong>が分かる写真です。撮影のために機械を動かしたり、分解したりする必要はありません。"
+    },
     {
       "id": "4",
       "type": "list",
@@ -197,7 +213,7 @@
       "id": "5",
       "type": "simple",
       "title": "旋盤以外の工作機械・工場設備もまとめて査定",
-      "description": "ハディズでは、<strong>旋盤以外の中古産業機械</strong>も買取しています。\nフライス盤・ボール盤・コンプレッサー・バンドソー・ベンダー・シャーリングなど、工場内のほかの機械もまとめてご相談ください。\n工場の閉鎖・移転・設備更新に伴う<strong>一括売却</strong>にも対応します。不要な設備を整理することで、スペースの確保や機械の再利用につながります。"
+      "description": "ハディズでは、<strong>旋盤以外の中古産業機械</strong>も買取しています。\nフライス盤・ボール盤・コンプレッサー・バンドソー・ベンダー・シャーリングなど、工場内のほかの機械もまとめてご相談ください。実際に、<strong>汎用旋盤とフライス盤を同じ現場から一度に引き取った事例</strong>もございます。\n工場の閉鎖・移転・設備更新に伴う<strong>一括売却</strong>にも対応します。不要な設備を整理することで、スペースの確保や機械の再利用につながります。"
     },
     {
       "id": "6",
@@ -223,6 +239,16 @@
           "id": "4",
           "question": "出張費や搬出費はかかりますか？",
           "answer": "査定は無料です。出張や搬出に関する条件・費用の有無は、機械の所在地や設置状況を確認し、お見積もり時にご案内します。"
+        },
+        {
+          "id": "5",
+          "question": "切粉や油汚れが付いたままでも査定してもらえますか？",
+          "answer": "そのままの状態で問題ありません。安全に手の届く範囲を拭き取っていただけると状態を確認しやすくなりますが、査定のために分解や本格的な清掃を行っていただく必要はありません。"
+        },
+        {
+          "id": "6",
+          "question": "旋盤の取り外しや搬出もお願いできますか？",
+          "answer": "取り外しから搬出まで、当社スタッフが対応します。大型旋盤やNC旋盤はユニック車・フォークリフト・チェーンブロックなどを使用しますので、設置場所と搬出経路が分かる写真をあわせてお送りください。"
         }
       ]
     },
