@@ -46,6 +46,7 @@ import product45 from './自動車整備機械/ヒーター(塗装用乾燥機).
 import product46 from './工作機械・精密加工機械/フライス盤.json';
 import product47 from './金属加工機械・板金機械/三本ロール.json';
 import product48 from './金属加工機械・板金機械/メタルソー.json';
+import product49 from './管工事機械・工具/バンドソー.json';
 
 
 const products = [
@@ -97,6 +98,7 @@ const products = [
   product46,
   product47,
   product48,
+  product49
 ]
 
 export default products
