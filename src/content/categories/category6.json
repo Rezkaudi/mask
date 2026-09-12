@@ -29,21 +29,21 @@
     },
     {
       "id": 5,
-      "title": "アルミ矢板 ",
-      "category": "管工事機械・工具",
-      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/items/%E3%82%A2%E3%83%AB%E3%83%9F%E7%9F%A2%E6%9D%BF%20.png"
-    },
-    {
-      "id": 6,
       "title": "キールカッター",
       "category": "管工事機械・工具",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/items/%E3%82%AD%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC.png"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "バンドソー",
       "category": "管工事機械・工具",
       "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/items/%E3%83%90%E3%83%B3%E3%83%89%E3%82%BD%E3%83%BC.png"
+    },
+    {
+      "id": 7,
+      "title": "アルミ矢板 ",
+      "category": "管工事機械・工具",
+      "image": "https://mac-hadis.s3.ap-northeast-1.amazonaws.com/categories/%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%B7%A5%E5%85%B7/items/%E3%82%A2%E3%83%AB%E3%83%9F%E7%9F%A2%E6%9D%BF%20.png"
     },
     {
       "id": 8,
